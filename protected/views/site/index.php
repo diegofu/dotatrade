@@ -10,4 +10,6 @@
 	
 	// echo "</pre>";
 
+echo Yii::app()->request->getBaseUrl(true);
+
 ?>

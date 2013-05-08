@@ -64228,9 +64228,9 @@
 			{
 				"preview":
 				{
-					"PortraitPosition":"355.392761 12.305215 88.230057",
-					"PortraitLookAt":"5.590607 -177.687378 0.000000",
-					"PortraitFOV":"21.646194",
+					"PortraitPosition":"600.000000 -48.000000 98.000000",
+					"PortraitLookAt":"357.600006 175.899994 0.000000",
+					"PortraitFOV":"29.000000",
 					"PortraitFar":"1000.000000",
 					"PortraitLightPosition":"276.429993 -18.010000 333.350006",
 					"PortraitLightLookAt":"33.889999 183.929993 0.000000",
@@ -64259,9 +64259,9 @@
 				},
 				"preview_flying":
 				{
-					"PortraitPosition":"355.392761 12.305215 88.230057",
-					"PortraitLookAt":"5.590607 -177.687378 0.000000",
-					"PortraitFOV":"21.646194",
+					"PortraitPosition":"600.000000 -48.000000 48.000000",
+					"PortraitLookAt":"357.600006 175.899994 0.000000",
+					"PortraitFOV":"29.000000",
 					"PortraitFar":"1000.000000",
 					"PortraitLightPosition":"276.429993 -18.010000 333.350006",
 					"PortraitLightLookAt":"33.889999 183.929993 0.000000",
@@ -64320,7 +64320,9 @@
 			},
 			"item_type_name":"#DOTA_WearableType_International_Courier",
 			"item_name":"#DOTA_Item_Smeevil",
-			"item_rarity":"immortal",
+			"item_rarity":"legendary",
+			"item_quality":"genuine",
+			"forced_item_quality":"genuine",
 			"item_description":"#DOTA_Item_Desc_Smeevil",
 			"image_inventory":"econ/courier/smeevil/smeevil",
 			"creation_date":"2013-05-02",
@@ -68518,7 +68520,7 @@
 		},
 		"15162":
 		{
-			"name":"International 2013 Interactive Compendium",
+			"name":"The International 2013 Interactive Compendium",
 			"prefab":"tool",
 			"item_type_name":"#DOTA_WearableType_Tournament_Compendium",
 			"item_name":"#DOTA_Item_International_2013_Interactive_Compendium",
@@ -68552,11 +68554,10 @@
 		},
 		"15163":
 		{
-			"name":"International 2013 Battle Bonus",
+			"name":"The International 2013 Battle Bonus",
 			"prefab":"tool",
 			"item_type_name":"#DOTA_WearableType_Battle_Bonus",
 			"item_name":"#DOTA_Item_International_2013_Battle_Bonus",
-			"item_rarity":"rare",
 			"tool":
 			{
 				"type":"fortunate_soul",
@@ -68582,7 +68583,8 @@
 					"value":"1"
 				}
 			},
-			"creation_date":"2013-05-06"
+			"creation_date":"2013-05-06",
+			"item_rarity":"ancient"
 		},
 		"20000":
 		{
@@ -77098,6 +77100,21 @@
 					"PortraitAnimationRate":"0.000000",
 					"PortraitHideHero":"1"
 				}
+			}
+		},
+		"20169":
+		{
+			"name":"The International 2013 Interactive Compendium Bundle",
+			"prefab":"bundle",
+			"item_name":"#DOTA_Item_The_International_2013_Interactive_Compendium_Bundle",
+			"item_rarity":"legendary",
+			"item_description":"#DOTA_Item_Desc_The_International_2013_Interactive_Compendium_Bundle",
+			"image_inventory":"econ/tools/international_companion",
+			"creation_date":"2013-05-08",
+			"bundle":
+			{
+				"The International 2013 Interactive Compendium":"1",
+				"The International 2013 Battle Bonus":"1"
 			}
 		}
 	},

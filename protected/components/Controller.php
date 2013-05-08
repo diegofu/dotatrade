@@ -25,12 +25,12 @@ class Controller extends CController
 		$api = APIKEY();
 
 	
-	    $openid = new LightOpenID("localhost");
+	    $openid = new LightOpenID(Yii::app()->request->getBaseUrl(true));
 	    
 	    if(!$openid->mode) {
 	    	if(isset($_GET['login'])) {
 	    		$openid->identity = "http://steamcommunity.com/openid";
-	    		$openid->returnUrl = "http://".$_SERVER['HTTP_HOST']."/site/redirect";
+	    		$openid->returnUrl = Yii::app()->request->getBaseUrl(true)."/site/redirect";
 	        	header("Location: " . $openid->authUrl());
 	    	}
 
@@ -121,15 +121,21 @@ class Controller extends CController
 		$backpack = getBackPack($steamID)['result'];
 		
 		foreach($backpack['items'] as $item) {
+			$item = Items::model()->findByPK($item['defindex']);
+			if(empty($item)) {
+				continue;
+				//TODO: send a notificication to admins
+			}
 			$criteria = new CDbCriteria();
 			$playerItem = PlayerItems::model()->findByPK($item['id']);
-			if($playerItem == NULL) $playerItem = new PlayerItems();
+			if(empty($playerItem)) $playerItem = new PlayerItems();
 			$playerItem->attributes = $item;
 			$playerItem->equipped = array_key_exists('equipped', $item) ? 1 : 0;
 			$playerItem->player_id = $steamID;
+			var_dump($playerItem->attributes);
+			exit;
 			if(!$playerItem->save()) {
-				var_dump($playerItem->getErrors());
-				return NULL;
+				$this->redirect(array('index', 'error'=>$steamID));
 			}
 		}
 		$crit = new CDbCriteria();

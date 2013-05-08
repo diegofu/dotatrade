@@ -158,50 +158,6 @@ class ItemSetsController extends Controller
 		return $model;
 	}
 
-	/*
-	[0] => Array
-        (
-            [item_set] => alchemy_essentials
-            [name] => #DOTA_Set_Alchemy_Essentials
-            [store_bundle] => Alchemy Essentials Set
-            [items] => Array
-                (
-                    [0] => Assistant's Respirator
-                    [1] => Assistant's Cutter
-                    [2] => Assistant's Blades of Scientific Inquiry
-                    [3] => Experimentalist's Laboratory Essentials
-                    [4] => Experimentalist's Goggles
-                    [5] => Experimentalist's Unstable Flask
-                    [6] => Assistant's Muscle Pump
-                )
-
-        )
-    */
-	public function JSON_to_database($json = NULL) {
-		if($json == NULL) $json = getSchema()['result']['item_sets'];
-		foreach($json as $number=>$info) {
-			$model = new ItemSets();
-			$model->item_set = $info['item_set'];
-			$model->name =$info['name'];
-			if(array_key_exists('store_bundle', $info)) $model->store_bundle = $info['store_bundle'];
-			if(!$model->save()) {
-				var_dump($model->getErrors());
-				exit;
-			}
-			foreach($info['items'] as $item) {
-				$item_model = new ItemSetItems();
-				$item_model->item_set = $info['item_set'];
-				$item_model->name = $item;
-				if(!$item_model->save()) {
-					var_dump($item_model->getErrors());
-					exit;
-				}
-			}
-			
-		}
-	}
-
-
 	/**
 	 * Performs the AJAX validation.
 	 * @param ItemSets $model the model to be validated

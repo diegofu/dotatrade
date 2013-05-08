@@ -46,7 +46,7 @@ class SiteController extends Controller
 
 	public function actionRedirect()
 	{
-		$this->redirect('/site/index');
+		$this->redirect(Yii::app()->request->getBaseUrl(true));
 	}
 
 	/**

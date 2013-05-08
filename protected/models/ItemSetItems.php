@@ -1,18 +1,22 @@
 <?php
 
 /**
- * This is the model class for table "{{item_set_items}}".
+ * This is the model class for table "{{itemset_items}}".
  *
- * The followings are the available columns in table '{{item_set_items}}':
- * @property string $item_set
- * @property string $name
+ * The followings are the available columns in table '{{itemset_items}}':
+ * @property integer $item_set_id
+ * @property integer $item_id
+ *
+ * The followings are the available model relations:
+ * @property ItemSets $itemSet
+ * @property Items $item
  */
-class ItemSetItems extends CActiveRecord
+class ItemsetItems extends CActiveRecord
 {
 	/**
 	 * Returns the static model of the specified AR class.
 	 * @param string $className active record class name.
-	 * @return ItemSetItems the static model class
+	 * @return ItemsetItems the static model class
 	 */
 	public static function model($className=__CLASS__)
 	{
@@ -24,7 +28,7 @@ class ItemSetItems extends CActiveRecord
 	 */
 	public function tableName()
 	{
-		return '{{item_set_items}}';
+		return '{{itemset_items}}';
 	}
 
 	/**
@@ -35,11 +39,11 @@ class ItemSetItems extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('item_set', 'required'),
-			array('item_set, name', 'length', 'max'=>128),
+			array('item_set_id, item_id', 'required'),
+			array('item_set_id, item_id', 'numerical', 'integerOnly'=>true),
 			// The following rule is used by search().
 			// Please remove those attributes that should not be searched.
-			array('item_set, name', 'safe', 'on'=>'search'),
+			array('item_set_id, item_id', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -51,6 +55,8 @@ class ItemSetItems extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
+			'itemSet' => array(self::BELONGS_TO, 'ItemSets', 'item_set_id'),
+			'item' => array(self::BELONGS_TO, 'Items', 'item_id'),
 		);
 	}
 
@@ -60,8 +66,8 @@ class ItemSetItems extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'item_set' => 'Item Set',
-			'name' => 'Name',
+			'item_set_id' => 'Item Set',
+			'item_id' => 'Item',
 		);
 	}
 
@@ -76,8 +82,8 @@ class ItemSetItems extends CActiveRecord
 
 		$criteria=new CDbCriteria;
 
-		$criteria->compare('item_set',$this->item_set,true);
-		$criteria->compare('name',$this->name,true);
+		$criteria->compare('item_set_id',$this->item_set_id);
+		$criteria->compare('item_id',$this->item_id);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,
