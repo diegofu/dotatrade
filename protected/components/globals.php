@@ -1,4 +1,5 @@
 <?
+
 	function APIKEY() {
 		return 'B31893E543D0CF87B9C54D0E417CB628';
 	}
@@ -41,9 +42,10 @@
 		return json_decode(file_get_contents(getPlayerSummaryURL($steamID)), true)['response']['players'][0];
 	}
 
-	function getHeroList($language = 'en-us') {
+	function getHeroList($language = 'en-us', $itemizedonly = 0) {
 		$api = APIKEY();
-		return json_decode(file_get_contents("http://api.steampowered.com/IEconDOTA2_570/GetHeroes/v1?key=$api&language=$language"), true)['result'];
+
+		return json_decode(file_get_contents("http://api.steampowered.com/IEconDOTA2_570/GetHeroes/v1?key=$api&language=$language&itemizedonly=$itemizedonly"), true)['result'];
 	}
 
 	/*

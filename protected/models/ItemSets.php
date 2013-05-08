@@ -4,12 +4,17 @@
  * This is the model class for table "{{item_sets}}".
  *
  * The followings are the available columns in table '{{item_sets}}':
- * @property string $item_set
+ * @property integer $id
  * @property string $name
- * @property string $store_bundle
+ * @property string $prefab
+ * @property string $item_type_name
+ * @property string $item_name
+ * @property string $item_rarity
+ * @property string $item_description
+ * @property string $item_set
  *
  * The followings are the available model relations:
- * @property Items[] $tblItems
+ * @property Prefabs $prefab0
  */
 class ItemSets extends CActiveRecord
 {
@@ -39,11 +44,12 @@ class ItemSets extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('item_set', 'required'),
-			array('item_set, name, store_bundle', 'length', 'max'=>128),
+			array('id, name', 'required'),
+			array('id', 'numerical', 'integerOnly'=>true),
+			array('name, prefab, item_type_name, item_name, item_rarity, item_description, item_set', 'length', 'max'=>128),
 			// The following rule is used by search().
 			// Please remove those attributes that should not be searched.
-			array('item_set, name, store_bundle', 'safe', 'on'=>'search'),
+			array('id, name, prefab, item_type_name, item_name, item_rarity, item_description, item_set', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -55,7 +61,7 @@ class ItemSets extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
-			'tblItems' => array(self::MANY_MANY, 'Items', '{{item_set_items}}(item_set, name)'),
+			'prefab0' => array(self::BELONGS_TO, 'Prefabs', 'prefab'),
 		);
 	}
 
@@ -65,9 +71,14 @@ class ItemSets extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'item_set' => 'Item Set',
+			'id' => 'ID',
 			'name' => 'Name',
-			'store_bundle' => 'Store Bundle',
+			'prefab' => 'Prefab',
+			'item_type_name' => 'Item Type Name',
+			'item_name' => 'Item Name',
+			'item_rarity' => 'Item Rarity',
+			'item_description' => 'Item Description',
+			'item_set' => 'Item Set',
 		);
 	}
 
@@ -82,9 +93,14 @@ class ItemSets extends CActiveRecord
 
 		$criteria=new CDbCriteria;
 
-		$criteria->compare('item_set',$this->item_set,true);
+		$criteria->compare('id',$this->id);
 		$criteria->compare('name',$this->name,true);
-		$criteria->compare('store_bundle',$this->store_bundle,true);
+		$criteria->compare('prefab',$this->prefab,true);
+		$criteria->compare('item_type_name',$this->item_type_name,true);
+		$criteria->compare('item_name',$this->item_name,true);
+		$criteria->compare('item_rarity',$this->item_rarity,true);
+		$criteria->compare('item_description',$this->item_description,true);
+		$criteria->compare('item_set',$this->item_set,true);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,

@@ -1,22 +1,25 @@
 <?php /* @var $this Controller */ ?>
 <?php $this->beginContent('//layouts/main'); ?>
-<div class="span-19">
+<div class="span-17">
 	<div id="content">
 		<?php echo $content; ?>
 	</div><!-- content -->
 </div>
-<div class="span-5 last">
+<div class="span-7 last">
 	<div id="sidebar">
-	<?php
-		$this->beginWidget('zii.widgets.CPortlet', array(
-			'title'=>'Operations',
-		));
-		$this->widget('zii.widgets.CMenu', array(
-			'items'=>$this->menu,
-			'htmlOptions'=>array('class'=>'operations'),
-		));
-		$this->endWidget();
-	?>
+	<? if(!Yii::app()->user->isGuest): ?>
+			<? $this->beginWidget('zii.widgets.Cportlet', array(
+				'title'=>'Operations',
+				)); ?>
+			<ul>
+				<li><?php echo CHtml::link('Update the Database',array('admin/updateDatabase')); ?></li>
+				<li><?php echo CHtml::link('View Items in Database',array('admin/viewItems')); ?></li>
+				<li><?php echo CHtml::link('View Heroes in Database',array('admin/viewHeroes')); ?></li>
+			</ul>
+
+			<? $this->endWidget(); ?>
+		
+	<? endif ?>
 	</div><!-- sidebar -->
 </div>
 <?php $this->endContent(); ?>

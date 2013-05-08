@@ -147,12 +147,17 @@ CREATE TABLE tbl_players (
     --             )
 
     --     )
-CREATE TABLE tbl_item_sets (
-    item_set VARCHAR(128) NOT NULL PRIMARY KEY,
-    name VARCHAR(128),
-    store_bundle VARCHAR(128),
+CREATE TABLE tbl_item_set (
+    id INTEGER NOT NULL PRIMARY KEY,
+    name VARCHAR(128) NOT NULL,
+    prefab VARCHAR(128),
+    item_type_name VARCHAR(128),
+    item_name VARCHAR(128),
+    item_rarity VARCHAR(128) DEFAULT 'common',
+    item_description VARCHAR(128),
+    item_set VARCHAR(128), 
+    FOREIGN KEY (prefab) REFERENCES tbl_prefabs(name),
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
-
 
 CREATE TABLE tbl_item_set_items (
     item_set VARCHAR(128) NOT NULL,
@@ -162,7 +167,11 @@ CREATE TABLE tbl_item_set_items (
     PRIMARY KEY (item_set, name)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
-
+CREATE TABLE tbl_APIKEY (
+    id INTEGER NOT NULL AUTO_INCREMENT,
+    APIKEY VARCHAR(128) NOT NULL, 
+    PRIMARY KEY (id)
+)
 
 
 

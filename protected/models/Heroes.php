@@ -1,20 +1,23 @@
 <?php
 
 /**
- * This is the model class for table "{{heros}}".
+ * This is the model class for table "{{heroes}}".
  *
- * The followings are the available columns in table '{{heros}}':
- * @property integer $id
+ * The followings are the available columns in table '{{heroes}}':
  * @property string $name
  * @property string $hero_id
  * @property string $localized_name
+ * @property integer $has_items
+ *
+ * The followings are the available model relations:
+ * @property ItemUsedHeroes[] $itemUsedHeroes
  */
 class Heroes extends CActiveRecord
 {
 	/**
 	 * Returns the static model of the specified AR class.
 	 * @param string $className active record class name.
-	 * @return Heros the static model class
+	 * @return Heroes the static model class
 	 */
 	public static function model($className=__CLASS__)
 	{
@@ -37,11 +40,12 @@ class Heroes extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('name, hero_id, localized_name', 'required'),
+			array('hero_id, localized_name', 'required'),
+			array('has_items', 'numerical', 'integerOnly'=>true),
 			array('name, hero_id, localized_name', 'length', 'max'=>128),
 			// The following rule is used by search().
 			// Please remove those attributes that should not be searched.
-			array('id, name, hero_id, localized_name', 'safe', 'on'=>'search'),
+			array('name, hero_id, localized_name, has_items', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -53,6 +57,7 @@ class Heroes extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
+			'itemUsedHeroes' => array(self::HAS_MANY, 'ItemUsedHeroes', 'hero_name'),
 		);
 	}
 
@@ -62,10 +67,10 @@ class Heroes extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'id' => 'ID',
 			'name' => 'Name',
 			'hero_id' => 'Hero',
 			'localized_name' => 'Localized Name',
+			'has_items' => 'Has Items',
 		);
 	}
 
@@ -80,10 +85,10 @@ class Heroes extends CActiveRecord
 
 		$criteria=new CDbCriteria;
 
-		$criteria->compare('id',$this->id);
 		$criteria->compare('name',$this->name,true);
 		$criteria->compare('hero_id',$this->hero_id,true);
 		$criteria->compare('localized_name',$this->localized_name,true);
+		$criteria->compare('has_items',$this->has_items);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,
