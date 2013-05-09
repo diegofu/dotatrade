@@ -6,7 +6,7 @@
 
 
 	function getBackPackURL($steamID) {
-		return "http://api.steampowered.com/IEconItems_570/GetPlayerItems/v0001/?key=".APIKEY()."&SteamID=" . $steamID . "&format=json";
+		return "http://api.steampowered.com/IEconItems_570/GetPlayerItems/v0001/?key=".APIKEY()."&SteamID=" . $steamID;
 	}
 
 	function getBackPack($steamID) {

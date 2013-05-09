@@ -71,7 +71,7 @@ class AdminController extends Controller
 
 			/****** rarities *******/
 			$rarities = $items_game['rarities'];
-			foreach($rarites as $rarity=>$rarityInfo) {
+			foreach($rarities as $rarity=>$rarityInfo) {
 				$model = Rarities::model()->findByPK($rarity);
 				if(empty($model)) {
 					$model = new Prefabs();

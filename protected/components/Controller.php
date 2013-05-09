@@ -85,7 +85,7 @@ class Controller extends CController
 	protected function updateProfile($steamID) {
 		$profile = getPlayerSummary($steamID);
 		$player = Players::model()->findByPK($steamID);
-		if($player == NULL) $player = new Players();
+		if(empty($player)) $player = new Players();
 		$player->attributes = $profile;
 		
 		if(!$player->save()) {
@@ -121,8 +121,9 @@ class Controller extends CController
 		$backpack = getBackPack($steamID)['result'];
 		
 		foreach($backpack['items'] as $item) {
-			$item = Items::model()->findByPK($item['defindex']);
-			if(empty($item)) {
+
+			$item_model = Items::model()->findByPK($item['defindex']);
+			if(empty($item_model)) {
 				continue;
 				//TODO: send a notificication to admins
 			}
@@ -132,8 +133,7 @@ class Controller extends CController
 			$playerItem->attributes = $item;
 			$playerItem->equipped = array_key_exists('equipped', $item) ? 1 : 0;
 			$playerItem->player_id = $steamID;
-			var_dump($playerItem->attributes);
-			exit;
+
 			if(!$playerItem->save()) {
 				$this->redirect(array('index', 'error'=>$steamID));
 			}
