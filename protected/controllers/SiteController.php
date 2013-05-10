@@ -30,6 +30,29 @@ class SiteController extends Controller
 		$this->render('users', array('users'=>$users));
 	}
 
+	public function actionItems()
+	{
+		$items = Items::model()->findAll();
+		$this->render('items', array('items'=>$items));
+	}
+
+	public function actionItemSets()
+	{
+		$itemsets = ItemSets::model()->findAll();
+		$this->render('items', array('items'=>$itemsets));
+	}
+
+	public function actionItem($item_id)
+	{
+		$item = Items::model()->findByPK($item_id);
+		if(empty($item)) 
+			$item = ItemSets::model()->findByPK($item_id);
+		if(empty($item))
+			$this->render('error');
+		else
+			$this->render('item', array('item'=>$item));
+	}
+
 	/**
 	 * This is the action to handle external exceptions.
 	 */
@@ -95,7 +118,7 @@ class SiteController extends Controller
 			$model->attributes=$_POST['LoginForm'];
 			// validate user input and redirect to the previous page if valid
 			if($model->validate() && $model->login())
-				$this->redirect(Yii::app()->user->returnUrl);
+				$this->redirect(Yii::app()->request->getBaseUrl(true) . '/admin');
 		}
 		// display the login form
 		$this->render('login',array('model'=>$model));

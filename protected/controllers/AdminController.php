@@ -19,6 +19,30 @@ class AdminController extends Controller
 		$this->render('list', array('items'=>$heroes));
 	}
 
+	// this should be a one time function?
+	/*
+	public function actionDescriptionFileToDatabase() {
+		$file = itemDescriptionsToDatabase();
+		foreach($file as $line) {
+			$item_id = trim(substr($line, 0, 5));
+			$description = str_replace('"', '', trim(substr($line, 5)));
+			if($description == 'This new item has no description.') {
+				continue;
+			}
+
+			$item = Items::model()->findByPK(intval($item_id));
+			if(empty($item)){
+				$item = ItemSets::model()->findByPK(intval($item_id));
+				if(empty($item)) continue;
+			}
+
+			$item->item_store_description = $description;
+			$item->save();
+		}
+	}
+
+	*/
+
 	public function actionUpdateDatabase() {
 		list($e, $empty_bundles, $bundle_item_no_id) = $this->updateItems();
 		if($e != true){

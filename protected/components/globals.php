@@ -101,4 +101,10 @@
 	}
 
 
+	function itemDescriptionsToDatabase() {
+		return file('images/items/descriptions.txt');
+		
+	}
+
+
 ?>
