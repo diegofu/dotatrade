@@ -42,15 +42,16 @@ class SiteController extends Controller
 		$this->render('items', array('items'=>$itemsets));
 	}
 
-	public function actionItem($item_id)
+	public function actionItem($id)
 	{
-		$item = Items::model()->findByPK($item_id);
-		if(empty($item)) 
-			$item = ItemSets::model()->findByPK($item_id);
+		$item = Items::model()->findByPK($_GET['id']);
+		if(empty($item))
+			$item = ItemSets::model()->findByPK($_GET['id']);
 		if(empty($item))
 			$this->render('error');
 		else
 			$this->render('item', array('item'=>$item));
+
 	}
 
 	/**

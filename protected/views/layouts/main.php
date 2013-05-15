@@ -7,14 +7,11 @@
 	<meta name="language" content="en" />
 
 	<!-- blueprint CSS framework -->
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/screen.css" media="screen, projection" />
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/print.css" media="print" />
-	<!--[if lt IE 8]>
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/ie.css" media="screen, projection" />
-	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/bootstrap.css" />
+	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/css.css" />
+	<link rel="stylesheet/less" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/css.less" />
 
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/main.css" />
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/form.css" />
+	
 
 	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
 </head>
@@ -30,17 +27,19 @@
 		<div><? if(isset($profile)) {print_r($profile['response']['players']);} ?></div>
 	</div><!-- header -->
 
-	<div id="mainmenu">
-		
+	<div class = "subnav" id="mainmenu">
 		<?php $this->widget('zii.widgets.CMenu',array(
 			'items'=>array(
-				array('label'=>'Home', 'url'=>array('/site/index')),
-				array('label'=>'About', 'url'=>array('/site/page', 'view'=>'about')),
-				array('label'=>'My Inventory', 'url'=>array('/site/inventory')),
+				array('label'=>'Home', 'url'=>array('/site'), 'active'=>$this->id=='site'?true:false),
+				array('label'=>'Heroes', 'url'=>array('/heroes'), 'active'=>$this->id=='heroes'?true:false),
+				array('label'=>'My Inventory', 'url'=>array('/inventory'), 'active'=>$this->id=='inventory'?true:false),
 				array('label'=>'Users', 'url'=>array('/site/users')),
 				array('label'=>'Login', 'url'=>array('/site/login'), 'visible'=>Yii::app()->user->isGuest),
 				array('label'=>'Logout ('.Yii::app()->user->name.')', 'url'=>array('/site/logout'), 'visible'=>!Yii::app()->user->isGuest),
 			),
+			'htmlOptions'=>array(
+				'class' => 'nav nav-pills',
+				),
 		)); ?>
 	</div><!-- mainmenu -->
 	<?php if(isset($this->breadcrumbs)):?>
@@ -51,14 +50,15 @@
 
 	<?php echo $content; ?>
 	<div class="clear"></div>
-
-	<div id="footer">
+	
+	<div id="footer" class = "span12">
+		<hr>
 		Copyright &copy; <?php echo date('Y'); ?> by My Company.<br/>
 		All Rights Reserved.<br/>
 		<?php echo Yii::powered(); ?>
 	</div><!-- footer -->
 
 </div><!-- page -->
-
+<script src="<?=Yii::app()->request->baseUrl.'/js/less-1.3.3.min.js'?>"></script>
 </body>
 </html>

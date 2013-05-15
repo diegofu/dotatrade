@@ -83,15 +83,15 @@ class Controller extends CController
         ]
     */
 	protected function updateProfile($steamID) {
-		$profile = getPlayerSummary($steamID);
-		$player = Players::model()->findByPK($steamID);
-		if(empty($player)) $player = new Players();
-		$player->attributes = $profile;
+		// $profile = getPlayerSummary($steamID);
+		// $player = Players::model()->findByPK($steamID);
+		// if(empty($player)) $player = new Players();
+		// $player->attributes = $profile;
 		
-		if(!$player->save()) {
-			var_dump($player->getErrors());
-			exit;
-		}
+		// if(!$player->save()) {
+		// 	var_dump($player->geErrors());
+		// 	exit;
+		// }
 		return true;
 
 	}
@@ -118,41 +118,41 @@ class Controller extends CController
                         )
     */
 	protected function updatePlayerItems($steamID) {
-		$backpack = getBackPack($steamID)['result'];
+		// $backpack = getBackPack($steamID)['result'];
 		
-		foreach($backpack['items'] as $item) {
+		// foreach($backpack['items'] as $item) {
 
-			$item_model = Items::model()->findByPK($item['defindex']);
-			if(empty($item_model)) {
-				continue;
-				//TODO: send a notificication to admins
-			}
-			$criteria = new CDbCriteria();
-			$playerItem = PlayerItems::model()->findByPK($item['id']);
-			if(empty($playerItem)) $playerItem = new PlayerItems();
-			$playerItem->attributes = $item;
+		// 	$item_model = Items::model()->findByPK($item['defindex']);
+		// 	if(empty($item_model)) {
+		// 		continue;
+		// 		//TODO: send a notificication to admins
+		// 	}
+		// 	$criteria = new CDbCriteria();
+		// 	$playerItem = PlayerItems::model()->findByPK($item['id']);
+		// 	if(empty($playerItem)) $playerItem = new PlayerItems();
+		// 	$playerItem->attributes = $item;
 
-			// make the inventory more human readable
-			// if valve does something with this in the future
-			// then this should be reverted
-			$inventory = $item['inventory'];
+		// 	// make the inventory more human readable
+		// 	// if valve does something with this in the future
+		// 	// then this should be reverted
+		// 	$inventory = $item['inventory'];
 
-			// convert to binary
-			$inventory = base_convert($inventory, 10, 2);
+		// 	// convert to binary
+		// 	$inventory = base_convert($inventory, 10, 2);
 
-			// make length to 32 and take the last 16
-			$inventory = substr(str_pad($inventory, 32, '0', STR_PAD_LEFT), 16);
+		// 	// make length to 32 and take the last 16
+		// 	$inventory = substr(str_pad($inventory, 32, '0', STR_PAD_LEFT), 16);
 			
 
-			$playerItem->inventory = base_convert($inventory, 2, 10);
+		// 	$playerItem->inventory = base_convert($inventory, 2, 10);
 
-			$playerItem->equipped = array_key_exists('equipped', $item) ? 1 : 0;
-			$playerItem->player_id = $steamID;
+		// 	$playerItem->equipped = array_key_exists('equipped', $item) ? 1 : 0;
+		// 	$playerItem->player_id = $steamID;
 
-			if(!$playerItem->save()) {
-				$this->redirect(array('index', 'error'=>$steamID));
-			}
-		}
+		// 	if(!$playerItem->save()) {
+		// 		$this->redirect(array('index', 'error'=>$steamID));
+		// 	}
+		// }
 		
 		$crit = new CDbCriteria();
 		$crit->condition = "player_id=$steamID";

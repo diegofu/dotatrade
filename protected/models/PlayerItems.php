@@ -69,7 +69,7 @@ class PlayerItems extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
-			'defindex0' => array(self::BELONGS_TO, 'Items', 'defindex'),
+			'item' => array(self::BELONGS_TO, 'Items', 'defindex'),
 			'player' => array(self::BELONGS_TO, 'Players', 'player_id'),
 		);
 	}

@@ -1,5 +1,8 @@
+<div class = "span-12">
 <? foreach($users as $user): ?>
-
-	<img src = "<?=$user->attributes['avatarfull']?>">
+	<?= CHtml::link(CHtml::image($user->avatarmedium, $user->personaname), '/user/'.$user->steamid) ?>
+	
 
 <? endforeach ?>
+
+</div>

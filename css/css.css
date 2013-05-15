@@ -1,0 +1,25 @@
+.imageContainer {
+	height: 77px;
+}
+
+
+/***** Rarity colors ****/
+.desc_ancient		{color: #eb4b4b}
+.desc_arcana		{color: #ade55c}
+.desc_attrib_negative		{color: #ff4040}
+.desc_attrib_neutral		{color: #6c7075}
+.desc_attrib_positive		{color: #99ccff}
+.desc_bundle		{color: #95af0c}
+.desc_common		{color: #b0c3d9}
+.desc_flags		{color: #756b5e}
+.desc_immortal		{color: #e4ae39}
+.desc_itemset_equipped	{color: #9da1a9}
+.desc_itemset_missing	{color: #6c7075}
+.desc_itemset_name		{color: #9da1a9}
+.desc_legendary		{color: #d32ce6}
+.desc_level		{color: #756b5e}
+.desc_limited_use	{color: #00a000}
+.desc_mythical		{color: #8847ff}
+.desc_rare		{color: #4b69ff}
+.desc_strange		{color: #CF6A32}
+.desc_uncommon		{color: #5e98d9}
