@@ -29,7 +29,7 @@ for files in glob.glob('*.png'):
 
 	try:
 		im.thumbnail(size, Image.ANTIALIAS)
-		im.save('../../'+argv[1] + os.path.splitext(files)[0] + '_' + argv[4] + '.png')
+		im.save('../../'+argv[1] +'/'+os.path.splitext(files)[0] + '_' + argv[4] + '.png')
 	except IndexError:
 		print 'cannot create image for', files
 		continue

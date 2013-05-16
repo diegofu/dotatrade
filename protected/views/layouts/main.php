@@ -10,7 +10,7 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/css.css" />
 	<link rel="stylesheet/less" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/css.less" />
 
-	
+	<script src="<?=Yii::app()->request->baseUrl.'/js/jquery-1.9.1.js'?>"></script>
 
 	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
 </head>
@@ -84,7 +84,7 @@
 	</div><!-- footer -->
 
 </div><!-- page -->
-<script src="<?=Yii::app()->request->baseUrl.'/js/jquery-1.9.1.js'?>"></script>
+
 <script src="<?=Yii::app()->request->baseUrl.'/js/less-1.3.3.min.js'?>"></script>
 <script src="<?=Yii::app()->request->baseUrl.'/js/bootstrap.js'?>"></script>
 </body>
