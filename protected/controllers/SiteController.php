@@ -24,12 +24,6 @@ class SiteController extends Controller
 		$this->render('inventory', array('items'=>$items));
 	}
 
-	public function actionUsers() 
-	{
-		$users = Players::model()->findAll();
-		$this->render('users', array('users'=>$users));
-	}
-
 	public function actionItems()
 	{
 		$items = Items::model()->findAll();

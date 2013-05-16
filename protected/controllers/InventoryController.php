@@ -10,6 +10,6 @@ class InventoryController extends Controller
 			$steamID = Yii::app()->user->getState('steamID');
 			$items = parent::updatePlayerItems($steamID);
 		}
-		$this->render('//site/inventory', array('items'=>$items));
+		$this->render('//site/inventory', array('items'=>$items, 'user'=>0));
 	}
 }
