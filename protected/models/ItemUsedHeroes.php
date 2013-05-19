@@ -5,11 +5,10 @@
  *
  * The followings are the available columns in table '{{item_used_heroes}}':
  * @property integer $id
- * @property string $hero_name
+ * @property integer $hero_id
  *
  * The followings are the available model relations:
- * @property Items $id0
- * @property Heroes $heroName
+ * @property Heroes $hero
  */
 class ItemUsedHeroes extends CActiveRecord
 {
@@ -40,11 +39,10 @@ class ItemUsedHeroes extends CActiveRecord
 		// will receive user inputs.
 		return array(
 			array('id', 'required'),
-			array('id', 'numerical', 'integerOnly'=>true),
-			array('hero_name', 'length', 'max'=>128),
+			array('id, hero_id', 'numerical', 'integerOnly'=>true),
 			// The following rule is used by search().
 			// Please remove those attributes that should not be searched.
-			array('id, hero_name', 'safe', 'on'=>'search'),
+			array('id, hero_id', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -56,8 +54,7 @@ class ItemUsedHeroes extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
-			'id0' => array(self::BELONGS_TO, 'Items', 'id'),
-			'heroName' => array(self::BELONGS_TO, 'Heroes', 'hero_name'),
+			'hero' => array(self::BELONGS_TO, 'Heroes', 'hero_id'),
 		);
 	}
 
@@ -68,7 +65,7 @@ class ItemUsedHeroes extends CActiveRecord
 	{
 		return array(
 			'id' => 'ID',
-			'hero_name' => 'Hero Name',
+			'hero_id' => 'Hero',
 		);
 	}
 
@@ -84,7 +81,7 @@ class ItemUsedHeroes extends CActiveRecord
 		$criteria=new CDbCriteria;
 
 		$criteria->compare('id',$this->id);
-		$criteria->compare('hero_name',$this->hero_name,true);
+		$criteria->compare('hero_id',$this->hero_id);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,

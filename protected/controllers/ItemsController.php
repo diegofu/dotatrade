@@ -2,194 +2,30 @@
 
 class ItemsController extends Controller
 {
-	/**
-	 * @var string the default layout for the views. Defaults to '//layouts/column2', meaning
-	 * using two-column layout. See 'protected/views/layouts/column2.php'.
-	 */
-	public $layout='//layouts/column2';
+	public function actionIndex() {
 
-	/**
-	 * @return array action filters
-	 */
-	public function filters()
-	{
-		return array(
-			'accessControl', // perform access control for CRUD operations
-			'postOnly + delete', // we only allow deletion via POST request
-		);
 	}
 
-	/**
-	 * Specifies the access control rules.
-	 * This method is used by the 'accessControl' filter.
-	 * @return array access control rules
-	 */
-	public function accessRules()
-	{
-		return array(
-			array('allow',  // allow all users to perform 'index' and 'view' actions
-				'actions'=>array('index','view'),
-				'users'=>array('*'),
-			),
-			array('allow', // allow authenticated user to perform 'create' and 'update' actions
-				'actions'=>array('create','update'),
-				'users'=>array('@'),
-			),
-			array('allow', // allow admin user to perform 'admin' and 'delete' actions
-				'actions'=>array('admin','delete'),
-				'users'=>array('admin'),
-			),
-			array('deny',  // deny all users
-				'users'=>array('*'),
-			),
-		);
-	}
-
-	/**
-	 * Displays a particular model.
-	 * @param integer $id the ID of the model to be displayed
-	 */
-	public function actionView($id)
-	{
-		$this->render('view',array(
-			'model'=>$this->loadModel($id),
-		));
-	}
-
-	/**
-	 * Creates a new model.
-	 * If creation is successful, the browser will be redirected to the 'view' page.
-	 */
-	public function actionCreate()
-	{
-		$model=new Items;
-
-		// Uncomment the following line if AJAX validation is needed
-		// $this->performAjaxValidation($model);
-
-		if(isset($_POST['Items']))
-		{
-			$model->attributes=$_POST['Items'];
-			if($model->save())
-				$this->redirect(array('view','id'=>$model->id));
+	public function actionItemDetail($id) {
+		$item = Items::model()->with('itemsetItems','itemsetItems.itemSet')->findByPK($id);
+		if(empty($item)) {
+			throw new CHttpException(404, 'There is no such item.');
 		}
-
-		$this->render('create',array(
-			'model'=>$model,
-		));
-	}
-
-	/**
-	 * Updates a particular model.
-	 * If update is successful, the browser will be redirected to the 'view' page.
-	 * @param integer $id the ID of the model to be updated
-	 */
-	public function actionUpdate($id)
-	{
-		$model=$this->loadModel($id);
-
-		// Uncomment the following line if AJAX validation is needed
-		// $this->performAjaxValidation($model);
-
-		if(isset($_POST['Items']))
-		{
-			$model->attributes=$_POST['Items'];
-			if($model->save())
-				$this->redirect(array('view','id'=>$model->id));
+		$itemset = null;
+		$otherItems = null;
+		if(!empty($item->itemsetItems)) {
+			$itemset = $item->itemsetItems[0]->itemSet;
+			$otherItems = ItemsetItems::model()->with('item')->findAll('item_set_id=:item_set_id', array(':item_set_id'=>$itemset->id));
 		}
-
-		$this->render('update',array(
-			'model'=>$model,
-		));
+		$this->render('//site/item_detail', array('item'=>$item, 'otherItems'=>$otherItems, 'itemset'=>$itemset));
 	}
 
-	/**
-	 * Deletes a particular model.
-	 * If deletion is successful, the browser will be redirected to the 'admin' page.
-	 * @param integer $id the ID of the model to be deleted
-	 */
-	public function actionDelete($id)
-	{
-		$this->loadModel($id)->delete();
-
-		// if AJAX request (triggered by deletion via admin grid view), we should not redirect the browser
-		if(!isset($_GET['ajax']))
-			$this->redirect(isset($_POST['returnUrl']) ? $_POST['returnUrl'] : array('admin'));
-	}
-
-	/**
-	 * Lists all models.
-	 */
-	public function actionIndex()
-	{
-		$dataProvider=new CActiveDataProvider('Items');
-		$this->render('index',array(
-			'dataProvider'=>$dataProvider,
-		));
-	}
-
-	/**
-	 * Manages all models.
-	 */
-	public function actionAdmin()
-	{
-		$model=new Items('search');
-		$model->unsetAttributes();  // clear any default values
-		if(isset($_GET['Items']))
-			$model->attributes=$_GET['Items'];
-
-		$this->render('admin',array(
-			'model'=>$model,
-		));
-	}
-
-	/**
-	 * Returns the data model based on the primary key given in the GET variable.
-	 * If the data model is not found, an HTTP exception will be raised.
-	 * @param integer $id the ID of the model to be loaded
-	 * @return Items the loaded model
-	 * @throws CHttpException
-	 */
-	public function loadModel($id)
-	{
-		$model=Items::model()->findByPk($id);
-		if($model===null)
-			throw new CHttpException(404,'The requested page does not exist.');
-		return $model;
-	}
-
-	public function JSON_to_database($json = NULL) {
-		if($json == NULL) $json = itemsGameToJSON()['items_game']['items'];
-		foreach($json as $itemID=>$itemInfo) {
-			$model = new Items();
-			if(!is_numeric($itemID)) continue;
-			$model->id = $itemID;
-			foreach($model->attributeLabels() as $key=>$value) {
-				if($key == 'id'){
-
-				}else{
-					if(array_key_exists($key, $itemInfo))
-						$model->$key = $itemInfo[$key];
-				}
-				
-			}
-			if(!$model->save()) {
-				var_dump($model->getErrors());
-				exit;
-			}
+	public function actionItemsetDetail($id) {
+		$item = Itemsets::model()->with('itemsetItems', 'itemsetItems.item')->findByPK($id);
+		
+		if(empty($item)) {
+			throw new CHttpException(404, 'There is no such item.');
 		}
-	}
-
-	/**
-	 * Performs the AJAX validation.
-	 * @param Items $model the model to be validated
-	 */
-	protected function performAjaxValidation($model)
-	{
-		if(isset($_POST['ajax']) && $_POST['ajax']==='items-form')
-		{
-			echo CActiveForm::validate($model);
-			Yii::app()->end();
-		}
+		$this->render('//site/item_detail', array('item'=>$item));
 	}
 }

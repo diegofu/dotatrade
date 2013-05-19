@@ -22,6 +22,12 @@ class Controller extends CController
 	public $breadcrumbs=array();
 
 	protected function beforeAction($action) {
+
+		Yii::app()->clientScript->registerScript('helpers', 
+			'baseUrl = '.CJSON::encode(Yii::app()->baseUrl).';',
+			CClientScript::POS_HEAD
+        );
+
 		$api = APIKEY();
 
 	

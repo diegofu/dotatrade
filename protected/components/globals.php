@@ -54,9 +54,10 @@
 	 *
 	 */
 	function itemsGameToJSON($file = NULL, $outname = 'json.txt') {
-		if($file == NULL) {
-			$file = getItemsGameURL();
+		if($file != NULL) {
+			return json_decode(file_get_contents($file), true);
 		}
+		$file = getItemsGameURL();
 		$in = file($file);
 		$out = fopen($outname, 'w');
 		$s = "";

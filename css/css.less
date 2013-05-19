@@ -1,6 +1,10 @@
 /**** variables ******/
 @rarity-background: black;
-
+@border-color: #15191D;
+@content-background: #45515f;
+@comp-color: #3C332A;
+@text-color: #ece9d7;
+@background-color: #2a333c;
 /***** functions ****/
 .height(@height) {
 	height: @height
@@ -26,7 +30,7 @@
     margin-top: @pixel;
 }
 .margin-top(@pixel){
-    margin-bottom: @pixel;
+    margin-top: @pixel;
 }
 
 .padding(@pixel) {
@@ -47,22 +51,170 @@
 .padding-top(@pixel){
     padding-top: @pixel;
 }
+
 /****** css *******/
 
-.imageContainer {
-	.height(71px);
-	background: @rarity-background;
-    .float(left);
-    .margin(3px);
+
+hr {
+    float: left;
+    width: 900px;
+    margin-left: 20px;
+    
 }
 
+#topFixedMenu li.active > a,
+#topFixedMenu li.active > a:hover,
+#topFixedMenu li.active > a:active
+{
+    color: #ece9d7;
+}
 
 
 #menu-dropdown {
     .padding-top(30px);
 }
 
+#content {
+    // width: 900px;
+    .padding-top(20px);
+    .padding-bottom(20px);
+    margin-top: 50px;
+    // .padding(20px);
+    box-shadow: 0 0 100px black;
+    margin-left: auto;
+    margin-right: auto;
+    // border:1px solid @border-color;
+    border-radius: 5px;
+    // background: -webkit-gradient(linear, left top, left bottom, from(#2a333c), to(#15191D));
+}
 
+#contentSubContainer {
+    .padding(20px);
+    // border: 1px solid @border-color;
+    margin: auto;
+    background: @content-background;
+    border-radius: 5px;
+    background-image: linear-gradient(left bottom, #5E758F 38%, #4A5C70 62%, #61727C 93%);
+    background-image: -o-linear-gradient(left bottom, #5E758F 38%, #4A5C70 62%, #61727C 93%);
+    background-image: -moz-linear-gradient(left bottom, #5E758F 38%, #4A5C70 62%, #61727C 93%);
+    background-image: -webkit-linear-gradient(left bottom, #5E758F 38%, #4A5C70 62%, #61727C 93%);
+    background-image: -ms-linear-gradient(left bottom, #5E758F 38%, #4A5C70 62%, #61727C 93%);
+
+    background-image: -webkit-gradient(
+        linear,
+        left bottom,
+        right top,
+        color-stop(0.38, #5E758F),
+        color-stop(0.62, #4A5C70),
+        color-stop(0.93, #61727C)
+    );
+}
+
+#heroItemsContainer {    
+    
+}
+
+.contentContainer {
+    width: 836px;
+    border: 2px solid #0A0C0E; 
+    box-shadow: inset 0 0 10px #0A0C0E;
+    padding: 30px 30px;
+    margin:0 0 20px 20px;
+    min-height: 1px;
+    float: left;
+    border-radius: 5px;
+    background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.65) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.65))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=0 ); /* IE6-9 */
+
+}
+
+.heroItems {
+    width: 190px;
+    height: 133px;
+    box-shadow: 0 0 5px #0A0C0E;
+    margin-bottom: 10px;
+}
+
+.itemContainerCell {
+    padding: 10px 0px 16px 0px;
+    margin: 2px;
+    width: 205px;
+    min-height: 250px;
+    margin: 2px;
+    border-radius: 3px;
+    color: @text-color;
+    cursor: pointer;
+    text-align: center;
+}
+
+.itemContainerCell:hover {
+    color: @text-color;
+    text-decoration: none;
+}
+
+#inventory-items .itemContainer {
+    background: @rarity-background;
+    .float(left);
+    .margin(3px);
+    height: 85px;
+    width: 99px;
+    box-shadow: 0 0 5px #0A0C0E;
+    margin: 2px;
+}
+
+#inventory-items .itemContainer img{
+    height: 65px;
+    width: 99px;
+}
+
+#inventory-items .itemContainer{
+    background: url('../images/items/empty_small.png');
+    background-repeat:no-repeat;
+}
+
+#heroImage {
+    border: 2px solid #0A0C0E;
+    border-radius: 5px;
+    
+}
+
+#itemDetailImg {
+    width: 425px;
+    height: 280px;
+}
+
+#itemDetailImgContainer {
+    width: 425px;
+}
+
+#itemDetailAttr {
+    margin-bottom: 10px;
+}
+
+.active.itemContainerCell.desc_ancient_border       {margin:0px;border: 2px solid #eb4b4b;}
+.active.itemContainerCell.desc_arcana_border        {margin:0px;border: 2px solid #ade55c;}
+.active.itemContainerCell.desc_attrib_negative_border       {margin:0px;border: 2px solid #ff4040;}
+.active.itemContainerCell.desc_attrib_neutral_border        {margin:0px;border: 2px solid #6c7075;}
+.active.itemContainerCell.desc_attrib_positive_border       {margin:0px;border: 2px solid #99ccff;}
+.active.itemContainerCell.desc_bundle_border        {margin:0px;border: 2px solid #95af0c;}
+.active.itemContainerCell.desc_common_border        {margin:0px;border: 2px solid #b0c3d9;}
+.active.itemContainerCell.desc_flags_border     {margin:0px;border: 2px solid #756b5e;}
+.active.itemContainerCell.desc_immortal_border      {margin:0px;border: 2px solid #e4ae39;}
+.active.itemContainerCell.desc_itemset_equipped_border  {margin:0px;border: 2px solid #9da1a9;}
+.active.itemContainerCell.desc_itemset_missing_border   {margin:0px;border: 2px solid #6c7075;}
+.active.itemContainerCell.desc_itemset_name_border_border      {margin:0px;border: 2px solid #9da1a9;}
+.active.itemContainerCell.desc_legendary_border     {margin:0px;border: 2px solid #d32ce6;}
+.active.itemContainerCell.desc_level_border     {margin:0px;border: 2px solid #756b5e;}
+.active.itemContainerCell.desc_limited_use_border   {margin:0px;border: 2px solid #00a000;}
+.active.itemContainerCell.desc_mythical_border      {margin:0px;border: 2px solid #8847ff;}
+.active.itemContainerCell.desc_rare_border      {margin:0px;border: 2px solid #4b69ff;}
+.active.itemContainerCell.desc_strange_border       {margin:0px;border: 2px solid #CF6A32;}
+.active.itemContainerCell.desc_uncommon_border      {margin:0px;border: 2px solid #5e98d9;}
 
 /***** Rarity colors ****/
 .desc_ancient		{color: #eb4b4b}

@@ -44,22 +44,23 @@ class AdminController extends Controller
 	*/
 
 	public function actionUpdateDatabase() {
+		if(!$e = $this->updateHeroes()){
+			$this->render('error', array('error'=>$e));
+			return;
+		}
 		list($e, $empty_bundles, $bundle_item_no_id) = $this->updateItems();
 		if($e != true){
 			$this->render('error', array('error'=>$e));
-			exit;
+			return;
 		}
-		if(!$e = $this->updateHeroes()){
-			$this->render('error', array('error'=>$e));
-			exit;
-		}
+		
 
 		$this->render('index');
 	}
 
 
 	private function updateItems() {
-		$items_game = itemsGameToJSON()['items_game'];
+		$items_game = itemsGameToJSON('json.txt')['items_game'];
 		$transaction = Yii::app()->db->beginTransaction();
 		try{
 			ItemSetItems::model()->deleteAll();
@@ -107,8 +108,8 @@ class AdminController extends Controller
 				}
 			}
 
-
 			/****** items and itemsets *******/
+			ItemUsedHeroes::model()->deleteAll();
 			$items = $items_game['items'];
 			$empty_bundles = array();
 			$bundle_item_no_id = array();
@@ -127,7 +128,9 @@ class AdminController extends Controller
 					if(empty($model)) $model = new Items();
 				}
 
-
+				// items heroes table
+				
+				
 				$model->attributes = $itemInfo;
 				$model->id = $itemID;
 				if(!$model->save()) {
@@ -153,6 +156,20 @@ class AdminController extends Controller
 					}
 				}
 
+				if(array_key_exists('used_by_heroes', $itemInfo)) {
+					foreach($itemInfo['used_by_heroes'] as $hero=>$value) {
+						$hero_id = Heroes::model()->find('name=:name', array(':name'=>$hero))->hero_id;
+						if(empty($hero_id)) continue;
+						$item_used_hero = new ItemUsedHeroes();
+						$item_used_hero->hero_id = $hero_id;
+						$item_used_hero->id = $itemID;
+						
+						if(!$item_used_hero->save()) {
+							var_dump($item_used_hero->getError());
+							throw new CException('Heroes used Item transaction failed');
+						}
+					}
+				}	
 			}
 			$transaction->commit();
 			return array(true, $empty_bundles, $bundle_item_no_id);
@@ -166,47 +183,46 @@ class AdminController extends Controller
 		$heroList = getHeroList();
 		$numberOfHeroes = Heroes::model()->count();
 
-		if($heroList['count'] != $numberOfHeroes) {
-			$transaction = Yii::app()->db->beginTransaction();
-			try{
-				foreach($heroList['heroes'] as $hero) {
-					$model = Heroes::model()->findByPK($hero['id']);
-					if(empty($model)) $model = new Heroes();
-					$model->attributes = $hero;
-					if(!$model->save()) throw new CException('Hero Transaction Failed');
-				}
-				$transaction->commit();
+		
+		$transaction = Yii::app()->db->beginTransaction();
+		try{
+			foreach($heroList['heroes'] as $hero) {
+				$model = Heroes::model()->findByPK($hero['id']);
+				if(empty($model)) $model = new Heroes();
+				$model->attributes = $hero;
+				if(!$model->save()) throw new CException('Hero Transaction Failed');
 			}
-			catch (Exception $e) {
-				$transaction->rollback();
-				return $e;
-			}
-			
+			$transaction->commit();
 		}
-
+		catch (Exception $e) {
+			$transaction->rollback();
+			return $e;
+		}
+			
+		
+		$transaction = Yii::app()->db->beginTransaction();
 		$itemizedHeroes = getHeroList('en-us', 1);
-		$numberOfItemizedHeroes = Heroes::model()->count('has_items = 1');
-		if($itemizedHeroes['count'] != $numberOfItemizedHeroes) {
-			$transaction = Yii::app()->db->beginTransaction();
-			try{
-				foreach($itemizedHeroes['heroes'] as $hero) {
+		
+		try{
+			foreach($itemizedHeroes['heroes'] as $hero) {
 
-					$model = Heroes::model()->findByPK($hero['id']);
-					if(empty($model)) $model = new Heroes();
-					$model->has_items = 1;
-					
-					if(!$model->save()) throw new CException('Itemized Hero Transaction Failed');
-				}
-				$transaction->commit();
-				return true;
+				$model = Heroes::model()->findByPK($hero['id']);
+				if(empty($model)) $model = new Heroes();
+				$model->has_items = 1;
+				
+				if(!$model->save()) throw new CException('Itemized Hero Transaction Failed');
 			}
-			
-			catch (Exception $e) {
-				$transaction->rollback();
-				return $e;
-			}
-			
+			$transaction->commit();
+			return true;
 		}
+		
+		catch (Exception $e) {
+			$transaction->rollback();
+			return $e;
+		}
+			
+		
+		return true;
 
 	}
 }

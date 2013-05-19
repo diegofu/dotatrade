@@ -32,4 +32,12 @@ class WebUser extends CWebUser {
 			return $this->getState('steamID');
 		}
 	}
+
+	public function isAdmin() {
+		return true;
+	}
+
+	public function getTradeLimit() {
+		return 8;
+	}
 }

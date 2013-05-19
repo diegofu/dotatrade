@@ -19,6 +19,10 @@ img {
 	z-index:1;
 }
 
+#heroesContainer {
+	margin-left: -25px;
+}
+
 #centerColOuter_Callout,#centerColOuter_NoCallout {
 	width:984px;
 	margin:0 auto;
@@ -498,6 +502,7 @@ img {
   	cursor:default;
 }
 .heroHoverLarge {
+	max-width: :none;
 	position:absolute;
 	width:127px;
 	height:71px;

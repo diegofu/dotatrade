@@ -5,7 +5,7 @@
  *
  * The followings are the available columns in table '{{heroes}}':
  * @property string $name
- * @property string $hero_id
+ * @property integer $hero_id
  * @property string $localized_name
  * @property integer $has_items
  *
@@ -41,8 +41,8 @@ class Heroes extends CActiveRecord
 		// will receive user inputs.
 		return array(
 			array('hero_id, localized_name', 'required'),
-			array('has_items', 'numerical', 'integerOnly'=>true),
-			array('name, hero_id, localized_name', 'length', 'max'=>128),
+			array('hero_id, has_items', 'numerical', 'integerOnly'=>true),
+			array('name, localized_name', 'length', 'max'=>128),
 			// The following rule is used by search().
 			// Please remove those attributes that should not be searched.
 			array('name, hero_id, localized_name, has_items', 'safe', 'on'=>'search'),
@@ -57,7 +57,7 @@ class Heroes extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
-			'itemUsedHeroes' => array(self::HAS_MANY, 'ItemUsedHeroes', 'hero_name'),
+			'itemUsedHeroes' => array(self::HAS_MANY, 'ItemUsedHeroes', 'hero_id'),
 		);
 	}
 
@@ -86,7 +86,7 @@ class Heroes extends CActiveRecord
 		$criteria=new CDbCriteria;
 
 		$criteria->compare('name',$this->name,true);
-		$criteria->compare('hero_id',$this->hero_id,true);
+		$criteria->compare('hero_id',$this->hero_id);
 		$criteria->compare('localized_name',$this->localized_name,true);
 		$criteria->compare('has_items',$this->has_items);
 

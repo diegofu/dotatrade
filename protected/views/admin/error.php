@@ -1,1 +1,1 @@
-<?= $error ?>
+<?var_dump( $error )?>

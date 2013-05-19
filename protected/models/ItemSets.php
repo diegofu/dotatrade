@@ -67,6 +67,7 @@ class ItemSets extends CActiveRecord
 		return array(
 			'prefab0' => array(self::BELONGS_TO, 'Prefabs', 'prefab'),
 			'itemsetItems' => array(self::HAS_MANY, 'ItemsetItems', 'item_set_id'),
+			'rarity0'=>array(self::BELONGS_TO, 'Rarities', 'item_rarity'),
 		);
 	}
 

@@ -13,16 +13,6 @@ class SiteController extends Controller
 		$this->render('index', array('heroes'=>$heroes));
 	}
 
-	public function actionInventory()
-	{
-		$items = NULL;
-		if(Yii::app()->user->getState('steamID') != NULL) {
-			$steamID = Yii::app()->user->getState('steamID');
-			$items = parent::updatePlayerItems($steamID);
-		}
-
-		$this->render('inventory', array('items'=>$items));
-	}
 
 	public function actionItems()
 	{
@@ -67,30 +57,33 @@ class SiteController extends Controller
 		$this->redirect(Yii::app()->request->getBaseUrl(true));
 	}
 
-	/**
-	 * Displays the contact page
-	 */
-	public function actionContact()
-	{
-		$model=new ContactForm;
-		if(isset($_POST['ContactForm']))
-		{
-			$model->attributes=$_POST['ContactForm'];
-			if($model->validate())
-			{
-				$name='=?UTF-8?B?'.base64_encode($model->name).'?=';
-				$subject='=?UTF-8?B?'.base64_encode($model->subject).'?=';
-				$headers="From: $name <{$model->email}>\r\n".
-					"Reply-To: {$model->email}\r\n".
-					"MIME-Version: 1.0\r\n".
-					"Content-type: text/plain; charset=UTF-8";
 
-				mail(Yii::app()->params['adminEmail'],$subject,$model->body,$headers);
-				Yii::app()->user->setFlash('contact','Thank you for contacting us. We will respond to you as soon as possible.');
-				$this->refresh();
-			}
+	public function actionHeroData($id)
+	{
+		$hero = Heroes::model()->findByPK($id);
+		if(empty($hero)){
+			$ret = array('success'=>false);
 		}
-		$this->render('contact',array('model'=>$model));
+
+		
+		$criteria = new CDbCriteria;
+		$criteria->alias = 'i';
+		$criteria->join='LEFT JOIN tbl_item_used_heroes h ON (i.id=h.id)';
+		$criteria->join.=' LEFT JOIN tbl_heroes t ON (h.hero_id = t.hero_id)';
+		$criteria->condition='h.id=i.id AND t.hero_id='.$id;
+		$itemsetsCount = ItemSets::model()->count($criteria);
+		
+		$criteria->condition.=' AND i.prefab != "default_item"';
+		$itemsCount = Items::model()->count($criteria);
+
+		$ret = array(
+			'success'=>true,
+			'itemsCount'=>$itemsCount,
+			'itemsetsCount'=>$itemsetsCount,
+			);
+		
+		
+		$this->renderPartial('ajax-response',array('data'=>json_encode($ret)));
 	}
 
 	/**
