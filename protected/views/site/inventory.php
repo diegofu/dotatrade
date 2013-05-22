@@ -1,10 +1,16 @@
 
+<div class="itemContainer hide" id="emptySlotTemplate">
+	<img src="<?=Yii::app()->request->baseUrl.'/images/items/more_icon.png' ?>">
+	<div class="text-center">
+		<small>Empty</small>
+	</div>
+</div>
 <div  id="inventory-items">
 <? if($this->id == 'inventory'):?>
 <div class="contentContainer" id="tradingPanel">
 	<? for($i = 0; $i<Yii::app()->user->getTradeLimit(); $i++): ?>
-		<div class="itemContainer emptyImage">
-			<img src="<?=Yii::app()->request->baseUrl.'/images/items/more_icon.png' ?>", 'Add more'>
+		<div class="itemContainer emptySlot" data-has-item = "false" data-item-id = "">
+			<img src="<?=Yii::app()->request->baseUrl.'/images/items/more_icon.png' ?>">
 			<div class="text-center">
 				<small>Empty</small>
 			</div>
@@ -21,6 +27,16 @@
 		$pages = ceil($last_element->inventory / 64.0);
 		$length = count($items);
 	?>
+	<div class="row">
+		<div class="span4">
+			<?= CHtml::dropDownList(
+			'select_rarity', 
+			'All', 
+			CHtml::listData($item_rarities, 'item_rarity', 'item_rarity'),
+			array('prompt'=>'all')
+			); ?>
+		</div>
+	</div>
 
 	<? $j = 0 ?>
 	<? for($i = 1; $i <= $pages * 64; $i++): ?>
@@ -30,7 +46,7 @@
 				
 			</div>
 		<? else: ?>
-			<div class = "itemContainer" id="<?=$items[$j]->original_id?>">
+			<div class = "itemContainer" id="<?=$items[$j]->original_id?>" data-item-rarity="<?=$items[$j]->item->item_rarity?>">
 				<?= CHtml::image(Yii::app()->request->baseUrl.'/images/items/'.$items[$j]->defindex.'_small.png', $items[$j]->item->name) ?>
 				<div class = "text-center">
 					<small class = "<?=$items[$j]->item->rarity0->color ?>">
