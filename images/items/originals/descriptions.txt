@@ -1,0 +1,1644 @@
+4026  Quite relaxing.
+4027  "Let those that would rule as Verdant Kings wear upon their brow horns sharpened with the wisdom of judgment and hang upon their chins a mighty symbol of their station."
+4024  A coat of leaves, common amongst the Druids of Verodicia, worn now by Nature's own prophet.
+4025  The avatar of Nature's Wrath may take whatever form he pleases. Choosing sometimes to appear as tree, other times as predator, or when it suits him as prey.
+4022  "No business but war. No family but death. No mercy but the grave!"
+4023  "Let the carnage begin."
+4020  A weapon of timeless rage.
+4021  "So many skulls to cleave. So many bodies to throw on the pile."
+4028  A set of horns worthy of a king.
+4029  Wrapped in the power of the ancient woods.
+344   This new item has no description.
+345   This new item has no description.
+346   This new item has no description.
+347   This new item has no description.
+340   This new item has no description.
+341   This new item has no description.
+342   This new item has no description.
+343   This new item has no description.
+348   This new item has no description.
+349   This new item has no description.
+4686  Heavy with the gifts granted by the plagued nobility, Rotund'jere had this frightening tool fashioned to remind those in his care of the ever-present likelihood of their demise.
+4931  Even creatures of the twilight can scarcely see the wearer of this shawl.
+4684  Bound with rope and made of simple fabrics, this dress burns with Nothl strength.
+4933  Emblazoned with the Crepuscular Sigil, this crest draws darkness over its wearer.
+4682  The elders grant this cloak only to the most skilled of the Dezun Order.
+4683  To raise an arm wrapped in such a holy garment is to channel the most ancient knowledge of the Nothl Realm.
+4732  When Ostarion came to conquer, this blade was presented as a gift in hope of negotiating a peaceful surrender.  It didn't work.
+4733  "You don't get this good at butchery without spending a bit of time on a farm."
+4730  Direstone is said to be lightweight and easy to counterbalance, making it perfect for a reaper.
+4731  Ever it glows with heat and power, a blade of warmth in the darkness, a beacon of strength on the field.
+4736  As luck would have it, this enchanted cudgel was just lying there in an exploding volcano Aggron happened to have stumbled in to.
+4737  Doom's loins are girded in thickest demonhide and steel.
+4734  'Thought it was time to try me out a new look.  What you think?'
+4735  In the bounty hunting business, a little intimidation can go a long way.
+4738  Heavy is the head that wears the horns of the Apocalypse.
+4739  As old as the Tahlin Dynasty itself, this dagger has loosed blood in both war and peacetime.
+298   This new item has no description.
+299   This new item has no description.
+296   This new item has no description.
+297   This new item has no description.
+294   This new item has no description.
+295   This new item has no description.
+292   This new item has no description.
+293   This new item has no description.
+290   This new item has no description.
+291   This new item has no description.
+4835  A colorful bow adorned with tough harpy feathers is just what a feisty girl like windrunner needs for fabulous mega-kills!
+4522  Traditional protective shoulder armor commonly worn by the Zaru'Kina people.
+273   This new item has no description.
+274   This new item has no description.
+275   This new item has no description.
+276   This new item has no description.
+277   This new item has no description.
+278   This new item has no description.
+279   This new item has no description.
+4836  To have a hope of examining the darkened wilds undetected requires clothing fit for sublety.
+4659  A belt of leather and feather, bound in bone.
+4658  A powerful bracer of leather, bone and fur.
+108   default shoulder armor
+109   default arm item
+102   This new item has no description.
+103   This new item has no description.
+100   This new item has no description.
+101   This new item has no description.
+106   This new item has no description.
+107   default hair
+104   This new item has no description.
+105   This new item has no description.
+4813  When it comes to dazzling fetishes, the Father Spirit knows best.
+4812  There are many ways to reach the Nothl realm, several of which involve hits from the Great Pipe. Some hits are less survivable than others.
+4811  Fashioned from the feathers of the violet shryll, a bird that flies with its wingtips trailing through the Nothl realm, while the rest of its body sails in the light of this world. 
+4810  The wind can only keep so much hair back.
+4817  A few dips into the wilds of Yama Raskav will bring out the brigand in anyone.
+4816  You'll be glad you have this when the rainy season comes around.
+4815  It'll take more than a rope to tame the wilds of Yama Raskav.
+4814  What does Dazzle wear under his ritual skirt? That depends upon the ritual.
+4819  When the energies of creation are hot and malleable, Skitskurr's carapace responds in kind, alerting him that it is time to start weaving.
+4818  A little sweeter to some, a little meaner to the rest, you'd best be on this beauty's good side if you aim to keep your head.
+10141 Replaces the default killing spree announcer with the smooth worldly tones of Bastion's narrator, also known as Rucks.
+10140 Replaces the default announcer with the euphemistic keen-eyed wisdom of Bastion's narrator, also known as Rucks.
+10143 A reward for slaying a rare loot greevil.
+10142 Ward presented to winners of the 2012 Winter Polycount Contest
+10145 A darkly gleaming treasure with mysterious contents. You must use a Dark Treasure Key to open this.
+10147 Many critters can be trained to ferry tools into battle.  Few will do so while wearing a jetpack!
+10146 Silently surveying and plotting the theft of your mana, and your life.
+10149 Light pours into the land, blooming resplendent on war-scarred ruins.
+10148 While Warlock is deep in study, his sentry keeps an eye out for Infernal interruptions--as well as more mundane intrusions.
+20153 This bundle includes all of the items in the 'Custom of Karroch' set for Beastmaster:
+20152 Includes all of the items in the "Subtle Demon" set for Riki:
+20155 This bundle contains all of the items in the 'Eldritch Ice' set for Lich:
+20154 This bundle contains all of the items in the 'Ephemeral Haunt' set for Spectre:
+20157 This item set was sanctioned by the Ancient Order of the Oyo.  Contains all of the items in the 'Drunken Warlord' set for Brewmaster:
+20156 This bundle contains both of the Subtle Demon's Blades for Riki
+20090 This pack replaces the Default announcer and Mega-Kills announcer with the double-edged wit of Axe.
+20091 This pack replaces the Default announcer and Mega-Kills announcer with the carefully chosen words of the traveling warrior, Juggernaut.
+20092 This pack replaces the Default announcer and Mega-Kills announcer with the stern voice of Nature's Prophet.
+20093 This pack replaced the Default announcer and Mega-Kills announcer with the boisterous theatrics of Storm Spirit.
+20094 This pack replaces the Default announcer and Mega-Kills announcer with Captain Matey's scurrrrvy play-by-play.
+20095 Contains both the main and off-hand Blade of the Slithereen Exile.
+99    This new item has no description.
+98    This new item has no description.
+20096 No Slithereen may fail. Though Slithice swam victorious at the battle of Crey, a single jeweled chalice was taken. The punishment for the lost bauble: banishment. So she wandered the deeps, bitterly searching for the chalice, and where once dwelt honor and humility now crept the tendrils of cruelty and malice. If she was to be exiled, then so be it. She shed the lighter tones of her ancestral armor, instead taking up darker armaments, and all who looked upon her felt the indomitable will of the exiled siren. This bundle contains all of the items in 'The Slithereen Exile' set for Naga Siren:
+91    This new item has no description.
+90    This new item has no description.
+93    This new item has no description.
+92    This new item has no description.
+95    This new item has no description.
+94    This new item has no description.
+97    This new item has no description.
+96    This new item has no description.
+10091 He's just a little guy! He doesn't know any better.
+10097 Until its fall, none could escape the spying gaze of the First Dominion.
+10096 A rare and glittering trophy awarded to the fastest slayers of Sugar Rush Roshan.
+10095 You will need a Diretide Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. This chest will disappear at the end of November 11th, 2012.
+10098 Here's eyes in your ice!
+4259  Many wonder what horrors inspired the shape of this mask.  Some believe it shows the back of some long-forgotten subterranean creature.  Others say it is the face of a demon.  Only Juggernaut knows for sure.
+4258  Little else remains of Kunkka's helmsman.
+4251  The shrunken skull of the warrior who killed the first Tale-Teller has found a special place of honor with all Tellers since.
+4250  To wield a blade without a guard is to commit one's self to perfecting the art of combat.  Make but a single mistake, the slightest miscalculation, and life becomes forfeit.
+4253  None know whose bones line mantle's fringe.  Every teller must ask unanswerable questions.
+4252  Every generation has a seer to act as chronicler and teller of old tales.  As each one dies, a small handful of their bones are preserved and placed in the drum so that their spirit might infuse the telling of old tales.  Though the drum itself has been replaced many times, the oldest bones within are hundreds of years old.
+4255  With the right wind behind it, even the Blueheart Glacier itself can be made to travel.
+4254  The rich stories of the tribe are considered too sacred to be seen spoken by a mortal mouth.
+4257  The Veiled Sisters pride themselves on having blades that can pierce anything.
+4256  The shark said it couldn't be touched. Tidehunter disagreed.
+4521  Named in honor of her lost village, this bow is a reminder of the destructive power of the wind.
+15043 It's Gosu Monthly Madness is a Dota 2 tournament hosted by It's Gosu eSports and generously sponsored by Own3D.Tv, Razer and NOS Energy Drinks. Throughout the month of July, 16 of the best teams in Asia will clash and only the finalists will share a part of the prizepool of $1,000.
+15042 It's Gosu Monthly Madness is a Dota 2 tournament hosted by It's Gosu eSports and generously sponsored by Own3D.Tv, Razer and NOS Energy Drinks. Throughout the month of July, 16 of the best teams in Asia will clash and only the finalists will share a part of the prizepool of $1,000.
+4389  This new item has no description.
+4388  Able to withstand the toughest onslaughts with nary a hair out of place, the Maiden of the North gives truth to the old adage that looks can kill.
+15047 Star Series is one of the most prestigious Dota 2 leagues held by StarLadder, and powered by Intel and Asus. The keystone of Star Series is the LAN final, which is held in Kiev CyberSport Arena, Ukraine. Watch the six best teams compete for the Grand Prize of $15,000 and the title Star Series Champion.
+15046 Used to open The Defense 2 Chest.Double click or right-click the key in your backpack and select the chest you want to open.
+15045 Used to open locked Treasure Chests.Double click or right-click the key in your backpack and select the chest you want to open.
+15044 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of enemies you've Gushed as Tidehunter.
+4383  Locked frozen in a glacier for a thousand years, this great staff was carved long ago in honor of the twin northern stars. 
+4382  All the rites of Qaldin are done as dance, with each step prescribed and enacted in precise detail. A misstep can mean an age of misfortune. But Sand King has never put one crawler wrong.
+4381  Behold! This ritual adornment celebrates the flawless power of the Djinn who first poured the Sentient Sand into a suit of magical armor. Flawless and mighty, like the Djinn itself, a thorax for only the most sacred of occasions.
+4380  Ozh icha gluth ahm'sol!
+4387  Nothing moves more quietly, nothing strikes harder, than this feathered prowler of the Nightsilver Woods!
+4386  Nights are cold in the contested lands, but for some, not cold enough.  This frost-charmed cape keeps cold what the sun would warm.
+4385  The guard is built from the shield and straps taken from the corpse of the Crimson Cut-throat.
+4384  The contract for the head of the Crimson Cut-throat was one of the most difficult that Gondar had ever accepted.  It was only natural that he'd keep a few souvenirs.
+407   This new item has no description.
+406   This new item has no description.
+405   This new item has no description.
+404   This new item has no description.
+403   This new item has no description.
+402   This new item has no description.
+401   This new item has no description.
+400   This new item has no description.
+4596  Upon the dial at its center lie markings which map the way to the realms beyond time.
+409   This new item has no description.
+408   This new item has no description.
+4031  The runes inscribed upon these shoulders give the wearer the strength to carry the heaviest burden.
+4030  The secret name of the woods-goddess shines from this holy staff.
+4033  In waters as treacherous as those that surround the Trembling Isle, it is inevitable that even the most skilled captain sustain injury.
+4032  A necklace of rare leviathan's teeth.
+4035  Few would argue that keeping their thigh intact outweighs whatever discomfort this armor may cause.
+4034  The tall, serrated shafts along the side are said to improve hearing for the wearer.
+4037  Carefully constructed to guide a foe's blade away from the shoulder, or to catch it mid-swing.  Many have fallen overlooking such a simple piece of armor.
+4036  The sheer size and weight of this piece were scoffed at until Sven used the shoulder spikes to impale an attacking ogre along the Feral Road.
+4038  A single edged blade perfect for quickly removing heads. Or legs. Or arms.
+4598  Strong, but light as a feather, this bow of the sparrowhawk will fly your arrows true to their targets.
+4599  For a traveler from Claszureme, one's place in the flow of time is uncertain.  These runes help ground the wearer within time's march.
+379   Troll Warlord's Default Melee Weapon
+378   This new item has no description.
+371   This new item has no description.
+370   This new item has no description.
+373   Troll Warlord's Default Weapon
+372   This new item has no description.
+375   This new item has no description.
+374   Troll Warlord's Default Off-Hand Weapon
+377   This new item has no description.
+376   This new item has no description.
+15001 Double or right-click this tool and use it on an item in your backpack to give the item a customized description.Description Tags are consumable items, and may only be used once. A described item can be reverted to its original state by right-clicking the item in the backpack and pressing the 'Restore' option.
+15000 Double or right-click this tool and use it on an item in your backpack to give the item a customized name.Name Tags are consumable items, and may only be used once. A named item can be reverted to its original state by right-clicking the item in the backpack and pressing the 'Restore' option.
+393   This new item has no description.
+392   This new item has no description.
+391   This new item has no description.
+390   This new item has no description.
+397   This new item has no description.
+396   This new item has no description.
+395   Spectres Weapon
+394   This new item has no description.
+399   This new item has no description.
+398   This new item has no description.
+4729  The latest tool in advanced marksmanship.  Guns don't kill people; Sniper kills people.
+4728  Sniper is an expert marksman.  Now he has the medals to prove it!
+4725  A helm plucked from the battlefield, after a glorious victory over Cosang riders in the Desert of Misrule.
+4724  Most observers of Alchemy fail to realize the importance of personal defense against most observers of Alchemy.
+4727  Rule number one, always come prepared!
+4726  Simple, elegant, ripped from a corpse.  The scap of banner taken from a Vigil Knight now makes a fine cape for a Keen.
+4721  These blades were taken from the corpses of slain leviathans following the battle of Crey.
+4720  All who dared stand against the Bramble Lord well knew how easily his powers could catch and pierce their lives.
+4723  He that burns now wears bracers is forged in the cauldron of deepest hell.
+4722  Six and sixty times his wings were branded, but now they are seated within a chrysalis of finest armor.
+15009 Adding this Strange Modifier to a strange item of your choice will allow it to also track the number of godlike killing sprees you obtain while wearing it.
+15008 When used, this Action Item gives a random item drop to up to 9 random players and spectators on the server (except you). You can use this item by equipping it as an action item and then activating it during a match.
+245   This new item has no description.
+244   This new item has no description.
+4622  This strange, rune-scrawled hammer will ensure that all your enemies see the light.
+4623  The first curse, the curse of flame, lain upon his sword.
+4624  The eleventh and final curse, the curse of wisdom, lain upon his horns.
+4625  Drow has nothing to learn from the Sylvan Guard, but from time to time she relieves one of them of their bow, that she might test its quality. Even by her standards, this one is adjudged very fine.
+4626  Stealth is of utmost importance to those who number themselves among the Sylvan Guard. Even Drow finds this an acceptable cape for moving unseen through the wooded ways.
+4627  The sixth curse, the curse of fortitude, lain upon his wrists.
+4628  While not a member of the Sylvan Guard, Drow spies upon them in their marches, and occasionally admires their passing fashions.
+4629  The archers of the Sylvan Guard shoot only arrows crafted specifically for their use. When Drow uses their gear, such arrows are de rigeur.
+249   This new item has no description.
+248   This new item has no description.
+179   This new item has no description.
+178   This new item has no description.
+177   This new item has no description.
+176   This new item has no description.
+175   This new item has no description.
+174   This new item has no description.
+173   This new item has no description.
+172   This new item has no description.
+171   This new item has no description.
+170   This new item has no description.
+4538  A Gauntlet as strong as faith itself, and as protective as the loving embrace of the Omniscient.
+4539  As the comet fell, the power of Morphling crested. Perfect for slicing through enemies as you shoulder them aside.
+4828  Those who worship the Solar Goddess of the eastern wastes are known for the skill forging gold.
+4829  The artisans of the eastern wastes are known for their ability to wrap golden beauty within sharpened practicality.
+4826  The heat of the eastern wastes is said to be extraordinary.  One must cover themselves appropriately.
+4827  To hide in the burning bright sun is no easy task.  It requires planning, luck, and the right color armor.
+4824  Sange, one of the two legendary moonblades, is said to be unnaturally accurate and able to change to a form that best fits the fighting style of its owner. In the hands of Riki the weapon becomes a small dagger.
+4825  Rubick's foray into the often confused politics of magicians is greatly aided by this enchanted third eye. At least, that's what he claims.
+4822  Skitskurr senses are finely tuned to the slightest disruption of the fabric of creation.
+4531  A spear forged from magical alloys that hone the mind and diffuse the soul.
+4820  Creep carefully along the threads of time, with these precision crafted striders.
+4821  When it is time to reweave the stuff of reality, Skitskurr dons his finest manipulators.
+10152 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+10153 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+10150 The earth cracks in turmoil as the seeds of destruction take root.
+10151 A chill fills the air as the snows blanket the cold ground.  The time of Frostivus comes.
+10156 From far below, a dweller of the deeps has been pressed into service at the surface!
+10157 This mascot of the powerful Pyrexae has two heads with which to scout for trouble!
+10154 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+10155 A strange and fragrant chest. The lock is of an unknown design and the contents are currently a mystery.
+20087 In hushed tones, legends have long been whispered of the near-mythical stormcrows. Enormous, powerful and reclusive, these strange, scarce birds range across the highest peaks of the Prefect mountains, hidden from the world by a constant bank of dark cloud. Their rare sighting are considered ill omens, said to portend of storms soon to follow. Legends also tell of those few who have dared face the dangerous trials required to harness the power of these creatures for themselves.  For the only way to return after stealing the egg of a stormcrow - a potent source of power - is to wrestle control of one of the enormous black birds and ride it down to the ground, miles below.  Includes all of the items in 'The Stormcrow's Spirit' set for Witch Doctor:
+20086 Trinkets and tall tales are just a few of the ways a drifter can make a living out in Riftshadow, but there's a lot more in the waste if you know how to look, and where. You'll want a guide and someone who knows their way in a fight, that should let you scratch the surface and take in some history. Getting rich from the ruins though, that's another matter. If you want to learn Riftshadow's darkest secrets, you better tip well and know how to keep your mouth shut. This here bundle includes all of the items in 'The Riftshadow Roamer' set for Meepo:
+10158 Is it a clever chameleon pretending to be a powerful Wyrm, or a celebrated Wyrm trying to pass itself off as an anonymous chameleon? Truly, the dimensions have begun to spill into each other, and nothing may be taken for granted. Especially not Wynchell.
+10159 The taming of a grillhound is a tale filled with trials and breakthroughs, and more than a few singed eyebrows.
+20083 This bundle contains all of the items for Windrunner released in October 2012.
+20082 Includes all of the items in the 'Cabalist of Dark Magic' set for Invoker:
+20081 Pack includes both the main and off-hand Glaive of the Mage Slayer.
+20080 Includes all of the items in 'The Mage Slayer' set for Anti-Mage:
+4655  The elements used in this mask's construction are able to deflect most spells, just as its shape may divert a blade.
+4654  Brutality defined many of the early weapons used by the Anti-Mage.
+4657  The last person to call these weapons primitive ended up wearing one in his skull.
+4656  Heavy is the burden shouldered by the Beastmaster, and strong is the mantle that supports him.
+4651  Those whom the Anti-Mage hunts may be as skilled with a sword as they are with a spell, and so this collar was crafted to turn their blades aside.
+4650  In an age when fear surrounded sorcery, tales told of an oppressive wizard capable of limitless destruction.
+4653  Time and practice would persuade the Anti-Mage against such a heavy garment, yet its use in combat has not diminished.
+4652  These bracers are made to defend against both swords and sorcery.
+20065 Includes all of the items in the 'Revered Arms' set for Phantom Lancer:
+20064 Includes all of the items in the 'Arms of the Golden Mane' set for Phantom Lancer:
+20067 Includes all of the items in the 'Thunderwrath's Calling' set for Omniknight:
+20066 Includes all of the items in the 'Armor of Renewed Faith' set for Omniknight:
+20061 Includes all of the items in the 'Bones of the Slain Dragon' set for Dragon Knight:
+20060 Includes all of the items in the 'The Crimson Cut-throat' set for Bounty Hunter:
+20063 Includes all of the items in the 'Enchanted Plate of the Crimson Wyvern' set for Dragon Knight:
+20062 Includes all of the items in the 'Fire-Blessed Mail of the Drake' set for Dragon Knight:
+20069 Includes all of the items in the 'Falconer's Design' set for Windrunner:
+20068 Includes all of the items in the 'Wings of the Paladin' set for Omniknight:
+15054 ECAL playoffs will feature 3 teams from the international: EG, coL, and aL along with up and coming teams in the competitive scene such as Quantic Gaming and POTM BOTTOM. A $3,000 prize pool sponsored by Machinima will be offered to the victors.
+15055 This is the test tournament for the systems that will be used at The International. Watch the best Dota 2 teams in Bellevue compete for the grand prize of being hated by their coworkers.
+15056 This is the test tournament for the systems that will be used at The International. Watch the best Dota 2 teams in Bellevue compete for the grand prize of being hated by their coworkers.
+15050 BeyondTheSummit World Tour features 15 of the 16 teams attending The International. Brought to you in association with DotaCommentaries this warmup event is sure to whet your appetite as competitors from four different continents compete for the $1,000 prize that awaits only the top placing team.
+15051 Prodota 2 takes its tournament to the world stage during the play-offs, featuring some of the most well known and talented teams from around the globe. With $30,000 in prize money on the line we'll find out which region of the world truly has the best of the best!
+15052 Prodota 2 takes its tournament to the world stage during the play-offs, featuring some of the most well known and talented teams from around the globe. With $30,000 in prize money on the line we'll find out which region of the world truly has the best of the best!
+15053 ECAL playoffs will feature 3 teams from the international: EG, coL, and aL along with up and coming teams in the competitive scene such as Quantic Gaming and POTM BOTTOM. A $3,000 prize pool sponsored by Machinima will be offered to the victors.
+414   Tusk's Cowl
+415   Tusk's Hat
+416   This new item has no description.
+417   This new item has no description.
+410   Troll Warlord's Default Shoulders
+411   Troll Warlord's Default Head
+412   Troll Warlord's Default Arms
+413   Tusk's Armored Glove
+418   This new item has no description.
+419   This new item has no description.
+4532  He only wanted to hear her song one more time. The dagger was gifed to him, and he keeps it with him to silcene those who wish to silence her song.
+4282  Infused with strength glacial ice, Tiny has the power to scour his enemies from the battlefield.
+4283  With the Army of Red Mist now a bloody heap, the Bloodmist Army rises to fill the void.
+4280  Lost for centuries, the winged axe known as Sylnashar was once the favored weapon of an ancient king.
+4281  Not the actual shoulders of a dragon, but a skilled artist's rendition of it.
+4286  These pauldrons were once owned by a mighty officer of the Bloodmist Army.  Axe is only too pleased to tell the tale of their encounter.
+4287  Sven seemed overcome with nostalgia at the sight of this sword, though he would not say why.
+4284  This helm sits heavily on the head to strengthen the neck below.
+4285  Where the Army of Red Mist trained to aim for the neck, the Bloodmist prefer to aim for the belly.
+4288  What it may lack in weight, it makes up for in finesse.
+4289  While many wizards are jealous of the Invoker's unimaginable power, others are merely jealous of his peerless taste.
+368   This new item has no description.
+369   This new item has no description.
+366   This new item has no description.
+367   This new item has no description.
+364   This new item has no description.
+365   This new item has no description.
+362   This new item has no description.
+363   This new item has no description.
+360   This new item has no description.
+361   This new item has no description.
+380   Troll Warlord's Default Melee Off-Hand Weapon
+381   This new item has no description.
+382   This new item has no description.
+383   This new item has no description.
+384   This new item has no description.
+385   This new item has no description.
+386   This new item has no description.
+387   This new item has no description.
+388   This new item has no description.
+389   This new item has no description.
+4758  It takes a truly special bow to be wielded by fingers of flame.
+4759  "Ah, flesh meat!"
+4750  Eight legs of armor, each hammered from the breastplate of a fallen knight.
+4751  With shaking hands, the doomed blacksmith laid a crown upon the spider's head, saying, "A crown fit for a queen."
+4752  Strong though her natural chitinous armor may be, there is something about the caress of steel against her carapice that privides a special sense of security for the Brood Queen.
+4753  The acolytes of the Solar Goddess said Lina's hair was "touched by the light", and so gifted her with trinkets made to reflect the warming love of the sun.
+4754  During her training in the flame arts, Lina chose to travel east to study with the followers of the Solar Goddess.
+4755  The heat of the eastern wastes is said to be extraordinary.  One must dress appropriately.
+4756  It is said that in a moment of divine inspiration the Solar Goddess herself visited Lina to bless her with power, and grant her this gift.
+4757  The perfect accoutrement for when Lina wishes to "Mix things up a bit." Which is almost always.
+4633  The other blade was just for show.
+4632  It must be admitted: Drow admires the Sylvan Guard. When from time to time she puts on their gear, and pretends to adopt their ways, she can hardly suppress her joy in having an excuse to don this stylish armor.
+4631  The second curse, the curse of the fallen, is lain upon his wings.
+4630  In her youth, Drow was tempted once or twice to throw over her lonely ways and join the Sylvan Guard. These cuffs were a large part of the attraction.
+4634  A belt of cursed power.  Would that the navel of the world were so protected.
+250   This new item has no description.
+251   This new item has no description.
+254   This new item has no description.
+168   This new item has no description.
+169   This new item has no description.
+167   This new item has no description.
+160   This new item has no description.
+161   This new item has no description.
+162   This new item has no description.
+4839  The coil along the staff allows the caster to embellish the course of whatever energies it may release.
+4838  Channeling the arcane and odd, the fearsome and strange, often requires implements both unexpected and unwieldy.
+4528  "Don't worry, precious Axe. Blink Dagger does not come to chop."
+4831   Made of finest rumble-hide, this low-hanging quiver of feathery arrows is ready for action!
+4526  In the Red Mist army, cowards were made to cut their hair in shame.  Axe has known neither fear, nor shame.  Nor a barber.
+4833  Hair tied up and out of the way, she tops it off with a feathery headscarf for a breezy, carefree, I-just-shot-you-in-the-face look.
+4832  Designed to camouflage her outline and confuse attackers, these shoulders of tough harpy feathers offer protection against whirling blades.  This is sure to turn some heads.
+4523  Doom's power has shattered this blade.
+4834  A breezy, flowing cloak is just what one needs to look good on a hunting trip.  Particularly if your prey might be hunting you right back.
+4837  While not as sturdy as a proper dueling mask, this covering is better tuned to project words of power.
+4520  Named after her village that was destroyed in a storm long ago, this cape is a reminder that wind can protect as well as destroy.
+20098 The early shadow priests of the Dezun Order were said to have woven their vestments in utter darkness, for only in the total absence of light could they properly channel the essence of the Nothl Realm into the fabrics. It was believed that once complete, the enchantment would grow stronger as the garment aged. The oldest regalia are therefore not only prized for their hallowed creators, but for the heightened Nothl power they bestow upon the wearer. Contains all of the items in the 'Ancestral Trappings' set for Dazzle:
+20099 He that burns and is not consumed now walks the battlefied, shielded by the ancient promise of the Eleven Curses. Eleven Eyes, eleven seals, eleven curses. All to insure victory in even the worst of battles. Contains all of the items in 'The Burden of Eleven Curses' set for Doom Bringer:
+10169 The original rebel snail, Snelfret refused to conform to a social order that enforced lethargy, a world that told him he must not move too fast. So he loaded up his shell and headed for more dynamic climes, determined to redefine the meaning of snail's pace.
+10168 A chest of magical items created by the community contributor Anuxi.
+10167 Not just a Panda, He's a Captain!
+10166 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+10165 A gnarled chest formed of a dark, still-living wood. The lock glows with cursed runes.
+10164 The Goddess of the Moon presses many forest creatures into her service.  Always crafty, ever vigilant, little Snowl would give his all to aid the guardians of the Nightsilver.
+10163 Attention, Your Pink and Portly Highness, your loyal bearer has arrived! Treat him well, for he is very attached to you. In fact, there's really no way to shake him.
+10162 Nimble Ben here! And there! And everywhere! Send me where you want me and I'm already there!
+10161 A heavy chest of alien crystal. The lock is of an unknown design.
+4427  It can get rainy up in Riftshadow. Best bring along a hat if you want to keep your head dry.
+4959  Never bowed, never broken, Tinek will find the path to victory.  
+4953  This new item has no description.
+4955  The Lion of the Moon lends is mane and its mein to this quiver.
+20076 Pack includes both the main and off-hand Back Hooks.
+20077 Pack includes both the main and off-hand Bloodletter.
+20074 Pack includes both the main and off-hand Spinal Slicer.
+20075 Pack includes both the main and off-hand War Blade.
+20072 All the finery of the Sylvan Guard, complete!
+20073 Pack includes both the main and off-hand Furyblade.
+20070 Includes all of the items in the 'Zaru'Kina Protector's Garb' set for Windrunner:
+20071 Includes all of the items in the 'Flight of the Sparrowhawk' set for Windrunner:
+20078 Pack includes both the main and off-hand Bonehunter Slicer.
+20079 Includes all of the items in 'The Corpse Maiden' set for Death Prophet:
+15119 The famous G-League Tournament makes its Dota 2 debut on Dec. 25. Watch the best 8 asian teams, including IG, LGD and DK, compete for a prize pool of $40,000. Hosted by GameFY
+15118 This December Malaysia will be the focal point for all things eSports in Asia as gamers from all around the region turn their attention to what will be its last major eSporting event for the year - The Games Expo (TGX) Malaysia.
+15115 Used to open locked Treasure Chests.Double click or right-click the key in your backpack and select the chest you want to open.
+15114 Use this item to increase the rate at which you earn Battle Points by 75% for 2 hours. Additionally, you will grant other players a stacking 15% bonus to their Battle Points rate.
+15117 A gift for saving Frostivus from the Greevils! What could be inside? It is a mystery. This particular gift looks to be in excellent condition.
+15116 A gift for saving Frostivus from the Greevils! What could be inside? It is a mystery. This gift looks like a Greevil sat on it or maybe chewed it up.
+15111 This December Malaysia will be the focal point for all things eSports in Asia as gamers from all around the region turn their attention to what will be its last major eSporting event for the year - The Games Expo (TGX) Malaysia.
+15110 The RaidCall Dota 2 League returns for a second $10,000 season. The top twelve teams in the western world battle it out six days a week for eleven total weeks live with commentary by Ayesee and Draskyl. Over 120 matches guaranteed.
+15113 Use this item to increase the rate at which you earn Battle Points by 75% for 2 hours. Additionally, you will grant other players a stacking 15% bonus to their Battle Points rate.
+59    Clinkz default Quiver
+58    Clinkz default Shoulder Pads
+55    This new item has no description.
+54    This new item has no description.
+57    Clinkz default Bow
+56    Clinkz default skull
+51    This new item has no description.
+50    This new item has no description.
+53    This new item has no description.
+52    This new item has no description.
+20133 This bundle contains all of the items in the 'Carapace of the Hidden Hive' set for Nyx Assassin:
+20132 Silencer proves that a lack of magic can be the greatest magic of all.  This bundle contains all of the items in the 'Grand Inquisitor' set for Silencer:
+20131 This bundle contains all of the items in the 'Bindings of Enduring Torment' set for Queen of Pain:
+15029 This item will allow you to change the color of the particle effects on one unusual item. Note that this does not work on Felicity's Blessing or the Affliction of Vermin. This item is consumed upon use and its effects cannot be reversed.
+15028 This item will allow you to change the color of the particle effects on one unusual item. Note that this does not work on Felicity's Blessing or the Affliction of Vermin. This item is consumed upon use and its effects cannot be reversed.
+20130 As a craftsman is no better than his tools, a traveler is no better than the kit he carries on his back.  With this gear, Sniper treks through dangerous territory, confident in his ability to get the job done.  Contains all of the items in the 'Sharpshooter' set for Sniper:
+15021 Adding this Strange Modifier to a strange item of your choice will allow it to also track the amount of gold you earn while wearing it. The gold earned stat will update at the end of a match.
+15020 Adding this Strange Modifier to a strange item of your choice will allow it to also track the number of wards you place while wearing it.
+15023 Adding this Strange Modifier to a strange item of your choice will allow it to also track the amount of gold you spend while wearing it. The gold spent stat will update at the end of a match.
+15022 The Defense is the most prestigious Dota 2 online tournament held by joinDOTA, powered by Razer & BenQ. Featuring 20 hand-selected world-class teams and four community wildcard winners $10,000 prize money await only the toughest and most experienced of contestants on their way to the top.
+15025 This item will allow you to change the color of the particle effects on one unusual item. Note that this does not work on Felicity's Blessing or the Affliction of Vermin. This item is consumed upon use and its effects cannot be reversed.
+15024 Adding this Strange Modifier to a strange item of your choice will allow it to also track the number of towers you destroy while wearing it.
+15027 This item will allow you to change the color of the particle effects on one unusual item. Note that this does not work on Felicity's Blessing or the Affliction of Vermin. This item is consumed upon use and its effects cannot be reversed.
+15026 This item will allow you to change the color of the particle effects on one unusual item. Note that this does not work on Felicity's Blessing or the Affliction of Vermin. This item is consumed upon use and its effects cannot be reversed.
+428   This new item has no description.
+20135 Contains all of the items in the 'Alchemy Essentials' set for Alchemist:
+421   Skywrath Mage's Head
+420   Skywrath Mage's Weapon
+423   Skywrath Mage's Belt
+422   Skywrath Mage's Wings
+425   Skywrath Mage's Bracersn.
+424   Skywrath Mage's Shoulders
+427   This new item has no description.
+426   This new item has no description.
+4299  Such lethal pieces have no place outside the field of battle, which is why Huskar rarely takes them off.
+4298  In a time long forgotten, a grateful king once gifted the Prophet these horns as thanks for aid of the forest.
+4295  A relic of the Tribal Wars, this cap is said to have belonged to a powerful chieftain.
+4294  Until the Tribal Wars, the Ursa clan never thought to cover themselves in armor.  With the war now a distant memory, such arms are now considered more ceremonial than practical.
+4297  It is said that to hold the Ruling Sword is to conquer one's destiny.
+153   This new item has no description.
+152   This new item has no description.
+155   This new item has no description.
+154   This new item has no description.
+157   This new item has no description.
+156   This new item has no description.
+159   This new item has no description.
+158   This new item has no description.
+4518  Each facet of the gem reflects the captured soul of a bound demon.
+4519  Protect your legs with the skirt of the Crimson Wyvern.  You are manly enough to pull it off; you're a knight after all.
+4512  A cape for all weather, this is a garment that any falconer would be proud to wear.
+4513  Is that the eyes of the Crimson Wyvern that peer out from this ancient shield?  I think it is.
+4510  Warlock brings light into the world with this twisted confluence of iron and magic.
+4511  This mask is not meant to keep toxic gasses out, it's meant to keep them in!
+4516  A helm forged in the likeness of the ancient Crimson Wyvern.
+4514  A weapon capable of hammering the most unmalleable of unbelievers into shape.
+4515  Armored only with your faith in the Omnicient...is not the way to go.  Also, use real armor.  Like this.
+10170 Inky the hexapus was fished from the waters of the Horn of Despair and pressed into service by a fleet of marauding pirates, carrying messages to and fro between ships.
+10171 The Llama Llama courier... with a courier THIS good, you name him TWICE!   "Fleet of Foots" and "Service with a Smile!" ... What more can you ask for?
+10172 All hail Kupu the Metamorpher!  Honest and forthright, Kupu with delivery your items in a most timely fashion.  Steadfast!
+10174 Tis said among artisan and warrior alike that there is no finer servant than a trusty smeevil.  However, a hero who chooses a smeevil as their courier may soon find these clever critters taking new forms in order to gain assistants of their own. Inspired by the great battles they bear witness to, a smeevil may become emboldened to press ever more exotic beasts to their cause.
+10175 A chest that seems mildly poisonous to the touch. The contents are unknown.
+10160 This item replaces the default announcer with punchy lines from Tusk.
+20043 Includes all of the items in the 'The Ursine Ravager' set for Ursa:
+20042 Includes all of the items in the 'The Iron Bear' set for Ursa:
+20041 Includes a massive pile of 47 new items:
+20040 Includes all of the items in the 'Magus Magnus' set for Invoker:
+20047 Includes all of the items in the 'The Bonehunter' set for Bloodseeker:
+20046 Includes all of the items in the 'The Hierophant's Protection' set for Omniknight:
+20045 Includes all of the items in the 'The Master Assassin' set for Bounty Hunter:
+20044 Includes all of the items in the 'The Savage Age' set for Ursa:
+20049 Includes all of the items for Bounty Hunter released up to August 2012:
+20048 Includes all of the items in the 'The Alpine Stalker' set for Ursa:
+15108 The Defense, one of the biggest online tournaments, is going into its third season with new sponsors ROCCAT and own3D.tv. Over the course of three months, 24 invited professional teams and eight teams from an open qualifier will battle for a prize pool of $20,000. The ticket for The Defense 3 will entitle you to over 100 broadcasted matches by Toby "Tobi Wan Kenobi" Dawson as well as one unique courier.
+15109 The RaidCall Dota 2 League returns for a second $10,000 season. The top twelve teams in the western world battle it out six days a week for eleven total weeks live with commentary by Ayesee and Draskyl. Over 120 matches guaranteed.
+15106 StarLadder's Star Series is one of the most prestigious Dota 2 leagues, powered by Intel & Asus and casted by v1lat and TobiWan. The keystone of Star Series is the LAN final, held in Kiev CyberSport Arena, Ukraine. Watch the best Dota 2 teams compete for $15,000 and the title Star Series Champion.
+15107 The Defense is back with new sponsors ROCCAT and own3D.tv. Watch 24 invited professional teams and 8 teams from an open qualifier battle for a prize pool of $20,000. This ticket will entitle you to over 100 broadcasted matches by Toby "Tobi Wan Kenobi" Dawson as well as one exclusive courier.
+15104 Watch the DreamHack Dota 2 Corsair Vengeance Cup at this year's Dreamhack Winter where 16 teams compete for the 200 000 SEK prize purse. The Grand Final is played in the DreamArena Extreme in front of 1100 fans.
+15105 StarLadder's Star Series is one of the most prestigious Dota 2 leagues, powered by Intel & Asus and casted by v1lat and TobiWan. The keystone of Star Series is the LAN final, held in Kiev CyberSport Arena, Ukraine. Watch the best Dota 2 teams compete for $15,000 and the title Star Series Champion.
+15102 It's Gosu returns with its third edition of the Asia Madness where the ten best teams from Asia will be competing for a prize pool of $5,000 in a triple elimination format.
+15103 Watch the DreamHack Dota 2 Corsair Vengeance Cup at this year's Dreamhack Winter where 16 teams compete for the 200 000 SEK prize purse. The Grand Final is played in the DreamArena Extreme in front of 1100 fans.
+15100 atoD 2 features 8 top North American and European teams. Using Reverse Captain's Mode, teams will surely play unconventional heroes and sabotage each other's lineups.  With some of the proceeds going to the prize it's the first tournament to include a direct way for fans to increase the prizepool.
+15101 It's Gosu returns with its third edition of the Asia Madness where the ten best teams from Asia will be competing for a prize pool of $5,000 in a triple elimination format.
+4198  The Mono Militis are one of several sects among the Vigil Knights. Adherents have tasked themselves with hunting down those who have strayed from the teachings of the Vigil Codex.
+4199  A heavily weighted sword fashioned in the two-handed style of the Flameguard sect of the Vigil Knights.
+4196  This pauldron bears the cats-eye sigil of the Mono Militis sect and has been dressed with fine trim to show the elevated status of its owner.
+4197  A helm of the Mono Militis, its protective design occludes the wearer's natural sight. The forward mounted cats-eye gemstone is imbued with scrying magics that enhance the vision of the wearer.
+4194  A heavy bow of Pincher Iron, mined by the Drow deep beneath the earth.
+4195  It's not uncommon for bandits to wear leather gorgets to protect their throats from the knives of their 'allies.'
+4192  A trident cursed by a host of sea gods and sealed within in the depths of the Coral Breach for thousands of years.
+4193  A crystalline focus hung at the center of the staff gives the Witch Doctor unnatural sight.
+4190  The petrified remnants of ancient souls still cling to Krobelus in a futile attempt to return to life.
+4191  Returning from death, Krobelus often found wisps and remnants of desperate souls clinging to her shoulders.
+4358  Aggron says they found it just lying by the side of the road on a bandit they killed.
+4359  Aggron says they won it in a game of chance.  Who are we to argue?
+4354  A pair of magical short blades, balanced and light. Unpack this bundle to receive both Sange and Yasha for Riki.
+4355  Most see being stabbed in the back as a hindrance, but for a few, it's an inspiration.
+4356  Ugh.  It tastes like sour grapes.
+4357  On the Isle of Masks, death is said to have many watchful eyes.
+4350  The title of Brewmaster is won in combat. This ancient weapon is also passed with the title.
+4351  This sickle is a symbol and ritualistic tool of the Bear Clan, a forgotten druidic order that sought to restore the world.
+4352  The druids of the Bear Clan were outcasts to society, simple nature dwellers and forest walkers. They had little coin or use for coin.
+4353  Each nobleblood general of the Royal House of Ambry bore these pauldrons as a part of their formal wear.
+15038 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of your Powershots that hit at least two enemy Heroes while wearing it as Windrunner.
+15039 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of enemies you've killed with Sunstrike as Invoker.
+15032 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of dying enemies you were Tracking while wearing it as Bounty Hunter.
+15033 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of dying invisible enemies you were Tracking while wearing it as Bounty Hunter.
+15030 This item will allow you to change the color of the particle effects on one unusual item. Note that this does not work on Felicity's Blessing or the Affliction of Vermin. This item is consumed upon use and its effects cannot be reversed.
+15031 This item will allow you to change the color of the particle effects on one unusual item. Note that this does not work on Felicity's Blessing or the Affliction of Vermin. This item is consumed upon use and its effects cannot be reversed.
+15036 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of your Ravages that hit at least four enemy Heroes while wearing it as Tidehunter.
+15037 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of your Shackleshots that bind two enemy Heroes while wearing it as Windrunner.
+15034 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of times you break invisibility with a Jinada strike on an enemy hero while wearing it as Bounty Hunter.
+15035 Adding this Strange Modifier to a strange item of your choice will allow it to also count the total bonus gold you've earned from Tracked kills while wearing it as Bounty Hunter.
+4677  Any suitably imbued staff will serve for most sorcerers.  However, being an aspiring councilor requires that certain concessions be made to form.
+20097 Since escaping bondage in kingdom of Slom, Beastmaster has always drawn strength from the natural world around him. When other heroes turn to steel or magic, Beastmaster turns to more ancient implements: feathers, leathers, bones and fur.  With these primitive tools, he's proven his worth against even the most well-armed knight. This bundle contains all of the items in the 'Hunter of the Red Talon' set for Beastmaster:
+438   This new item has no description.
+439   This new item has no description.
+436   This new item has no description.
+437   This new item has no description.
+4906  The bones of the earth that make the blade of this dagger are no less sacred than the warrior who once held it.
+4776  The barding is lighter both in weight and in coloring, both necessary elements for survival in the dry wastes.
+4777  Though it does not have the heft of the traditional rod, it lacks none of its potency.
+4774  Those of the Hazhadal Barrens know the dangers of wearing improper headgear in the desert wastes.
+4775  He that burns carries all the weight of the Apocalypse upon his mighty shoulders.
+4772  In penance for his transgressions Chen was made to don the arms of his new faith, and wander his former desert home seeking conversions.
+4773  The shoulderguards reflect the heavenly light above as a beacon of salvation visible from leagues away.
+4770  The sovereign of Yoskreth insisted that their champion be given the finest guard they could forge.
+4771  The sentient sands of the Scintillant Waste don this glorious headpiece for only their most sacred rites.
+4778  In his gratitude, the sovereign of Yoskreth bid that fine robes be made for the warrior who had bested Sahsk's vile enchantments.
+4779  With the defeat of Sahsk, the sovereign of Yoskreth granted the Anti-Mage tools befitting one of such power and skill.
+4174  The only day Axe declared defeat was the day he tried to forge a weapon with an axe.
+4175  The warriors of the Red Mist are not only superb fighters, but also master smiths. Each grunt is expected to craft his own sword and his own shield. Should his war tools fail him on the battlefield, the grunt has only his own hands to blame.
+4176  A wicked bow bristling with crystalline spikes.
+4177  Heaviest at its furthest tip, the cleaver is said to be able to cut through anything, be it steel or stone or bone.
+4170  A curved scythe, used to capture men or cut them down like so much wheat.
+4171  An already heavy blade, made even heavier by the weighted ring looped through the top. This is not a weapon for finesse, but for taking the enemy's head in a single strike.
+4172  Written upon it a lost language are the words, "Kiss the axe."
+4173  An armlet scratched and scorched. It has shown heavy use at the forge.
+4178  One might think that the bounty hunter thinks nothing of his victim. On the contrary, the bounty hunter understands his target's pain and fear. He simply does not care.
+4179  The value of a contract is measured not only in the bounty paid, but in the loot taken from the mark's cold corpse.
+4619  Proving that every part of the sparrowhawk can be turned into a stylish item for Windrunner to wear, this quiver speaks to the utility of sparrowhawks as a species.
+4618  A bow brought back from hell itself.   With this weapon, enemies will feel the searing burn of your anger.
+238   This new item has no description.
+239   This new item has no description.
+4611  Let this blade drink deep of your foe.
+4610  Made from the interlocking scales that sit above the wyvern's spine, this crimson bracer is a perfect fit for knight's forearm.
+236   This new item has no description.
+237   This new item has no description.
+230   This new item has no description.
+231   This new item has no description.
+232   This new item has no description.
+233   This new item has no description.
+20160 Contains all of the items in the 'Spoils of the Bone Ruins' for Meepo:
+20163 This bundle contains all of the items in the 'Battle Caster' set for Lina:
+20161 War kit truly worthy of a conquerer.  This bundle contains all of the items in the 'Conquering Tyrant' set for Centaur Warrunner:
+20162 This bundle contains all of the items in the 'Penumbral Vesture' set for Phantom Assassin:
+146   This new item has no description.
+147   This new item has no description.
+144   This new item has no description.
+145   This new item has no description.
+143   This new item has no description.
+140   This new item has no description.
+141   This new item has no description.
+20164 This set contains all of the items in the 'Ancient Sovereign' set for Sand King:
+148   This new item has no description.
+149   This new item has no description.
+4505  Garb designed for courtly wear, Naga shows her fearless ferocity by wearing it to war.
+4504  A beautiful hood in the style of the falconers of old.
+4507  Only those who are called in service to the Omniscient can wear a cape such as this.
+4506  "Will you die to the Maiden, or to the Mistress?" Pity whoever hears this final lyric.
+4501  Sandking uses these pincers as another set of hands, grappling onto prey as they scuttle above his sandy hideaway.
+20166 This bundle contains all of the items in the 'Moon Rider' set for Mirana:
+4503  One of only a dozen swords in existence known to have slain more than one dragon.
+4502  A light spear, balanced for quick slashes.
+20167 It is a foregone conclusion that you buy this set.  This bundle contains all of the items in the 'Attributes of the Foretold' set for Keeper of the Light:
+4509  "My Mistress, your Master," sings Naga as her enemies bow, never to rise. 
+4508  A stylish and dramatic helm truly fitting a knight of the Omniscient.
+20165 This bundle contains all of the items in the 'Caustic Steel' set for Alchemist:
+227   This new item has no description.
+20058 Includes all of the items in the 'Birot's Bindings' set for Morphling:
+20059 Includes all of the items in the 'Shards of the Falling Comet' set for Morphling:
+20054 Includes all of the items in the 'Dials of Claszureme' set for Faceless Void:
+20055 Although no pirate, even Kunkka still puts on piratical airs on Talk Like a Pirate Day. Join him in the one-day festivities, with this bargain bundle containing every pirate-themed item at a price so low, it's practically plunder!
+20056 Includes all of the items in the 'Shards of Polymorphia' set for Morphling:
+20057 Includes all of the items in the 'Bindings of Frost' set for Morphling:
+20050 Includes all of the items for Ursa released up to August 2012:
+20051 Includes all of the items in the 'Armor of the Saberhorn' set for Axe:
+226   This new item has no description.
+20053 Includes all of the items in the 'Demonic Vandal's' set for Clinkz:
+15139 WePlay.TV proudly presents the WePlay Dota 2 League, brought to you by Logitech, Western Digital, and Inno3D! Beginning this March, thirty-two of Western Dota's best will duke it out online for $20,000 in cash & gear prizes with professional commentary from Beyond the Summit and WePlay.TV.
+15138 WePlay.TV proudly presents the WePlay Dota 2 League, brought to you by Logitech, Western Digital, and Inno3D! Beginning this March, thirty-two of Western Dota's best will duke it out online for $20,000 in cash & gear prizes with professional commentary from Beyond the Summit and WePlay.TV.
+15133 Used to open locked Treasure Chests of Crystalline Chaos.Double click or right-click the key in your backpack and select the chest you want to open.
+15132 The 4PL is an European online gaming league and provides, besides many other events, the exciting and well known Play4Dota2 tournaments with teams participating from all over the world. Form your team, win money or hardware prizes and meet or encounter some of the best Dota 2 players.
+15131 The 4PL is an European online gaming league that provides, besides many other events, the exciting and well known Play4Dota2 tournaments with teams participating from all over the world. Form your team, win money or hardware prizes and meet or encounter some of the best Dota 2 players.
+15130 StarLadder's StarSeries Season 5 is back! Broadcast in 4 different languages with v1lat and TobiWan as headliners and a grand prize of $15,000 this should be the best StarSeries yet! The keystone of StarSeries is its LAN finals, held in Kiev Cybersport Arena. Includes an exclusive in-game Courier.
+15137 The battle between the best Dota 2 teams in Asia is on! Watch as they game fiercely to win a chance to be sponsored by the big names in corporate alliance!
+15136 The battle between the best Dota 2 teams in Asia is on! Watch as they game fiercely to win a chance to be sponsored by the big names in corporate alliance!
+15135 The Gigabyte E-Sports Tournament is sponsored by Gigabyte and hosted by DotaTalk. The winners of 8 GMPGL qualifiers from South-East Asia will compete against one another for another cash prize of $1500. The winners will have the privilege to compete against the Top Chinese Teams for another $1500.
+15134 The Gigabyte E-Sports Tournament is sponsored by Gigabyte and hosted by DotaTalk. The winners of 8 GMPGL qualifiers from South-East Asia will compete against one another for another cash prize of $1500. The winners will compete against the Top Chinese Teams for another $1500.
+4189  'Ouch!'
+4188  Gold is only one reason why Gondar hunts.
+4181  The time-altering properties of chronite stabilizes the Faceless Void's presence in the material realm.
+4180  Short in size, but long on killing power, this little bow is an ideal weapon for dispatching overconfident enemies.
+4183  A symbol of power within the infinite halls of Claszureme.
+4182  A pair of chronite encrusted bracers that seem to warn the Faceless Void of his enemies' future attacks.
+4185  Despite their size, these sharp ice-like crystals weigh almost nothing and so do not hinder the Drow Ranger's use of the bow.
+4184  The Faceless Void has known many forms, his body twisted by the nameless forces that whorl and eddy within the time streams.
+4187  None would say that Gondar the Bounty Hunter does not take pleasure in his work.
+4186  Light plate greaves decorated with sharp crystal spikes. These are designed to provide protection without inhibiting movement.
+15007 When used, this Action Item gives a random item drop to a random person on the server (not you). You can use this item by equipping it as an action item and then activating it during a match.
+15006 Delicious, delicious coal!
+15005 Use this item to increase the rate at which you earn Battle Points by 75% for 6 days. Additionally, you will grant other players a stacking 15% bonus to their Battle Points rate.
+15004 Use this item to increase the rate at which you earn Battle Points by 75% for 3 days. Additionally, you will grant other players a stacking 15% bonus to their Battle Points rate.
+15003 Used to open locked Treasure Chests.Double click or right-click the key in your backpack and select the chest you want to open.
+15002 Use this tool to add 128 slots to your backpack. Backpack Expanders are consumable items that may only be used once.
+4349  Among the Brewmasters of Oyo diligent drunkenness is the only path to enlightenment.
+4348  Although unknown to the land-based historians of terrestrial empires, the mythologies of sea-dwelling creatures oft look to the moon and stars for wisdom and guidance.
+4347  The runes along the edge prevent it from being enchanted by those that may seek to disarm the wielder.
+4346  To grip such a weapon is to maintain one's hold on reality.
+4345  In the hands of one, the uses of this lance are few.  In the hands of many, however...
+4344  With five Meepos you've got quite the band.
+4343  But does Yurnero ever smile beneath the mask?
+4342  A skilled warrior wielding this sword can tell the type of blade he faces by the sound it makes when they clash.
+4341  A rare but useful mutation. The spikes are actually malformed teeth that grew out of place, and well out of hand.
+4340  When visions of Death bring a chill, this scarf keeps Death Prophet warm. Then again, she enjoys a little chill.
+13    Omniknight's old bracers
+4761  Cleave fast, die young, and leave an imperishable corpse!
+4760  A few quick turns under Pudge's Tenderizer, and even the toughest foe goes down like butter.
+4763  Disruptor had his eye on Grull from the moment he spotted the beast standing in the corner of the breeder's yard. "Who's that one then?" "Grull. None can ride her. She's too disruptive." "Perfect! I'll ride her home!" 
+4762  When Sven stands his ground, this blade stands with him.
+4765  No mere clam-splitter, this.  Kunkk wields a fine blade of strongest steel, able to pierce Kraken hide. 
+4764  Though doom and ruin they saw, the visions of the haruspex brought to Sylla a sense of destined calm. During mediations, he found his spiritual projections altered to appear less intimidating.
+4767  Many a storm has sluiced down upon these broad shoulders, now protected from the stormy seas by this stylish all-weather gear.
+4766  Rain, nor waves, nor driving wind can chill Kunkka's head while he's wearing this noble cowl.
+4769  The fashions of Yoskreth are not common in much of the rest of the world.
+4768  Make no mistake, Kunkka is a salty old sailor not to be underestimated.  If he wears puffy cuffs, it's because he has something up his sleeve.
+4167  The twinblade is designed to provide balance and flexibility in combat. The user can strike enemies quickly and at unexpected angles.
+4166  Twin-frost orbs charge this bow with arcane energy.
+4165  It is ever the warrior's charge to keep anger in check.  In the heat of battle, however, controlling emotions are the least of one's concerns.
+4164  The work of the Axe is grim and endless.
+4163  Those who deny the strength of the Axe soon find a worthy place from which to witness his deeds.
+4162  A heavy woolen cloak dyed black. It could make even Axe seem stealthy.
+4161  A blood spattered and heavily notched blade. It has seen much use.
+4160  An exceptional specimen, surely the Captain's first pick of the loot. The hilt is dressed in worked gold and exotic stones. The blade blessed with a strangely glowing enchantment.
+4169  This shuriken's blades are clean and sharp, a weapon fresh and ready.
+4168  A solidly built hammer, inscribed with the names of the Holy Hierophants and imbued with the might of the Omniscience.
+201   This new item has no description.
+200   This new item has no description.
+203   This new item has no description.
+202   This new item has no description.
+205   This new item has no description.
+204   This new item has no description.
+207   This new item has no description.
+206   This new item has no description.
+209   This new item has no description.
+208   This new item has no description.
+229   This new item has no description.
+228   This new item has no description.
+4571  When a heavy silence falls, Nortrom will need mighty shoulders such as these to bear up under its weight.
+4572  With this three-bladed glaive, Nortrom ensures a silence that will never be broken.
+4573  These blades were taken from the corpses of slain leviathans following the battle of Crey.
+4574  As if knowing the destiny that awaited it, the comet that once carried Morphling from the heavens produced from its own substance a pair of armlets that would one day fit its passenger perfectly.
+4575  To wield such a prized spear, one must have courage and ferocity befitting the honors of the Golden Mane.
+4576  To gain the honors of the Golden Mane, one must endure incredible sacrifice.
+4577  In each ferocious face is set determination without fear.  Such is required from those who would don the honors of the Golden Mane.
+4578  Stripped of her rank and station, the exile Slithice has been instructed to cover her headfin while among her people.
+4579  Fashioned in the forge of an undersea volcano, the obsidian plating was a given to Slithice as a gift from the grateful denizens of Crey.
+225   This new item has no description.
+224   This new item has no description.
+223   This new item has no description.
+222   This new item has no description.
+221   This new item has no description.
+220   This new item has no description.
+4888  With his head shaved to better commune with the minds of his animal brothers, Beastmaster is prepared for any battle.
+4889  A thick, protective vest of finest pantheran hide.  
+4880  From a race of dragons that normally patrols the dark side of the moon, Ormr wanted to see the world.
+4881  Able to see a tic on a mouse's back at a thousand paces, Sniper's Spottin' Goggles are a marvel to behold.
+4882  In Dark Reef Prison, Slark kept too low a profile to ever be called a trendsetter. He figured nobody noticed his radical look. But as soon as he had broken out, the remaining inmates began to imitate this finny style. 
+4883  Few know that Rubick's talents for mimicry extend to arcane assembly.
+4884  What good is a battle without a banner to celebrate it?  No good at all, or so says the Juggernaut.
+4885  Worn in remembrance of his time in the stocks.  These bracers are both a symbol of his bondage, and a promise that he will never again serve nobility.
+4886  Even his axes are trained.
+4887  Woven from the pelt of a fallen pantheran, this belt is s symbol of the Beastmaster's strength.
+4408  Recycled from scraps of old wine casks, this quiver is the ultimate in green construction.
+4409  A belt handed down through generations; the meaning of the sigil at its center has been lost to time.
+4404  Morphling emulates the eternal patterns of Polymorphia in all he does. And by this crown, he marks himself a master of the art.
+4405  The sigil of Saberhorn's army is carved into the shoulder.
+4406  This belt once belonged to Saberhorn, a legendary general from a bygone era.
+4407  The legendary general Saberhorn was said to have been able to end any duel with a single swing.
+4400  A gilded keepsake from her first assassination, this heirloom once graced the flowing locks of Queens.  Now Templar Assassin wears it as reminder that no one is beyond her reach.
+4401  A traditional hakama from Isle of Masks. It was given to Yurnero by his late swordmaster, long before his exile.
+4402  This heirloom is old and cracked, yet for Azwraith it smells of home.
+4403  The power of Polymorphia is but barely contained between these splendid crests, and takes its most awe-inspiring form in the shape of their devoted wearer, Morphling.
+20119 This bundle contains all of the items in the 'Ceremonial Carapace of Qaldin' set for Sand King:
+20118 He that burns and is not consumed carries with him all the armaments of the Apocalypse. This bundle contains all of the items in the 'Apocalyptic Fire' set for Doom:
+20115 This bundle contains all of the items in the 'Bone Scryer' set for Death Prophet:
+20114 Contains all of the items in the 'Blessings of the Wildwing' set for Enchantress:
+20117 This bundle contains all of the items in the 'Arms of the Bramble Lord' set for Phantom Lancer:
+20116 Contains all of the items in the 'Councilor's Raiment' set for Rubick:
+20111 This bundle contains both the main and off-hand Etched Crescent of Yoskreth.
+20110 This bundle contains all of the items in the 'Arms of the Penitent Nomad Set' set for Chen:
+20113 This bundle contains all of the items in the 'Wings of the Gilded Falcon' set for Windrunner:  Quick as wings, light as feathers, golden as the sun; the wings of the guilded Falcon set is a tribute to a rare and deadly predator.
+20112 This bundle contains all of the items in the 'Gifts of Yoskreth' set for Anti-Mage:
+15041 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of Wards purchased.
+15040 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of Couriers purchased.
+20029 Includes all of the items in the 'Spikes of Frost' set for Drow Ranger:
+20028 Get immediate access to Dota 2 and start playing right away!		This bundle includes a Mighty Boar courier, and a full set of items for Sven, Juggernaut, and Witch Doctor. Dota 2 is currently only available on the PC.
+20021 Includes all of the items in the 'Ritual Garb of the Seeker' set for Bloodseeker:
+20020 Includes all of the items in the 'Direstone Bindings' set for Morphling:
+20023 Includes all of the items in the 'The Paleogeneous Punisher' set for Tidehunter:
+20022 Includes all of the items in the 'The Pirate's Booty' set for Tidehunter:
+20025 Includes all of the items in the 'Uldorak's Hide' set for Dragon Knight:
+20024 Includes all of the items in the 'The Admirable Admiral' set for Kunkka:
+20027 Includes all of the items in the 'The Fires of Exort' set for Invoker:
+20026 Includes all of the items in the 'The Radiance of the Crusade' set for Omniknight:
+15049 BeyondTheSummit World Tour features 15 of the 16 teams attending The International. Brought to you in association with DotaCommentaries this warmup event is sure to whet your appetite as competitors from four different continents compete for the $1,000 prize that awaits only the top placing team.
+15124 Watch 10 of the best teams from Europe and America contend for a prize of $10,000. This ticket will entitle you to over 100 matches commentated by Blaze & Rainmaker and Russian commentary by Versuta. Also included is the exclusive courier 'Wynchell the Wyrmeleon'.
+15125 Watch 10 of the best teams from Europe and America contend for a prize of $10,000. This ticket will entitle you to over 100 matches commentated by Blaze & Rainmaker and an exclusive Courier!
+15126 Used to open locked Treasure of the Forbidden Lotus.Double click or right-click the key in your backpack and select the chest you want to open.
+15048 Star Series is one of the most prestigious Dota 2 leagues held by StarLadder, and powered by Intel and Asus. The keystone of Star Series is the LAN final, which is held in Kiev CyberSport Arena, Ukraine. Watch the six best teams compete for the Grand Prize of $15,000 and the title Star Series Champion.
+15120 The famous G-League Tournament makes its Dota 2 debut on Dec. 25. Watch the best 8 asian teams, including IG, LGD and DK, compete for a prize pool of $40,000. Hosted by GameFY
+15121 Used to open locked Treasure of Dark Implements.Double click or right-click the key in your backpack and select the chest you want to open.
+15122 The SEA League features SEA's finest teams as they compete in several stages of the tournament. Two weeks of intense action will be commentated by GoDz and LD of BeyondthesummitTV.
+15123 The SEA League features SEA's finest teams as they compete in several stages of the tournament. Two weeks of intense action will be commentated by GoDz and LD of BeyondthesummitTV.
+15128 The RaidCall EMS One Spring 2013 is the new premier Dota2 competition. Over the course of several weeks, established teams will face up-and-coming challengers in the fight for a spot in the playoffs and eventually at the live event finals, competing for $39,000 in prize money.
+15129 StarLadder's StarSeries Season 5 is back! Broadcast in 4 different languages with v1lat and TobiWan as headliners and a grand prize of $15,000 this should be the best StarSeries yet! The keystone of StarSeries is its LAN finals, held in Kiev Cybersport Arena. Includes an exclusive in-game Courier.
+60    Clinkz default horns
+61    Clinkz default skull
+15010 Just when they least expect it... Snowball fight!
+15011 Frostivus is no time to be caught out in the cold. Let a warming fire melt the chill away from you and your friends.Only usable during Frostivus.
+4378  A bow of bone and steel, emblazoned with archaic runes that corrupt all who can read their inscription.  Luckily, no one can.
+4379  Hollom tak vo'Ozh hedoq!
+15014 Killing Spree is a perpetual King of the Hill event featuring four premier teams from North America. Each team will battle their way to the top and attempt to win three matches in a row for a "killing spree". Hosted by NEO Dota.
+15015 Watch eight of the best Dota 2 teams compete for a spot in The International
+15016 Watch eight of the best Dota 2 teams compete for a spot in The International
+15017 This item is an invitation to personally attend the Dota 2 International Tournament, August 31 - September 2 2012, in Seattle, WA. Attendees will receive preferential seating on the show floor.<br><br>This ticket must be activated from your in-game backpack. Once activated, the ticket will be consumed and removed from your backpack and registered on your Steam account. Ticket information will be emailed no later than June 30th, 2012 to the email address associated with your Steam account.<br><br>This purchase also includes a tradable Dota 2 Invite that grants access to the game (PC only).
+4372  This weapon once adorned a nobleman's mantel collecting dust, which is exactly the fate Axe made for the nobleman's head.
+4373  Direstone is not a substance to be worn lightly. When Morphling dons these bracers, he means business.
+4370  Forged from the finest dragon's gold, these vambraces are a bargain at any price.
+4371  While the edge has cracked and chipped on the lives of hundreds, it has never failed to finish the job.
+4376  The helm of the legendary general Saberhorn has seen countless battles and wars.
+4377  Izhai icha ensh safras!
+4374  Lacking flesh, Clinkz adorns his skeletal hand with the claw of the Vandal.  Forged by smeevils in ages long past, this iron claw is for many hapless victims the iron grip of death itself.
+4375  If it was good enough to cut the heart from a heretic, then it is good enough to cut the heart from anyone.
+4830  Few assassins would dare use with such a finely wrought implement in combat, yet to the skilled this blade offers balance and sharpness more than equal to any task.
+4080  The aspect of the high plains ram imbues its bearer with the endurance of mountains.
+4081  A warrior that slays the wolf with open handed strikes may bear its aspect into war as a symbol of courage and tenacity.
+4082  A set of serviceable bracers, made from the mighty mountain wolf.
+4083  "In the grip, the left hand must know Ardent Volition and the right hand must know Cultivated Grace. In this way the strike that follows bears both intentionality and respect. It is only the brute who strikes without these considerations."
+4084  Does this beard represent the brutal cycle of life in the wild? Or is it tied back simply to prevent it from getting in the way of one's mayhem? Perhaps it holds both a symbol and a purpose.
+4085  Glory to her that brings the wind and upon it life's essence!
+4086  While lesser druids draw upon blood and mana to work their arts, Nature's Prophet taps directly the heart of Verodicia's wrathsome will.
+4087  The men of the deep forest are not like their milk-fed cousins. Primal, driven by instinct and a will to survive, they call upon nature's pantheon and know nothing of gentle gods.
+4088  Two sigils that bear the signs of an Elder Ecology.
+4089  Even for the Avatars of Immortals modesty is sometimes called for.
+4691  Draped in the dark magic of a fabric as sheer as the new moon's faintest rays, Mirana glides silently through the dark.
+4690  Even in the dark of a moonless night, Mirana shall not fumble for an arrow when she carries the Nightsilver Quiver.
+4693  Just as the moon appears to greatest advantage in the darkest skies, Mirana's tresses shine most softly in the Nightsilver Woods.
+4692  Bearing a gem that reflects the brightness of the Demon Star between the moon's horns, Mirana knows no fear.
+4798  When the science of Alchemy requires hacking your way through a mob of angry villagers, accept nothing less.
+4799  Just because you're in a battle is no reason not to practice proper lab safety!
+4794  It has often been said that Lina's hair was touched by fire, though few know the truth of this claim.  In Lina's youth, as her natural talents first began to smoke and smolder it was her fiery hair that told the tale of the storm to come.  With time and training, her skill and control of the flame was enough to suppress the searing display.  Yet on occasion, when her ire grows and tempers flare, the full measure of Lina's burning spirit threatens to unleash its wrath.
+4795  Each Nyx Assassin's third kill is marked with the bestowing of this great horn--a ceremonial piece that must be blooded repeatedly if it is to be retained.
+4796  When the new Nyx Assassin is chosen, he is sent to the Hidden Hive for confirmation. These claws connote completion of the Assassin's first assignment. 
+4797  Only those who preside in the Hidden Hive and share in the schemes of the goddess Nyx know the true significance of this ceremonial armor.
+4790  Woven from the finest, tight-knitted fabrics, this heavy chest-piece protects from both the elements and errant blades.
+4791  These hardy, salt-toughened boots provide firm footing whether striding a heaving deck, or a blood-soaked battlefield.
+4792  A Sash of rarest spider silk, the parting gift of a long ago princess from the isle of Songs.
+4793  Why carry your bullets in a bag when you can slot them into your bracers for quick reloading?
+4152  These fine pantaloons show that Sven's travels have led him into gold as much as glory.
+4153  "Bitter the orphans journey--and lonely the orphan's grave."
+4150  This old gladiatorial helm serves Sven well as he travels the land in search of honor and gold.
+4151  Rogue swordmasters must balance the need for protection with the need for speed. This pauldron protects Sven's leading shoulder, but leaves his back arm unencumbered.
+4156  Someone has taken the sail of a pirate ship and crudely sewn it into a mockery of a pirate's tricorn.
+4157  Envious of Dark Seer's pointed skull, Faceless Void channels the fabric of the Rift to focus not only his intellect, but his entire "head."
+4154  Dragonmaw is mighty even among the Named Swords. It's jagged teeth rip at even the strongest hides, laying bear the vulnerable flesh beneath.
+4155  A gigantic bracer made from bits of sail and tied with line.
+4158  A rather oversized, stuffed squid plushie. He's cute and slimy and his name is Squiddles.
+4159  A staff bearing an array of spectrolite mana focusing crystals set in gold.
+216   This new item has no description.
+217   This new item has no description.
+214   This new item has no description.
+215   This new item has no description.
+212   This new item has no description.
+213   This new item has no description.
+210   This new item has no description.
+211   This new item has no description.
+218   This new item has no description.
+219   This new item has no description.
+15127 The RaidCall EMS One Spring 2013 is the new premier Dota2 competition. Over the course of several weeks, established teams will face up-and-coming challengers in the fight for a spot in the playoffs and eventually at the live event finals, competing for $39,000 in prize money.
+20145 By the blinding light of the blood moon, these items transform Lycan into the ultimate killing beast.  Includes all of the items in the 'Sanguine Moon' set for Lycanthrope:
+4563  Whatever magic his enemies use, whatever spells his foes may cast in his direction, bounce soundlessly off this shield of silence.
+4562  Like the angvols of old legends, these golden falcon wings speed Windrunner's flight into battle.
+4561  A beautiful quiver of the finest polished bloodwood.
+4560  Winged armor worthy of a knight in the great Omniscient's army.
+4567  Silence is golden, as is the point on this mighty helm.
+4565  These bracers bespeak a man who will brook no magical manipulations!
+4564  Constructed from the scales of a fallen wyvern, this shoulder armor is a mark of distinction for any knight.
+4569  No one wears this robe with quite the grandeur and majesty of Silencer. But if they do, no one will ever hear about it.
+4568  Once thought to be a mythical beast, Windrunner slew the elusive, green oyoloe, and made a bow from its antlers.
+20142 This bundle contains all of the items in the 'Inscrutable Zeal' set for Rubick:
+4899  A weapon shimmering with the violent energy from Spectre's home plane of existence.
+4898  The charmed ropes that once bound him should have rotted away, but Lich has preserved them as reminder to all that no power in creation can hope to hold him.
+20143 This bundle contains all of the items in the 'Hunter in Distant Sands' set for Bounty Hunter:
+4893  When you're in your cups, this mailed skirt has your back.
+4892  Designed from the cast-off remnants of ancient brew casks, these bits of aged wood have been infused with the essence of the ancient order of the Oyo.
+4891  The ancient order of the Oyo binds the sword arm of each young apprentice as a symbol of commitment to their forebears.
+4890  Drink from this jug and you will experience enlightenment.  Or forget why you were striving for it.
+4897  The ice mage's robes became the Lich's tattered shroud. Superstitious subjects hammered spikes of sacred metal as a warning into the dead mage's skull, none suspecting that upon his resurrection he would wear the device as a cursed crown of domination. 
+4896  Drowned but not dead, deep in the Black Pool, the cold hatred in Lich's heart froze the water around him. These ice-shards, formed of evil, hold a hatred that will never melt.
+4895  They sank Ethrain into the Black Pool with a weighted belt; but gravity has no pull on the Lich in his resurrected form. He wears the belt now as a mockery. And they say that all the warmth of his former heart resides in that pulsing flask, where he can keep a cold eye on it.
+4894  Did I say word?  I meant sword.  Sword of the Drunken Warlord.  There are words on it.
+20141 This bundle contains all of the items in the 'Twisted Wisdom' set for Leshrac:
+20146 This bundle contains all of the items in the 'Ancestors' Pride' set for Phantom Lancer:
+20147 Includes all of the items in the 'Dead Winter' set for Lich:
+20144 Arrows of a feather flock together. Constructed from strong and resilient harpy feathers, this set of Featherfall is a fine upgrade to Windrunner's look.  This bundle contains all of the items in the 'Featherfall' set for Windrunner.
+4419  Although some travelling shaman have been rightly accused of selling colored water as if it were a certain cure for all ills, Rhasta makes no such claims and has never charged so much as a pence for a swig from this bottle. In fact, no one but Rhasta may drink from it. The Shadow Shaman's brew is certain death to anyone but its maker.
+4418  Beneath her secret glades, Drow found a passage lit by crystal shards. Following the glittering light to the farthest cavern, she discovered this bow, embedded in the rock as if it had formed there.
+4417  "A shaman must take good care of his skin!" Rhasta's master instructed. "Therefore, always wear a hat to keep off the sun, and no less the evil influence of the moon." And then the old man always broke into laughter. "And if you believe that, I have a bag of herbs here that will confer infinite wealth and immortality."
+4416  A final twist of the serpent completes Rhasta's disguise, in case he is travelling incognito. It must be admitted that sometimes he wields it just because he likes the companionship.
+4415  A helm of great beauty and strength, the Runed Helm of Valor is armor worthy of the Omniknight.
+4414  It may not save their souls, but this hammer will surely send your enemies to their just reward.
+4413  Prove your chivalry by smashing enemies in the face with this powerful weapon.
+4412  His old master said, "Be clear what you are about, for these simple village folk read menace and evil intent into poor communication." Therefore Rhasta created a simple visual menu of the services he offers, and wears it in plain sight.
+4411  A traditional sleeveless jacket worn by the great warriors of Isle of Masks. It carries the banner of Yurnero.
+4410  Water, they say, has a memory--but Morphling's dissolves with every form he takes. These pauldrons serve as a reminder of his original being, rooted in Polymorphia.
+4900  Energy from Spectre's home plane of existence pulses through her wings, nearly overtaking her physical form.
+4960  With this jewel upon your brow, the future will be one of great victory.
+10039 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+10038 This item replaces the games' default killing spree announcer with the joyful exposition of Storm Spirit.
+20108 Contains all of the items in the 'Tools of the Haruspex' for Lone Druid:
+20109 This bundle contains all of the items in the 'Demonic Archivist' set for Warlock:
+10035 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+10034 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+10037 A special reward for early subscribers to The Defense Season 2 tournament. Included with a key used to open this chest. Thank you for helping us test and improve our tournament features!
+10036 That disreputable scoundrel Sithil has lost a chest of plundered loot! You will need Sithil's Summer Key to open the chest. You can pick one up at the DOTA 2 Store. Beware! At the end of July 31, 2012 this chest will crumble into useless dust. This chest contains one of several mysterious new items.
+10031 This item replaces the games' default killing spree announcer with the drunken antics of a scurvy-ridden Pirate Captain.
+10030 Captain Matey's Scurrrrvy play-by-play
+10033 A special reward for subscribers to The Defense Season 2 tournament.
+10032 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+20038 Includes all of the items in the 'Hardened Hunter's Gear' set for Bounty Hunter:
+20039 Includes all of the items in the 'Radiant Crystal Bindings' set for Morphling:
+20032 Includes the following often ostentatious and always amusing announcers:
+20033 Includes all of the items in the 'The Dauntless' set for Juggernaut:
+20030 Includes all of the items in the 'Trappings of the Pangolin Guild' set for Bounty Hunter:
+20031 Includes the following cute and cuddly couriers:
+20036 Includes all of the items in the 'Armor of the Purist Champion' set for Omniknight:
+20037 Includes all of the items in the 'Traveling Tale-Teller' set for Witch Doctor:
+20034 Includes all of the items in the 'Bloodmist Armor' set for Axe:
+20035 Includes all of the items in the 'Armor of Sir Davion' set for Dragon Knight:
+15151 The inaugural E2Max L33T Championship (ELC) will feature a prize pool of SGD13,000 cash. online and LAN qualifiers from May to July, with the Grand Finals on 7th July at E2Max, Cineleisure, Singapore! ELC is presented by Cathay, hosted by Rapture Gaming Network, supported by e-Club and CM Storm.
+15150 ATOD3 is the third edition of the uniquely popular Reverse-Captain's Mode tournament presented by Peter "HamSandwich" Congdon. 12 teams from Europe and the Americas battle for a part of the $1,500 prizepool. Watch unconventional strategies as teams battle with less frequently played heroes.
+15153 The Gigabyte E-sports tournament is sponsored by Gigabyte and hosted by DotaTalk. The winners of 8 GMPGL Qualifiers from South-East Asia will compete against one another for another cash prize of $1500. The winners will then compete against the Top Chinese Teams for another $1500.
+15154 The Gigabyte E-sports tournament is sponsored by Gigabyte and hosted by DotaTalk. The winneres of 8 GMPGL Qualifiers from South-East Asia will compete against one another for another cash prize of $1500. The winners will then compete against the Top Chinese Teams for another $1500.
+15157 Watch eight of the best Dota 2 teams compete for a spot in The International
+15159 This item is an invitation to personally attend the Dota 2 International Tournament, August 7 - 11 2013, at Benaroya Hall in Seattle, WA. Attendees will receive preferential seating on the show floor.<br><br>This ticket must be activated from your in-game backpack. Once activated, the ticket will be consumed and removed from your backpack and registered on your Steam account. Ticket information will be emailed no later than June 30th, 2013 to the email address associated with your Steam account.<br><br>This purchase also includes a International 2013 Interactive Compendium and Smeevil Courier.
+15158 Watch eight of the best Dota 2 teams compete for a spot in The International
+4365  In the endless chill of the far north, it is said that the cold of death comes on a howling wind brought by a great white wolf.  Many a hunter has attempted to slay this grave spirit.  Yet in all the known histories, the stories record only one bow that has ever fired strong enough, and true enough, to pierce its side.
+4364  No mere woodcutter's hatchet, the Wyvernguard Edge is a great-axe with the bite of a dragon.  Forged from the knights' steel found fused and glowing in the molten guts of a dozen slaughtered Pyrexae, the blade of Wyvernguard penetrates to the bleeding heart of any battle.
+4367  A playful crop of spikes that says 'I'm killing you and having fun doing it.' Includes a frost-tinged cloak to complete the image.
+4366  A cloak of scintillating frost.
+4361  The Bear Clan taught that every rising sun was a gift, and so appointed one among them to greet the dawn each day.
+4360  If you ask Aggron, they won it in a dice game.  If you ask its former owner, you'll get the silence of the grave.
+4363  Recluse Reef is known for treacherous currents, lacerating corals, and barnacles big enough to drag down a galleon. In these evil waters, one denizen glides without fear, the undisputed master of Recluse Reef. Or anyway he glided...until Tidehunter needed a flail.
+4362  In the custom of the Bear Clan, each warrior must carry his newborn in a satchel on his shoulder for eleven full days to prove his strength.  On the twelfth day, armor is bestowed.  
+4369  As the wave of Morphling crests, surging into battle, these Direstone crests come along for the ride.
+4368  Sometimes you have to go with what you can find.
+20151 Includes all of the items in the "Thousand Faces" set for Juggernaut:
+4093  Is it trying to hitch a ride?  Is it trying to mate with his head?  Does it think it can influence the Tidehunter's thoughts?  Who knows!
+4092  The great kraken tortoises are considered both a delicacy, and a worthy foe.  Their shells are highly prized as shelter or armor.
+4091  "Below me trees unnumber'd rise, beautiful in various dyes; the gloomy pine, the poplar blue, the yellow beech, the sable-yew, the slender fir, that taper grows, the sturdy oak with broad-spread boughs..."
+4096  The skulls of the Witch Doctor's tribal ancestors adorn this belt.
+4095  The Dragon Knight bore this shield the day he fought and slew the Time Dragon Uldorak.
+4094  "Ware the wanderer who walks with head held high, back unstooped, and arm held ready. The one that so boldly denies his disgrace has no such disgrace to deny! Surely that one is an assassin cloaked in contempt."
+4099  A lord so adorned will bend the will of many.
+4098  The greatest warrior stands between Ivory and Ebony, lending sword and hand but not heart or mind.
+20150 This bundle contains all of the items in the 'Heavy Armor of the World Runner' set:
+4585  To possess the power of a Demon Witch is to stand in defiance of powers seen and unseen.
+4584  Defy the Omniscient, and the price will be this blade on your neck.  It is a heavy weapon, wielded with a heavy heart.
+4587  As the threat from the outer dark mounts, the Harbinger intimidates these implacable forces with wings of strange power.
+4586  Those who patrol the edge of the void must gird themselves in armor impregnable to evil's piercing rays.
+4581  A helm of purest gold and sterling silver, created in honor of the Omniscient.
+15012 Everyone loves a good support player and now you can provide support in wicked style with this  free gift from the DOTA 2 store!		Double-click or right-click this pack from your inventory to unpack a special collection of items for the Witch Doctor. 		This pack includes 3 items in the Wicked Bad Voodoo set: a new mask, a new staff, and a new back item.
+4580  A glorious cape sewn by a hundred monks in honor of the Omniscient.
+15013 When used, this Action Item gives a random item drop to up to 25 random players and spectators on the server (except you). You can use this item by equipping it as an action item and then activating it during a match.
+4583  An ancient weapon from an unknown craftsman, it was said to have been forged for he whom destiny calls worthy. Each swing heralds another step toward a new age.
+4582  Few facets of the utter foul wander the land unbidden. To claim such a skin is to declare primacy over the inferno.
+15018 The Defense is the most prestigious Dota 2 online tournament held by joinDOTA, powered by Razer & BenQ. Featuring 20 hand-selected world-class teams and four community wildcard winners $10,000 prize money await only the toughest and most experienced of contestants on their way to the top.
+4789  As light as a feather to the weilder.  The weight of a boulder to its target.
+4788  Only the doomed, or doom's master, can carry this single fragment of absolutely pure, unalloyed, unsullied corruption.
+4787  Fear not, this belt was crafted by Wildwing artisans from thousands of feathers plucked painlessly from living individuals; and not, as some have suggested, hacked from a dead Wildwing.
+4786  Enchantress passes unchallenged through Wildwing territories when she wears this headdress.
+4785  It is unfortunate that a few rogue Wildkin must spoil the proud race's reputation, but when it is time to hunt those few rascals down, Enchantress bears a spear granted her by the wisest of the Wildwing race.
+4784  As the Anti-Mage grew in power and prestige, the sovereign of Yoskreth sought his services to topple the fearsome sorcerer Sahsk.
+4783  A stygian tail of finest demon armor, forged in the fifth of the seven hells. 
+4782  Fine cloth is combined with the silvered metals that make up the royal patterns of Yoskreth.
+4781  With the defeat of Sahsk, the sovereign of Yoskreth granted the Anti-Mage tools befitting one of such power and skill.
+4780  A cursed blade forged to slice through the membrane that separates the seven hells.
+4149  A rather clumsy attempt at a weapon. The jaw of...something...has been lashed to a broken piece of mast.
+4148  A sharp, cracked femur of some unidentifiable sea-beast.
+4145  Even the best swimmer may be caught unaware.
+4144  The wings symbolize the soaring heights of the cliffs of Emauracus, where it is said that the Omniscience itself may bless the pious with holy visions.
+4147  There might still be a little meat on it.  But probably not.
+4146  What ancient beast once wore this?  The Tidehunter cares not.
+4141  Those who don these fabrics must swear never to fall in battle, for it is considered a sin to defile such a garment with earth.
+4140  They are as pristine as the day they were made, but do not be fooled into thinking they have never seen combat.
+4143  A dragon knight's shield is often more important than his sword. Dragons always strike first.
+4142  Intended as an trophy for the most stalwart of the order's crusaders, the great smiths ensured it would be just as impressive above a hearth as it would be in combat.
+199   This new item has no description.
+198   This new item has no description.
+195   This new item has no description.
+194   This new item has no description.
+197   This new item has no description.
+196   This new item has no description.
+191   This new item has no description.
+190   This new item has no description.
+193   This new item has no description.
+192   This new item has no description.
+4558  Axe never had the heart to wipe the original owner's blood from the edge.
+4559  A helm of great strength and beauty, this armor of the gilden falcon offers a special kind of security, protecting both the wearer's head and identity.
+4556  These dusty old blades find use once more.
+4557  Werebat? There bat!
+4554  This beautiful emrald cloak is embroidered with the ancient sidgel of the gilded falcon.
+4555  These dusty old blades find use once more.
+4552  An ancient bow of oak and iron, gilded with the golden feathers of a sacred falcon.
+4553  As the diving bird of prey has talons, so the archer has arrows.  And many are the arrows that can be held in the quiver of the gilded falcon.  
+4551  Death Prophet clearly has only one thing on her mind: Death. This armor holds her like a cold, bony embrace.
+4620  The third curse, curse of the prehensile, lain upon his tail.
+4428  Morphling spent eternities travelling space in the form of ice. Morphling knows ice. You know that if Morphling wears a crown of ice, it is a serious crown.
+4429  The glitter of the interstellar ice that once bedizened Morphling, decks his shoulders now as he surges to and fro across the field of battle.
+4422  In battle, these bracers, ever before Morphling's gaze, remind him of the power of Polymorphia.
+4423  Keeping a pan handy will let you make noise and scare off the wildlife, or cook them if you're lucky.
+4420  Hard as ice, but strong as steel, these bracers bring a chill to the heart of those who would oppose the maiden of the north. 
+4421  An extra layer or two ought to be able turn back some teeth.
+4426  This beautiful bow, modeled after the delicate and poisonous sun vine, is even more deadly than its namesake.
+247   This new item has no description.
+4424  This new item has no description.
+4425  A ceremonial mask worn on special occasions. This must be a special occasion.
+4958  A bridle of unbridled power!
+246   This new item has no description.
+4952  The Lion of the Moon cloaks its riders in magic and might.
+241   This new item has no description.
+4950  The power of the lunar lioness purrs  in this bow's enchanted string.
+4951  An emblem of honor, worn with grace but never lightly.
+4956  As wind and sand can wear down a mountain, so too this magical staff can wear down even the greatest foe.
+4957  Of these 22 keys, one is the key to the final plane of existence.
+4954  A braid with mystic stylings woven into it.
+240   This new item has no description.
+243   This new item has no description.
+242   This new item has no description.
+20139 This bundle contains the two moonblades, Sange and Yasha, for the stealth assassin Riki.
+20138 This bundle contains all of the items in the 'Ritual Garb of the Father Spirits' set for Dazzle:
+10028 What he lacks in size he makes up for in character.
+10029 Team spirit!
+10026 Don't let its metal form deceive you: this contraption is more magic than machine. Fashioned by the Mad Mage Morok who was far too lazy to carry his own spell books and far too cheap to retain hirlings.
+10027 This imp has trained all his life for this moment. He is SO ready to go. He will deliver your loot on time or suffer eternal damnation in the sixty-four planes of the Lesser Hells.
+10024 A friendly Tegu from the dragon infested Cathauran Wastes. He smiles as if he knows something you do not.
+10025 This boar has a crazed look in his eye. Is it distrust? Madness? Or does he just want to eat your tangos.
+10022 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+10020 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+10021 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+20007 Includes all of the items in the 'Traveler on the High Plains' set for Juggernaut:
+20006 Includes all of the items in the 'Aspects of Beast and Man' set for Juggernaut:
+20005 Includes all of the items in the 'The Boar God's Honor' set for Juggernaut:
+20004 Includes all of the items in the 'Regal Forest Lord' set for Nature's Prophet:
+20003 Includes all of the items in the 'Defiant Axe' set for Axe:
+20002 Includes all of the items in the 'Forged in Demons Blood' set for Axe:
+20001 Includes all of the items in the 'Wicked Bad Voodoo' set for Witch Doctor:
+20000 Includes all of the items in the 'Of Ebony and Ivory' set for Juggernaut:
+20009 Includes all of the items in the 'Heartwood Vanguard' set for Nature's Prophet:
+20008 Includes all of the items in the 'Scion of the Savage' set for Nature's Prophet:
+15142 The 5th G-1 Championship will feature an online qualifier to select the top Western team for a paid flight to the LAN finals in China to face teams like iG, LGD, DK and Orange. The Asia qualifiers will also use a prelim system to compete for spots at the LAN finals. The prize pool exceeds $53,000.
+15140 DreamHack Dota2 Invitational Features 8 of the top European teams, battling online for $6000 and the opportunity to qualify to DreamHack Summer Dota 2 Cup. 5 action packed weeks of content, produced by The GD Studio, with commentary by Draskyl, 2GD, Wagamama, Weppas and Bruno.
+15141 DreamHack Dota2 Invitational Features 8 of the top European teams, battling online for $6000 and the opportunity to qualify to DreamHack Summer Dota 2 Cup. 5 action packed weeks of content, produced by The GD Studio, with commentary by Draskyl, 2GD, Wagamama, Weppas and Bruno.
+15146 Used to open locked Treasure Chests of the Shaper Divine.Double click or right-click the key in your backpack and select the chest you want to open.
+15147 16 teams, 8 from direct invitation and 8 from qualifiers, will compete for $4000. The tournament will feature teams like Orange, Zenith, Vici Gaming and MUFC. Commentary will be provided in English, Spanish and Portuguese.
+15144 A gift for being awesome! Open it up to receive a prize.
+15145 Used to open locked Treasure Chests of the Cursed Wood.Double click or right-click the key in your backpack and select the chest you want to open.
+15148 16 teams, 8 from direct invitation and 8 from qualifiers, will compete for $4000. The tournament will feature teams like Orange, Zenith, Vici Gaming and MUFC. Commentary will be provided in English, Spanish and Portuguese.
+15149 ATOD3 is the third edition of the uniquely popular Reverse-Captain's Mode tournament presented by Peter "HamSandwich" Congdon. 12 teams from Europe and the Americas battle for a part of the $1,500 prizepool. Watch unconventional strategies as teams battle with less frequently played heroes.
+4310  Designed to catch and hold the target, no matter which point is used.
+4311  The forked tip allows the wielder to pry back any armor the target may be wearing.
+4312  Forged in volcanic fire, bathed in the blood of countless foes, the Reaver is a weapon that has never known mercy.
+4313  There is more to catching prey than merely stalking them through the woods.
+4314  A Hierophant of the Omniscience must always approach with head bowed.
+4315  A Hierophant of the Omniscience must always sense the power that protects him.
+4316  A Hierophant of the Omniscience must always feel the weight of responsibility upon his shoulders.
+4317  A Hierophant of the Omniscience must always heed the words of his order.
+4318  A Hierophant of the Omniscience must always guard against any threat.
+4319  Belched up from the hells beyond, the cursed Nightmare Blade is not of the mortal plane.  Whosoever dares to swing the sword in combat will find their dreams haunted by all whom the blade has cut down.
+4228  Horns curved into a sigil of peace.
+4229  Light and fluffy.
+4224  It's supposed to be smiling.
+4225  Not all of the Witch Doctor's enslaved spirits are ancestors. This household totem contains the trapped soul of a swamp dwelling Yando beast.
+4226  A Candral-Flower plucked from the heart of the Endless Copse.
+4227  Hung about the neck and worn during festive events, the garland is a universal symbol of friendship, peace, and good tidings.
+4220  A carefully crafted soul-trap, adorned with the skull of a previous victim.
+4221  The life essence of a sacrificial totem beast imbues this ritual staff.
+4222  A mask crafted from the polished bones of a cruel Prefecturan noble. The Witch Doctor wears this mask when he wants influential spirits to take notice of his work.
+4223  The head of Witch Doctor's mother hangs from this staff. Such a loving son.
+4138  The inside is reinforced and padded to protect against heavy blows. 
+4139  The added weight reminds the wearer of what he fights for, and the costs of failure.
+4130  The darkest deeps hold many extinct skulls.
+4131  When it fell to the depths and smashed a favorite coral bed, the Tidehunter swore to reunite the device with its owner.
+4132  Nobody is certain whether this display means the Tidehunter is angry or in heat.  Either way, none have survived to ask.
+4133  Axe cares nothing for the great castles and mighty holds of his enemies. He shatters their stanchions and crumbles their columns, transforming the rubble into weapons of war.
+4134  A warrior as large as Axe rarely finds armor that fits. Often it is more practical to simply tie together bits of stone and metal.
+4135  Armor crafted from the rubble of a conquered civilization.
+4136  A helm worn by the footmen of an empire crushed by Axe long ago.
+4137  Successful dragon knights boast few scars. The ones that get hit rarely live long.
+4044  Celebrate a critical push or an enemy team wipe with this spidery dance.  Equip the item and bind a key to the 'Taunt Item' button to use.
+4040  Spirits are afraid of snakes, too.
+4043  Axe requests more fools to slaughter! Equip the item and bind a key to the 'Taunt Item' button to use.
+4049  So often did Krobelus attempt to pass beyond the veil of death that those whose time had ended begged the chance with return her.
+4549  Carved from the corewood of a five-thousand-year-old-tree, this magnificent brings an ancient strength to any battle.
+4548  A hairstyle common to the Zaru'Kina people of Windrunner's destroyed village.
+4541  Ozh acha domosh ahm'omoz!
+4540  This new item has no description.
+4545  To harness the powers of the burning nether requires a symbol feared for its malice.
+4544  To look past reality and view the vile powers beyond requires vision and clarity surpassing most mortal means.
+4547  As the face upon the belt gleams in the sun, so too do the emeralds in its eyes.  The honors of the Golden Mane are valuable beyond measure.
+4546  The ring would scorch the very soul of the wearer were it not placed on a finger already beyond hope.
+4534  Birot of the Deep Waters, than whom no lord is more dignified, grants a portion of his dignity to his favored Morphling, in the form of stately crests.
+4535  Wielding this immense weapon, Bradwarden slashes and crushes all those in his wake.
+4536  Morphling proudly sports the polished and most dignified helm of Birot, who knows nothing of the dry surface world except what Morphling tells him.
+4537  From darkness, the comet came carrying the wotery essence of Morphling. As it fell, a searing crown marked its encounter with the atmosphere. Morphling wears it now.
+4823  Yasha, one of two legendary moonblades, is said to take on a form that best matches its owner's chosen martial art. In the hands of Riki this weapon takes the blade of a small, well balanced dagger.
+4435  For those who doubt the Omniscient One's peaceful nature, one look at this weapon proves that doubt well deserved.
+4434  They're not fancy, but they keep the hands warm.
+4437  Beyond time lie stones and crystals forever able to bestow incredible power.  As these crystals leave their stasis, a growth that has never before known the temporal flow begins to take hold.
+4436  With this lantern Warlock peers into the shadows of death itself.  Death shrinks from the light.
+4431  A thousand lives it claimed before it shattered, and a thousand more it shall claim after!
+4430  A thousand lives it claimed before it shattered, and a thousand more it shall claim after!
+4433  Coming through! Even Juggernaut will leap to avoid the icy edges of these lethal armlets.
+4432  Forged for a brutal warlord who sought to challenge Axe in single combat.
+4533  Blades so sharp, they might cut the very fabric of one's mind.
+4439  This stone spear seems old and chipped, yet this heirloom is still very sturdy.
+4438  For those times when giving someone the cold shoulder is only the beginning.
+4945  Ah, to be young again.  This haircut should help!
+4944  When you're just starting out, your formulas are a little braver, a little less precise.  And a lot more dangerous.
+4947  What it may lack for vision it makes up for in protection.
+4946  If you're gonna work with unstable materials, make sure you can survive a mistake!
+4941  In the fragmentary legends of the Ancient Sovereign, death by such claws was something greatly to be desired.
+4940  Unearthed from the sand-scoured ruins of El'Harath, from this Visage the entire culture of the Sovereign has been resurrected.
+4943  The ancients glided stealthily above the sands in ages when these wings were not yet vestigial.
+4942  Sandking pays tribute to the Ancient Sovereign with every step.
+4949  The moon shines with mystic lustre on Mirana's forearms...or is it the glow of these polished bracers?
+4948  Good for stirring mixtures, great for chopping dinner!
+182   This new item has no description.
+183   This new item has no description.
+180   This new item has no description.
+181   This new item has no description.
+186   This new item has no description.
+187   This new item has no description.
+184   This new item has no description.
+185   This new item has no description.
+188   This new item has no description.
+189   This new item has no description.
+20124 This bundle contains all of the items in the 'Tools of the Demon Witch' set for Lion:
+20125 Contains all of the items in the 'Garments of the Nightsilver Sentinel' set for Mirana:
+20126 As old as the Tahlin Dynasty itself, these daggers have loosed blood in both war and peacetime. This bundle contains both the main and off-hand Royal Daggers of the Tahlin Watch for Riki.
+20127 This bundle contains all of the items in the 'Implements of the Tahlin Watch' set for Riki:
+20120 Contains all of the items in the 'Chains of the Summoned Lord' set:
+20121 Watch 10 of the best teams from Europe and America contend for a prize of $10,000. This ticket will entitle you to over 100 matches commentated by Blaze & Rainmaker and Russian commentary by Versuta. Also included is the exclusive courier 'Wynchell the Wyrmeleon'.
+20122 Contains all of the items in the 'Harbinger of the Inauspicious Abyss' set for Outworld Devourer:
+20123 Contains all of the items in the 'Regalia of the Crystalline Queen' set for Crystal Maiden:
+20128 Kunkka lives by the old seaman's yarn: There is no bad weather, only poor clothes.  In this regal finery, Kunkka is ready to face any storm.
+20129 Contains all of the items in the 'Third Insight' set for Templar Assassin:
+10019 Separated from his herd when disruptions to the traditional migratory route took it through a tesseract, he stands out a bit in this new habitat. But that's all right. Apart from enemy heroes, he has no natural predators!
+10018 "How did I get here?" Such words of power are commonly heard from Dolfrat the Wizard, whose magic is so great that even he cannot grasp it. Indeed, his enemies accuse him of having no magical training whatsoever, pointing to the evidence of his most frequent incantation: "Did I do that?" And should you ever spy the mighty Dolfrat flat on his back in the road, you can be sure his trusty steed Roshinante is somewhere nearby--probably galloping at top speed away from a creaky tree or shadow that resembled a demon of nightmarish power.
+4924  What appear as fins on Slardar are but the edge of the mighty Sea Dragon's tiniest gill-guards.
+10013 This item replaces the games' default announcer with the carefully chosen words of the traveling warrior, Juggernaut.
+10012 Of all the creatures of the forest, the badger makes perhaps the finest courier. Fearless and quick, it bends its will to none save those who have earned its trust.
+10011 This trusty Yak bears a thrice-blessed Mask of Duty, as is requred of all those noble beasts who might serve in battle.
+10010 The terrors of battle hold many dark secrets.
+10017 Stumpy isn't very good in battle, but he's more than happy to haul around your loot and he's always there when you need him.
+10016 This item replaces the games' default killing spree announcer with the wild cries of Nature's Prophet.
+10015 This item replaces the games' default announcer with the stern voice of Natures's Prophet.
+10014 This item replaces the games' default killing spree announcer with the enthusiastic shouts of the traveling warrior, Juggernaut.
+20010 Includes all of the items in the 'Garments of the Peace-Bringer' set for Nature's Prophet:
+20011 Includes all of the items in the 'Master of Beast and Bole' set for Nature's Prophet:
+20012 Includes all of the items in the 'The Berserker's Blood' set for Axe:
+20013 Includes all of the items in the 'The Forgemaster's Tools' set for Axe:
+20014 Includes all of the items in the 'The Axecutioner' set for Axe:
+20015 Includes all of the items in the 'Swordmaster of the Vigil' set for Sven:
+20016 Includes all of the items in the 'The Freelancer's Finery' set for Sven:
+20017 Includes all of the items in the 'Sect Armor of the Mono Militis' set for Sven:
+20018 Includes all of the items in the 'Sect Armor of the Flameguard' set for Sven:
+20019 Includes all of the items in the 'Chronite Defense' set for Faceless Void:
+20089 This pack replaces the Default announcer and Mega-Kills announcer with the euphemistic keen-eyed wisdom of Bastion's narrator, also known as Rucks.
+20088 It is little known of Crystal Maiden, that in her long study of the Frozen Arts, she once greatly displeased her Ice Wizard master and to restore herself to his graces and prove worthy of his instruction, she passed a year dwelling in the climes of slush where the Blueheart Glacier spends itself at the edge of the Boiling Sea. Here, where snow had never fallen, Rylai spent months in deep meditation, mastering her powers, before waking one afternoon with a single frigid word upon her lips: 'Snowdrop!' For a moment, the steam that filled the air turned to ice, and the warm precipitation became a softly falling snow. When she returned to her old teacher, she found him waiting with a smile, fully aware of the magic she had wrought, as he presented her this outfit to show her worth and mastery. Contains all of the items in the 'Snowdrop' set for Crystal Maiden:
+20085 On the trail of a curious cipher which might decrypt an ancient codex of the Hidden Temple, Lanaya stumbled upon a cache of hidden garments in an arboretum sacred to the Three Shades. Three garments, wrapped in the petals of an enormous nightshade, on which were inscribed the names of those ethereal Shades that lent their attributes to each piece: madness, terror and death. Most would consider these poor qualities in their attire. But for Templar Assassin, donning the Deadly Nightshade is an accelerant to wisdom. Includes all of the items in 'The Deadly Nightshade' set for Templar Assassin:
+20084 The Defense is back with new sponsors ROCCAT and own3D.tv. Watch 24 invited professional teams and 8 teams from an open qualifier battle for a prize pool of $20,000. This ticket will entitle you to over 100 broadcasted matches by Toby "Tobi Wan Kenobi" Dawson as well as one exclusive courier.
+4597  The spikes on the wrist are said to sample the flow of time, while the runes report the findings to the wearer.
+4303  Made from the smooth belly of an otherwise spiny ravager.
+4302  To kill a ravager is a sacred rite for the ursa, and every piece of the carcass must be put to use.
+4301  They say that lava, as it cools, dreams its final form. It's as if this obsidian in its infancy knew of Huskar's coming.
+4300  The heat of volcanic forces, condensed and cooled, focused into a point, is a powerful symbol of Huskar's warrior nature.
+4307  The trailing cloth obscures the assassin's form and, in a pinch, can be used to thwart enemy blades.
+4306  The blade end and grip are carefully balanced to sail through the air accurately, and with ease.
+4305  The quills of a ravager are threaded throughout the fur to create a trap for any would-be predator.
+4304  Only the fiercest hunter may lay claim to the skull of a spiked ravager.
+4309  The cloth is treated with oils and wax to stave off enemy poisons.
+4308  Built to deflect enemy weapons, the shoulder plates are carefully tailored to the wearer.
+4239  Beyond reproach and unwavering in their devotion, the Flameguard stand as living avatars of Knightly Duty. This variation is the armor of a Flameguard commander.
+4238  The Flameguard wear capes as blue as the Holy Flame they are sworn to protect. On the back is their sigil: a circle representing the Inner Colannade with an inscribed triangle symbolizing the Flame itself. This variation is the armor of a Flameguard commander.
+4237  Flameguard armor is functional, but also highly ornate. From their stations among the Inner Colonnade the Flameguard make their watch over the Holy Flame. This variation is the armor of a Flameguard commander.
+4236  Few wizards can be considered to be stylish, but the Invoker is not like other wizards.
+4235  The war-crest of the Burning Cabal. This identifies the invoker as a specialist in fire manipulation.
+4234  Manipulation of the fire elements requires a delicate touch, lest the sorcerer burn. This pair of bracers have been imbued with minor fire protection enchantments.
+4233  The invokers of the Burning Cabal favor Exort over all other disciplines.
+4232  Use this bundle to unpack the Frost Spikes and Ice Burst Cloak items. These were previously one item, but have been broken into two.
+4231  A bright scarf marked with the sigil of the Pangolin hunters' guild.
+4230  This shelled carapace armor is meant to offer both protection and camouflage.
+319   Lina's default haircut
+318   Lina's default jewelry
+313   This new item has no description.
+312   This new item has no description.
+310   This new item has no description.
+317   This new item has no description.
+316   This new item has no description.
+315   This new item has no description.
+314   This new item has no description.
+4129  The darkest deeps hold many extinct skulls.
+4128  A rare but useful mutation.  The spikes are actually malformed teeth that grew out of place, and well out of hand.
+4122  A fine pair of leather shoes with rubber soles, for when the Captain must work his charms on land.
+4121  Show them that you are a man of privledge.
+4120  Here we have a weapon truly worthy of a man such as Kunkka. Exotic and well-balanced, this cutlass cuts an image as smartly as it cuts a man.
+4127  Achieving mastery against dragons is impossible without first achieving mastery of the self.
+4126  A dragon knight is protected not by armor, but his faith.
+4125  When facing a dragon the edge of one's blade means less than the sharpness of one's mind.
+4124  The strength of a dragon knight lies not in his arm or sword, but in his heart.
+4219  The braided nature of this hairstyle is said to symbolize one's tightly woven link to the ancestors.
+4218  When life is cheap, souls are currency.
+4054  Draw the eye of the ancestors upon your victory! Equip the item and bind a key to the 'Taunt Item' button to use.
+4051  Few men could lift a blade so mighty.
+4059  Show your enemy your respect for their honorable deaths. Equip the item and bind a key to the 'Taunt Item' button to use.
+4058  Celebrate a critical push or an enemy team wipe by shredding some hot licks. Equip the item and bind a key to the 'Taunt Item' button to use.
+4440  Crystal Maiden hardly needs to keep her hands warm in freezing weather. We suspect these are strictly a fashion statement.
+4442  No Wolf of Icewrack tail was harmed in the making of these tassels. They are formed entirely of soft, fluffy ice.
+4443  Constructed from the scales and teeth of grand dragon Vyxia, her fiery blood still stains and heats the edge.
+4444  Not one for outward displays of force, Crystal Maiden understands the necessity of putting on a show. This brilliant staff is but a symbol of her inner power, and for all its luster, barely hints at the depths of her mastery.
+4449  An eye for an eye, and a storm for his enemies; no foe can escape the piercing glare of the storm rider.
+4930  At the edge of darkness, her warblade shimmers like a piece of dusk cut loose.
+4687  Behind the sacred vestments of this dark cardinal lies little else but rot and ruin.
+4932  The assassin's face is hidden, yet you can still feel through the shadows the power of her gaze.
+4685  The pattern at its center is said to focus and channel the Nothl's power.
+4934  A cloak no less concealing than the night's long shadows.
+4935  Once a field filled with swords and storms, Lina left little but a smoking crater and handful of grateful allies.
+4680  To be at once a Magus, a duelist, and an aspiring politician requires a robe that is both stately and blast proof.
+4681  Worn by an elder shadow priest during the very founding of the Dezun Order, this skull headdress has been handed down for generations.
+4938  War is said to be a cause for great innovation and invention.  No less so for fashion.
+4939  No death has ever been more painful than that perfected by the Ancient Sovereign.
+4688  At the height of his corrupted influence, Rotund'jere had quite an assortment of fashionable hats.
+4689  Bands made from woven silk and gold tie this tainted hair together.
+10004 It is rare to find a smeevil far from the warmth of the forge to which it's bound, for they thrive on the affectionate cuffings and curses of their sworn smith. But the lure of a free tortoiceros ride compelled the smeevil Murrissey to break every oath...
+10005 Most boxhounds you're likely to come across would sooner eat you just for touching them, but all this little guy ever wants to do is play fetch.  His master never came home from battle, so if Lockjaw follows you home you should probably keep him.
+10006 Why light a fire if you can't watch it burn?
+10007 The beasts of Underwool are terrible bringers of death and destruction, demons of shadow afflicted by a black wizard's curse that has ensured they are forever cute and fluffy.
+10001 Express your confidence to the enemy team. Surely nothing could possibly go wrong...<br><br>This taunt can be equipped as an action item and used with any hero.
+10002 May cause blindness.
+10003 Discovered on an island in the Samareen Sea, this species of delicious dragon has been all but wiped out by hungry sailors.  Druffins lack the sense that nature gives most creatures, but their limitless trust makes them good couriers in the thick of battle.
+20159 This bundle contains all of the items in the 'Sea Dragon' set for Slardar:
+20158 Includes all of the items in the "Sacred Bones" set for Huskar.
+10008 This item replaces the default announcer with the sharp mind of science's Dr. Kleiner.
+10009 A dog well equipped to follow its master into war. This beast has witnessed many terrible deeds and grand victories. It hides stoic judgment beneath a painted mask of fine birch.
+4936  As the drums of war boomed on the horizon, Lina prepared to join the fray.
+4592  The severed jaw of the undead dragon Ambinderath. The dragon once opposed the Skeleton King's eastern expansion.
+4593  The Rider found this exotic creature trying to blend in with a colony of morde-bats before he tamed it for his own. 
+4590  Tired of your clavicle being exposed to the world?  Here is an enchanted armor designed to shield old bones from plight of combat.
+4591  Endless arrows shall be pulled from the pouch over your shoulder.  Enemies will quiver at the sight.
+4848  Some ask, why does a centaur need a belt?  Those people usually die.  Badly.
+4849  With a playful flick of his mighty tail, a centaur registers approval.  With his flail, disapproval.
+4594  The Instagib 'Optimal Shooting Platform' is a highly tuned, perfectly balanced brain liquification device.
+4595  She dreamed in the night that the divine owl spirit called her name. When she woke, this bow lay beside her in a bed of leaves...grey feathers still drifting from the branch above.
+4844  When is a helmet both weapon and armor?  When it rests on the mighty head of Bradwarden.  Also, when it has spikes.
+4845  This armor weighs more than you do.  Behold, and marvel at the strength of Bradwarden.
+4846  The mighty centaur needs no shield when protected by these durable bracers of Omexe.
+4847  Many lives has this mighty flail ended.  Many skulls has this mighty flail pulped.
+4840  Twisted is the mind that broods beneath these twisted horns. Twisted are the intentions that issue from that mind. Twisted is the fate of those who encounter Leshrac.
+4841  Rumors have it that Leshrac once lost his tail, and after much searching and despair, an artificial appendage was attached. Perhaps this was the source of his bleak brand of wisdom.
+4842  Some insights are so painful that they burst out from within, piercing flesh, filling body and mind alike with agonizing insight.
+4843  They say that wisdom grows not without bright light, fresh air, clean water. But a twisted sort of wisdom, like these vines, may feed and thrive on anguish, black thoughts, and foul deeds.
+4937  Many experiments were required, and challenges overcome, to craft material able weather Lina's flame.
+15160 The Curse Dota 2 Invitational, sponsored by Alienware, is an invitational bracket tournament that spans 3 weekends. 8 Teams were invited to compete in a double elimination format with a $10,000 prize pool. (1st $5,000 2nd $3,000 3rd $2,000)
+15161 The Curse Dota 2 Invitational, sponsored by Alienware, is an invitational bracket tournament that spans 3 weekends. 8 Teams were invited to compete in a double elimination format with a $10,000 prize pool. (1st $5,000 2nd $3,000 3rd $2,000)
+15162 Use the International 2013 Interactive Compendium to keep up to date on this year's tournament action. Includes a free Smeevil courier.
+15163 Use this item to increase the rate at which you earn Battle Points by 125% until the end of the International. Additionally, you will grant other players a stacking 25% bonus to their Battle Points rate.
+4338  A ceremonial covering honoring a savage time before the Ursa earned the gift of speech.
+4339  Far-seeing prophets who see anything other than Death are merely fooling themselves. Death Prophet knows how every occasion ends, and thus her attire is always appropriate.
+4336  In a savage age, before the Ursa earned the gift of speech, they communicated alliances and homelands through elaborately designed patterns and sigils.
+4337  In hallowed ceremony on honored days, the Ursa remember a savage time before they earned the gift of speech.
+4334  The cudgel of the ageless, said to be the result of a millennia of craftsmanship compressed to the blink of an eye.
+4335  A ceremonial headgarb to honor the ferocity of a savage age.
+4332  The Bonehunters adhere to the ways of a time before weapons could be forged from steel.
+4333  The Bonehunters believe that if it is good enough to protect from within, then it must also be good enough to protect from without.
+4330  The beasts that wander the drylands are fierce, but no few are match for the Bonehunters.
+4331  The Bonehunters adhere to the ways of a time before weapons could be forged from steel.
+4647  To the Invoker, those without the gifts of magic are insects to be ignored or destroyed.  For at time, his ferocity was such that the magical arts were treated with superstition and fear by all.
+4208  The Flameguard wear capes as blue as the Holy Flame they are sworn to protect. On the back is their sigil: a circle representing the Inner Colannade with an inscribed triangle symbolizing the Flame itself.
+4209  Beyond reproach and unwavering in their devotion, the Flameguard stand as living avatars of Knightly Duty.
+4202  "I scry with my little eye...a fabulous piece of headgear!"
+4203  An exceptionally sharp war-blade.
+4200  The skull of an unfortunate sea captain adorns this rusty blade.
+4201  The remains of a once terrible icon, now a symbol of the Tidehunter's power.
+4206  The Flameguard sect of the Vigil Knights are sworn to protect the ever-burning Holy Flame. While few in number, they are unmatched in swordsmanship.
+4207  Flameguard armor is functional, but also highly ornate. From their stations among the Inner Colonnade the Flameguard make their watch over the Holy Flame.
+4204  An exceptionally sharp war-blade.
+4205  An axe crafted by four master smiths, each edge carefully wrought.
+308   This new item has no description.
+309   This new item has no description.
+300   This new item has no description.
+301   This new item has no description.
+302   This new item has no description.
+303   This new item has no description.
+304   This new item has no description.
+305   This new item has no description.
+306   This new item has no description.
+307   This new item has no description.
+4116  Dowager Queen Tansis XII called upon a brave dragon slayer to ambush Uldorak upon her son's crowning day. Expecting no plots from the cowed people of Candoness, Uldorak was caught by surprise and slain.
+4117  Upon this pauldron the crest horns of the Time-Dragon Uldorak are mounted.
+4114  Many years before his fateful encounter with the Eldwurm, the Dragon Knight battled with and slew the Time-Dragon Uldorak. The much relieved and newly crowned King Tansis XIII ordered this helm forged as a gift and reward.
+4115  The Kings of Candoness suffered under the tyranny of the Time-Dragon Uldorak for many generations. For with each passing of the Candonite Crown, the dragon would appear demanding tribute in gold and magic trinkets.
+4112  Adorned in tusks of great beasts slain in the high peaks of Xhacatocatl, the priests of the Flayed Twins seek blood to keep their greedy gods appeased.
+4113  Among the shrouded reaches of Xhacatocatl hunt terrible beasts, fanged and feathered. It is after the fashion of these stalkers that the Bloodseeker has been molded.
+4110  The Flayed Ones cannot be destroyed nor can they be banished to some outer realm. Only through endless bloodshed can they be placated and their wrath stayed.
+4111  Adorned with the steel-like feathers of the Hlotl-beast, these gloves offer both protection and a benediction to Those That Ever-Thirst.
+4118  Fine white gloves of silk. Noble clothing like this serves to set the Captain above his crew and to also motivate them with the promise of hard-earned wealth.
+4119  More a prize than a weapon, this rapier was looted from some unfortunate prince's treasure ship as it navigated the Narrow Channel.
+4062  Let those who would sharpen their tusks on woodsy trunks take heed!
+4063  Many would think the Nature's Prophet a thing of leaf and flower. They forget the rending claws of the forest bear and the tearing tusks of the deep woods boars.
+4067  Who knew he could dance? Equip the item and bind a key to the 'Taunt Item' button to use.
+4064  Is there any beast more majestic than the mighty Gigas? Even Alces and Cameloides bow before it.
+4065  A Sinorian gemstone caps this staff, providing a magical focus for nature's incantations.
+4069  Among the myriad creatures of Verodicia's domain, the zebu and the aurochs stand as the most prideful.
+4639  The tenth curse, the curse of strength, is lain upon his shoulders, like all the weight of the world.
+20136 This bundle contains all of the items in the 'Ember Tipped Carapace' set for Weaver:
+4453  A rack of sickle curved horns for Leshrac.
+4452  The Crimson Cut-throat kept a wide assortment of ornate blades to do his work.  Once the contract was complete, Gondar helped himself.
+4451  Built from old leather and stone, this garment is a reminder of a simpler time.
+4450  This armor comes from an age long forgotten, and it crackles with the ancient power of the stormrider.
+4457  A marvel of inventiveness, this makeshift bow proves that Windrunner can kill you without fancy weapons.  In fact, all she needs is a few sticks bound together in the shape of a bow.
+4456  Found in an ancient temple in Druud, this armor turns away blades and spells.  Storms are not so easily deflected.
+4455  The power of the summer squalls lays a thrashing on the enemies of Disruptor.
+4454  The only warning your enemies will receive will be the slight breeze that puffs their cheek as the arrow that kills them finds its mark.
+4459  Built to strike into the core of an adversary, and tear it apart when withdrawn.
+4458  Made from the scales of a drake's underbelly, this light and colorful armor is an honor to wear into battle.
+4923  The scaly hide of the Sea Dragon is one of the few substances tougher than Slardar's own integument.
+4922  Only those who prove themselves in hunt against the great Sea Dragon dare wear such a crown.
+4921  For sport, the Slithereen hunt the great Sea Dragons of the ocean abyss. This basher is fashioned from the spoils of one such hunt.
+4920  A braid woven into the tail of a centaur signifies that battle is soon at hand.
+4695  In the eyes beyond, all that is found must then be appraised.
+4926  No saddle has ever graced the back of this conquering hero, but instead a barding worthy of his greatness.
+4925  Made from the leather of a full grown thunderhide, this armor is a match for any blade.
+4696  There is little a mind cannot assess provided it is properly equipped.
+4699  Among the Keen Folk, weapons are passed down from father to son, and the Killstealer was originally cast in Sniper's grandfather's day.  They just don't make 'em like they used to.
+4698  The Keen Folk are, for the most part, a finely mustachioed people, and Sniper is no exception.  It took him nearly three days to grow out this stache.
+10070 A strange beast infused with magic. Its color, appearance, and abilities are determined by the types of magical essences it was exposed to while still an egg.
+20148 Only a centaur could dare shoulder the weight of this mighty item set.  Includes all of the items in the 'Weight of Omexe' set for Centaur Warrunner:
+20149 With these vestments, Keeper of the Light rides forth from the Primordial harmony.  This set contains all of the items in the 'Empowered Vestments of the Gods' set for Keeper of the Light:
+4803  A staff forged in the heart of Light's own dream of itself, it has been entrusted to Light's Keeper as a manifestation of the ancient power.
+20137 This bundle includes all of the items in the 'Rough Rider of Yama Raskav' set for Batrider:
+4589  Spending time on the trail is bound to take its toll sooner or later.
+4588  If you run out of arrows, you can always stab your enemies with this.  It has more points than Leshrac has horns.
+20134 This bundle contains all of the items in the 'Designs of the Slithereen Nobility' set for Naga Siren:
+4329  The crimson pattern which covers this garment must be regularly restored with fresh blood.
+4328  It is tradition that a Bonehunter adorns himself with the teeth of their fiercest kill.
+4321  A ceremonial blade, used to prepare sacrifice to the Flayed Ones.
+4320  A ceremonial blade, used to prepare sacrifice to the Flayed Ones.
+4323  A cage of gold for your knight's gilded head.
+4322  Brutality defined many of the early weapons used by the Anti-Mage.
+4325  At the border between the realms lie stones that exist outside of time itself.  To be struck with such a stone is to feel an eternity of pain.
+4324  For hope is brought to all who witness the hammer's fall and repent.
+4327  To the west lie the drylands, where the Bonehunters stalk.  Their tribute to the Flayed Ones is small, but their ferocity is unmatched.
+4326  Ostarion's servants presented him with this sword.  The bones of fallen kings form the grip and hilt, while the blade is forged from the armor in which they died.
+4215  Wraps to keep a bear's paws warm, but claws free to rend and hew.
+4214  Lightweight pants designed to preserve the wearer's agility more than his hide.
+4217  A cruelly twisted hook. Perfect for draining blood from an unexpecting victim.
+4216  A cruelly twisted hook. Perfect for draining blood from an unexpecting victim.
+4211  An armored gauntlet of the Flameguard sect, worn by that faction's gloried commanders.
+4210  The Flameguard sect of the Vigil Knights are sworn to protect the ever-burning Holy Flame. While few in number, they are unmatched in swordsmanship.
+4213  To the north of Ulfsaar's home-wood lies a nameless stretch of jagged, frozen peaks. On occaision the ursine people must range these mountains, culling the wild mountain beasts lest they grow and threaten the sleeping cubs.
+4212  A well worn hat adorned with a lucky feather and several blessed cholgar-teeth.
+443   This new item has no description.
+442   This new item has no description.
+441   This new item has no description.
+440   This new item has no description.
+447   This new item has no description.
+446   This new item has no description.
+445   This new item has no description.
+444   This new item has no description.
+339   This new item has no description.
+338   This new item has no description.
+334   This new item has no description.
+337   This new item has no description.
+336   This new item has no description.
+331   This new item has no description.
+330   This new item has no description.
+333   This new item has no description.
+332   This new item has no description.
+4101  The sword is engraved in fine script telling the fated story of the one whose soul is sealed within.
+4100  Many generations ago a great clan of stone workers crafted blades of jade such as this. While perhaps not as easy to wield or maintain as steel, the weapon nonetheless bears a grand nobility and a fine edge.
+4103  The gargoyles and spirit-watchers of the Kuur-Ishiminari craft-clan bear witness to deeds both glorious and profane with never closing eyes of jade.
+4102  An artistic weapon, curved and elegant. When held within a powerfully gloved hand it burns with a desire to bring metal to mortal men!
+4105  Courage may be born of a fearless demeanor or a masterful blade-arm. For those who lack these things, there is always the bottle and the jug.
+4104  This item changes the appearance of the treant warriors summoned by Nature's Call. Even the dreaded axe cannot hold their kind in check.
+4107  Juggernaut has faced many great demons and abominations. A few of these hunt with an alien intellect. He has crafted this mask to capture some aspect of their cunning and horror.
+4106  Bracers crafted from the fine bone of some alien beast.
+4109  The fragmented souls of tormented gods dwell within the blade's obsidian form.
+4108  The prophet of Nature is not only a ward of the green things, but also of the myriad beasts and birds.
+20104 Contains all of the items for the 'Light of the Solar Divine' set for Lina:
+20105 Many are the knights and noble youths who have intruded on the hunting grounds of the Broodmother, disturbing her peace with the clatter of armor, their boots setting atwitch her silken web. The intruders are like succulent shelled insects upon whose innards she's gorged, all the while growing curious of the adornments that drape their bodies, until that day when a blacksmith found his way into her web.  Armor he promised her, the finest in the land, if only she would set him free. And so a deal was struck, and the blacksmith measured, and toiled, taking as his materials the finest steel to be found among the husked corpses of silk-wrapped knights.  When the new armor was finished, the spider kept her promise and set the blacksmith free.  Then she watched her brood devour him. Contains all of the items in the 'Brood Queen' set for Broodmother:
+20102 The scarred and battle-hardened veteran of many conflicts, Disruptor knows that even the best Stormcrafter is never fully in control of a storm, but merely a vector for its power. Astride the last of the legendary Archtyrex stryders, Disruptor rides into battle wielding the ancient power of the upland storms.  Stormriders laugh in the face of order and through force of will bend storms to their bidding.  Clad in the armor of his ancestors, and riding his scaly steed, Disruptor is a true Rider of the Storm.
+20103 A massive bundle that contains 11 sets of items created by the Polycount modeling community.
+20100 In the final years of the Sordid Era, after thirteen seasons of drought, shamanic ways fell into disrepute, with all itinerant mages blamed for failing crops and disease. In order to continue his travels, Rhasta was forced to adopt a new appearance. While still offering many of the same services, during the end of this Era he disclaimed all knowledge of shamanism and professed only the knowledge that any vagabond might acquire along the road, and practice (in a strictly nonprofessional sense) for a few coins. Thus he survived into the next era, when many another was separated from their hide and stretched out along the roads as a warning to the next shaman who might happen along. Contains all of the items in the 'Mysterious Vagabond' set for Shadow Shaman:
+20101 Long ago exiled from the valleys of Knollen, Sniper has travelled to many lands, fought in many battles, and learned much along the way. From these adventures, he has garnered mementos of his travels, collecting armor and weapons as he strives to fulfill the prophecy of his youth, in the hope of one day rejoining the keen folk of his ancestral village. Contains all of the items in the 'Gear of the Tally-Ho Hunter' set for Sniper:
+4079  Upon each plank is written a death-prayer to Verodicia and the name of an enemy of the deep forest.
+4078  A force as mighty as nature itself should not be content with merely one beard.
+4075  A simple, but decorative crest of wood. Designed to provide protection from the hated axe.
+4074  This druidic root-staff symbolizes the Prophet's ability to bend the tree-men to his will.
+4076  Forged in the fires that bubbled up from the sea on the night your homeland sank beneath the waves!
+4071  The riverlands hero Castor Twin-Tusks challenged Verodicia's chosen prophet to an arcane duel. He lost.
+4070  Al-Fusha was a great satyr general in service to Verodicia. It is said that he fell in battle and much of his wargear lost. Of it, this spiked and goddess-blessed pauldron remains.
+4073  Carved entirely from the ivory heart of the long extinct corodont.
+4072  The Ivory Isles were lost with the theft of the Defender. Having slain the thieves, Juggernaut carries it with honor!
+234   This new item has no description.
+235   This new item has no description.
+4613  The guardians of the forest paths walk in perfect silence, betrayed not by their cunning footwear.
+4612  A sword made from the talons of a fallen wyvern.
+4615  Let this blade guard you from harm.
+4614  The go-to mallet for when your enemies absolutely, positively must be smited.
+4617  Kunkka's ship cleaves the waves as easily as Finblade cleaves his enemies. Kunkka revels in the iridiscent play of light given off by dashing spray and liberated souls alike.
+4616  Off the coast near the village of Pole are fish large enough to eat a man in a single bite.  Against such a beast, a spear simply will not do.
+20106 Contains all of the items in the 'Obsidian Blade' set for Huskar:
+4468  The measured thud of this staff may be heard in the labyrinthine corridors of the Ultimyr Archives as often as these ominous words: "Now where did I put that book?"
+4469  The Crimson Cut-throat made no demands, and had no agenda.  The cost for his contract was paid for by the families of his victims.
+4466  Astride the last of the legendary archtyrex, a skilled stormcrafter channels the fury of the storm itself.
+4467  As the peregrine flies, so too shall this blade.
+4464  As storms are born and die upon the plains of Druud, only to be born again next season, so too is the Order of the Stormrider eternal.
+4465  By the time Gondar was finished, little else remained of the Crimson Cut-throat's armor.
+4462  Armor made from the likeness of a fallen drake.
+4463  Made from the finest crushed and reconstituted dragon-hardened shell, the Traveler's Jug has for generations been thought unbreakable.  Now Brewmaster puts it to the test.
+4461  A long cape designed in honor of all drakes who have died in battle.
+4668  Whosoever wears this mantle, the spirit Tyrian ensures they shall shrug off any burden, while their identity and their purpose remain concealed.
+4669  The spirit of Atropos inflicts dread and delirium on any who spy the wearer of this garb. Best not to see Lanaya at all, or even wonder at her whereabouts.
+4918  Wear this mask, and it will be the last face your enemies ever see.
+4919  With this silver crescent, the centaur has cut the strings of many lives.
+4664  Her hair down, your queen is relaxed in her work.
+4665  She may be chained, but she is still in control.
+4914  Even skulls get lonely up in the ruins.
+4667  This new item has no description.
+4660  Serpent Clan long held to the traditions of the haruspex, and so foresaw the ruin and war that would visit the ancient clans.
+4661  As Serpent Clan spread word of their coming doom, they granted their honored vestments to Sylla that he may remember their words.
+4910  The spear of a warrior remembers the chaos of many battles, and the taste of many lives.
+4663  The blade has seen the belly of many a beast so that knowledge may pour forth and forewarn those in need.
+10062 Replaces the default killing spree announcer with the resonant booms of AXE!
+10063 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+10060 Show your support for Darer by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  Darer pennants can be combined with other Darer pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+10061 This item replaces the default announcer with the double-edged wit of Axe.
+10066 A hard, scaled egg that seems to be alive and almost ready to hatch. It hungers for the magical energies contained in Diretide essences. What comes out will be determined by the type and amount of magic the egg consumes.
+10067 "I like to watch."
+10064 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+10065 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+10068 Seeing is believing.
+133   This new item has no description.
+132   For stabbin'.
+131   This new item has no description.
+130   This armguard protects from grievous cat-fight injuries.
+137   This new item has no description.
+136   This new item has no description.
+135   This new item has no description.
+134   This new item has no description.
+139   This new item has no description.
+138   This new item has no description.
+4868  A hood to cover a wizened head and keep dark thoughts away.
+4869  If our world is but a shadow of Barathrum's real world, then this belt may be but a shadow of Spirit Breaker's real belt. But oh what a shadow! 
+4862  Some have questioned the fashion sense of using a skull for a belt buckle.  The last guy who questioned it became a second belt buckle.
+4863  That's not an eye-patch.  That's armor for his vision.
+4860  For some heroes, a shoulder isn't a deadly weapon capable of eviscerating enemies.  Lycan isn't one of those heroes.  
+4861  Even his arms are armed.
+4866  White as the light of the hottest supernova, and gold as any royal coin, this is a vestment truly worthy of a Fundamental.
+4867  On a pale horse he rides, this spark of endless suns, this Keeper of the Light.
+4864  What is a warhorse without a little pomp and barding?  These golden coverings are a mark of distinction on any field of battle.
+4865  With this radiant staff Keeper of the Light has sparked the heat of endless suns.  
+4484  Although forged from silver and jeweled with crimsonstone, this enchanted Shield of the Drake is no ornamental bauble to hefted at tourneys.  It is the deepest kind of magic, and its bearer could find no better protection.
+4485  The massive shoulders of Omniknight bear this armor well.
+4486  Among the many weapons in the Crimson Cut-throat's home were a trio of small, curved knives which Gondar repurposed into a new shuriken.
+4487  It has been long since this apparel has been seen in the great halls of the Slithereen, but few have forgotten it.
+4480  Wings woven with the silk of the Deep Ruby Spider. Adorned at the tips with the gems hewn from the spider's body.
+4481  A carapaced lord of the deepest flooded oceans of the world, Birot pays tribute to water's finest representative on land.
+4482  Nine lances were left on the field for the nine royal guardsmen slain in the final battle against the Dread Magus.
+4483  This one is gonna sting a little.  Oh, yes.
+4488  The warlord thought his forged armor would win the day.  Axe showed him otherwise.
+4489  Though crafted in symbolic likeness to the great wheel books of the ruined city, the Spade of the Gluttonous whistles no song but the song of death.
+89    This new item has no description.
+4260  Bracers that infuse the living waters with Radiant essence. When fighting for the Dire, Morphling wears them with purely ironic intent.
+4261  The promise of a Radiant crown was enough to draw from its path the frozen comet in which Morphling waited to take watery form.
+4262  Plucked from the deeps of a still mountain pool, it was as if these pauldrons had waited an eternity to be discovered by the one fated to wear them.
+4263  Morphling's terrifying charge is made all the more intimidating when he bristles with these stunning Radiant crests.
+4264  While a stopped clock may be right on occasion, savage deployment of the Timebreaker is always appropriate.
+4265  The name of the ancient kingdom that fell to this terrible blade has long been forgotten to history.  The blade itself, however, seems impossible to lose track of. 
+4266  Omniknight wears such armaments proudly.
+4267  Omniknight wears his feelings on his sleeve.  That and a blue bracer, which he'll use to smite his enemies in the name of the Omnicient.
+4268  When your best tool is a hammer, the world (and the head of the heretic) begins to look like a nail.
+4269  For Omniknight, no show of loyalty is too great.
+4916  A ceremonial belt of leather and brass meant to signify the high status of the wearer.
+4917  Braced for combat.
+4666  To give riches is torture.  To take riches is bliss.
+15099 atoD 2 features 8 top North American and European teams. Using Reverse Captain's Mode, teams will surely play unconventional heroes and sabotage each other's lineups.  With some of the proceeds going to the prize it's the first tournament to include a direct way for fans to increase the prizepool.
+4912  It used to open some ancient triumphal arch, but the structure was damaged during excavation.  Using explosives probably didn't help.
+4913  A backpack, a cloak, the finest blanket you can steal, and a little souvenir for a discerning ruffian.
+15152 The inaugural E2Max L33T Championship (ELC) will feature a prize pool of SGD13,000 cash. online and LAN qualifiers from May to July, with the Grand Finals on 7th July at E2Max, Cineleisure, Singapore! ELC is presented by Cathay, hosted by Rapture Gaming Network, supported by e-Club and CM Storm.
+4662  Upon the shoulder sits a coiled snake, wrought in gold. The seers of Serpent Clan often read the future in the entrails of their lowly kin.
+4911  Once in a while you find bandits living in the ruins.  Once in a while they forget things while they're being evicted.
+4008  A helm bearing the cyclopean visage of the Tarnsmen's demonic war god. It is said the Red Mist destroyed the god and took its symbols for their own.
+4009  Heavy platemail forged in the blood of the Tarnsmen's dead gods.
+4000  The bleached satyr horn mounted atop this mask is said to allow the wearer to channel an ancestor's power.
+4001  Mastercrafted pauldrons of the Pangolin guild. They offer the strength of platemail at a fraction of the weight.
+4002  Witch Doctor found this stylish croc jaw discarded in the bush.
+4003  Witch Doctor carries the ribs of his old grandfather, a shaman who held powerful magicks and spoke with influential spirits. Grandfather offers the Witch Doctor access to power in exchange for the opportunity to see blood spilled once more.
+4004  A three section chained haft with double bladed axe head at the top. Nearly as dangerous to it's wielder as it is to the enemy.
+4005  If your ineffable transdimensional power over chronology fails to stop your enemy, try hitting them in the head with this sturdy mace.
+4006  A carefully assembled collection of troll's teeth. Each tooth contains the trapped soul of its former owner.
+4007  The claw from a black dragon's left toe. The only piece of the beast that survived an encounter with Pudge's voracious hunger.
+323   This new item has no description.
+320   Lina's default arm accessories
+321   Lina's default dress bottom
+326   This new item has no description.
+327   This new item has no description.
+324   This new item has no description.
+325   This new item has no description.
+328   This new item has no description.
+329   This new item has no description.
+15019 Adding this Strange Modifier to a strange item of your choice will allow it to also track the number of first bloods you obtain while wearing it.
+4714  Very few display the talent necessary to join the Tahlin Watch.
+4715  As he fled his family's slaughter, Riki disguised himself with the armor of his royal watch in order to escape undetected.
+4717  None now remember the reign of the Bramble Lord, and fewer still are the relics of that dark era.
+4710  A belt crafted from the tail feathers of the stormcrow.
+4711  A staff bearing the sigil of the stormcrow, crafted from its sacred bones.
+4712  Incised with the luminous runes of Qezh, the upraised claws of the Scintillant Supplicant summon the full attention of the Djinn of Qaldin.
+4713  At the height of the ceremony of Qaz'hallaq, seven virtuous acolytes are stung to death with one swipe of this malevolent armored appendage.
+4718  The grim visage of the Bramble Lord adorns the deflector.
+4719  The Bramble Lord insisted that all arms made in his honor be just as adept at piercing as they were at tearing.
+4479  A faded alloy ring attracts static electricity.
+4478  Caring for a repository of singular, priceless, unreproducible volumes of wisdom and madness is a burden that, like this mantle, may be shouldered by only an Archivist of similarly singular power.
+4471  Said to be forged from the iron that once chained the last of the great Drakinds, this helm is most coveted among dragon slayers.
+4470  Prevents cranial intrusions by a particularly pernicious form of bookwyrm that skulks in the Ultimyr Archives.
+4473  Having a bad hair day?  No problem.  This snappy little markswoman's cap is stylish for all occasions.
+4472  "All Who Borrow Must Return" is the Archivist's slogan. Those who do not return what they borrow are soon visited by that which resides in this bag.
+4475  Certain tomes in the Ultimyr Archives have never seen the light of day, and never will. But their pages have seen this light many times.
+4474  Resistant to mold, mildew, cobwebs, curses and other things which make perusing the Ultimyr Archives dangerous to even experienced browsers.
+4477  For turning pages that wish not to be turned, the Archivist's bracers have been imbued with persuasive powers.
+4476  A vest made heavy and durable by materials said to repel the sorceric arts.
+4909  The warriors of the Dezun Order hold dear the bones of those whose sacrifice has come before.
+4908  The runes upon the cuffs confer strength and courage upon the wearer.
+4679  Few sorcerers can claim to own a shawl that appears as prestigious as it is fire resistant.
+4678  The Wildwing are fierce and territorial, but they more than tolerate Enchantress in their realms: They welcome her.
+4901  A billowing sleeve for Spectre, charged with the excess energy that overflows from Spectre's present form.  
+4676  The Wildwings treasure their lost feathers, saving them to line the nests where they raise their young. It speaks of their deep respect for Enchantress that they gifted her these feathers for her bangles.
+4903  A dress, slightly tattered by the constant flux of spectral energy. 
+4902  Chaotic emanations from a plane of violent power are conducted through these focal-horns and imbue Spectre with energy.
+4904  Named after a legendary dragon, this sword was given to the Juggernaut on the day he became a swordmaster.
+4907  The bones of those who came before are brought to the field of battle once more.
+4670  Although barely visible beneath the rim of this headpiece, Belladonna grants the wearer the enormous dilated eyes that so befit a seeker of mysterious truths.
+20169 Use the International 2013 Interactive Compendium to keep up to date on this year's tournament action. Includes a free Smeevil courier and International 2013 Battle Bonus stretch goal reward!
+10059 Show your support for Orange by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  Orange pennants can be combined with other Orange pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+10058 Show your support for Mousesports by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  Mousesports pennants can be combined with other Mousesports pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+10057 Show your support for Invictus Gaming by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  iG pennants can be combined with other iG pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+10056 Show your support for Absolute Legends by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  AL pennants can be combined with other AL pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+10055 Show your support for World Elite by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  WE pennants can be combined with other WE pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+10054 Show your support for Zenith by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  Zenith pennants can be combined with other Zenith pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+10053 Show your support for CLG by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  CLG pennants can be combined with other CLG pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+10052 Show your support for NaVi by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  NaVi pennants can be combined with other NaVi pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+10051 Show your support for Evil Geniuses by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  EG pennants can be combined with other EG pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+10050 Show your support for mTw by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  mTw pennants can be combined with other mTw pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+120   This new item has no description.
+121   This new item has no description.
+122   This new item has no description.
+123   This new item has no description.
+124   This new item has no description.
+125   This new item has no description.
+126   This new item has no description.
+127   For seeing and talking.  There's a beard on it too.
+128   He's the reigning heavy weight champ.
+129   Only the bravest warriors wear one gauntlet to battle.
+4875  One must use care in the handling of such a blade, for it will cut the wielder as well as surely as the rival.
+4874  One must use care in the handling of such a blade, for it will cut the wielder as well as surely as the rival.
+4877  Be ever in the shadows, and wrap one's self in silence.
+4876  Never reveal one's face to a foe.  Keep them ever in doubt of one's identity.
+4871  Barathrum's mighty head is his battering ram. Protect it well with this heavy helm!
+4870  When prying wide the rifts between the planes, Spirit Breaker draws power from these mighty gauntlets.
+4873  To wrong Axe is dangerous.  To suffer his vindication is deadly.
+4872  A strange friction is generated on the physical forms of those who slide between the worlds, deeply scarring and cutting into their form. These pauldrons guard Spirit Breaker from the worst of the damage.
+4879  One must not balk at death.  One must learn to face all trials.
+4878  To ensure an advantage, one must be capable of fighting from any angle.
+4497  An armlet worthy of of a knight of the Omniscient.
+4496  If ever you doubt in the power of the Omniscient, this warhammer will renew your faith.
+4495  Only a diving falcon can hope to avoid Windrunner's arrows.  But this one didn't.
+4494  A deep scratch shows at its center, a remnant of the only attack the original owner was able to deflect.
+4493  Naga dons these noble fins, and recalls the glory days in which they slithered up the grand stairs of the sunken palace.
+4492  The prized spine of a red drake provides this heavy blade with an excellent counter-balance.
+4491  The prized spine of a red drake provides this heavy blade with an excellent counter-balance.
+4490  While a sharp point may make a weapon dangerous, it takes a disciplined arm to make it deadly.
+15089 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of your Earthshocks that hit at least two enemy Heroes while wearing it as Ursa.
+15088 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of enemy Heroes you've killed inside your Chronospheres while wearing it as Faceless Void.
+15087 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of your Chronospheres that hit at least two enemy Heroes while wearing it as Faceless Void.
+15086 GosuLeague delivers seasons on a monthly basis where teams of all skill levels play in different divisions. The top division is awarded with $5000 each month. Each team play two matches a week.
+15085 GosuLeague delivers seasons on a monthly basis where teams of all skill levels play in different divisions. The top division is awarded with $5000 each month. Each team play two matches a week.
+15084 Fueled by joint forces of TwitchTV and SteelSeries, Season 3 is the newest edition of The Premier League. Watch 10 of the best teams from both Europe and North America contend for $6,000 with 5 intense matches every week for 9 weeks. Commentary by TriumphOfMan.
+15083 Fueled by joint forces of TwitchTV and SteelSeries, Season 3 is the newest edition of The Premier League. Watch 10 of the best teams from both Europe and North America contend for $6,000 with 5 intense matches every week for 9 weeks. Commentary by TriumphOfMan.
+15082 The Gigabyte E-Sports Tournament is sponsored by Gigabyte and hosted by DotaTalk. The winners of six qualifiers from South-East Asia will face off against veteran teams for a cash prize of $1,500 and the chance to compete against two of the best Chinese teams, IG and LGD, for another $1500.
+15081 The Gigabyte E-Sports Tournament is sponsored by Gigabyte and hosted by DotaTalk. The winners of six qualifiers from South-East Asia will face off against veteran teams for a cash prize of $1,500 and the chance to compete against two of the best Chinese teams, IG and LGD, for another $1500.
+15080 A gift for your purchase of the Portal 2 soundtrack! Double click this gift to unwrap it.
+4273  A shuriken made to be deadly regardless of how it makes contact.
+4272  Wielding a bow made of ice requires a delicate hand, and a backup plan.
+4271  Occasionally a target will be well-armored against more conventional blades.  Or they may be hiding behind a large door.
+4270  Sometimes a little push is all you need.
+4277  Owning the weapon of a Qaldin Assassin is a mark of success that few hunters ever achieve.
+4276  Few hunters ever make contact with a Qaldin Assassin.  Fewer still are able to commission a blade from them.
+4275  A blade need not be made for combat to be useful in war.
+4274  Good for crops.  Great for heads.
+4279  The runes upon the brow give vision beyond the flow of time.
+4278  Perfectly balanced and unbelievably sharp, the weapons of a Qaldin Assassin are considered a luxury among those who kill for their living.
+20107 Contains all of the items in the 'Relics of the Putrid Pontiff' set:
+15065 AbsoluteArena King of the Hill is a tournament consisting of a weekly match-up between two teams in a best-of-5 format. The first win is $100, and the prize increases every week by $100. Teams are able to win five games in a row ($1500) at which time the series starts over.
+15064 Razer Mini Madness is a Dota 2 tournament hosted by It's Gosu eSports and generously sponsored by Razer. Eight of the best teams in Asia will compete and will try to bag the $500 prize. This tournament is the last opportunity for the teams to get ready for this year's The International.
+15066 AbsoluteArena King of the Hill is a tournament consisting of a weekly match-up between two teams in a best-of-5 format. The first win is $100, and the prize increases every week by $100. Teams are able to win five games in a row ($1500) at which time the series starts over.
+15063 Razer Mini Madness is a Dota 2 tournament hosted by It's Gosu eSports and generously sponsored by Razer. Eight of the best teams in Asia will compete and will try to bag the $500 prize. This tournament is the last opportunity for the teams to get ready for this year's The International.
+15062 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of enemies you've killed with Tornado as Invoker.
+15068 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of your Storm Hammers that hit at least two enemy Heroes while wearing it as Sven.
+4019  A weathered, hooked harpoon and heirloom of Kunkka's line.
+4018  A well crafted tricorne edged in gold.
+4013  This is merely a bracer of fur. It has no particular aspect of interest and offers no magical protections. Still, it bears a great name and in so doing illustrates the hollowness of baseless pride.
+4012  The aspect of the boar brings health, virility, and alacrity. The primal sign of four-seven-twelve.
+4011  A lost foot does not hinder Kunkka's desire for vengeance.
+4010  When the Red Mist consumed the Thousand Tarns, the lakes turned red with the blood of the slain. Many demons masquerading as the lawmakers and priests of that doomed civilization were also destroyed, their blood mixing with that of the mortals they once ruled.
+4017  A shipmaster's fine bicorne.
+4016  Even the Captain must at times join his crew in the daily work aboard the ship.
+4015  The fangs of this fierce blade bite deep into your foe's bared weapon!
+4014  Here we have Honor times twelve. As one might adorn a gloried warrior-king, each tusk a symbol of triumph.
+356   This new item has no description.
+355   This new item has no description.
+354   This new item has no description.
+353   This new item has no description.
+352   This new item has no description.
+351   This new item has no description.
+350   This new item has no description.
+359   This new item has no description.
+358   This new item has no description.
+4707  The sacred egg of the stormcrow.  A powerful source of magic, once certain rituals have been performed.
+4703  The crest of the Tahlin Watch sits upon the brow.
+4702  When death is the price, one can never swing too many blades.
+4701  A cloak is every traveler's friend.  A warm covering for the cold, and it confuses the silhouette, making the wearer a more difficult target at long range. 
+4700  These shoulder pads provide protection against both the enemy, and the occasional bruised shoulder of the long-distance shootist.
+4709  A cloak crafted from the feathers and talons of the stormcrow.
+4708  A mask crafted from the beak of the stormcrow.
+289   This new item has no description.
+288   This new item has no description.
+281   This new item has no description.
+280   This new item has no description.
+283   This new item has no description.
+282   This new item has no description.
+285   This new item has no description.
+284   This new item has no description.
+287   This new item has no description.
+286   This new item has no description.
+263   This new item has no description.
+266   This new item has no description.
+265   This new item has no description.
+264   This new item has no description.
+4648  Red of hood and red of claw, this headpiece shields the Beastmaster from the elements.
+4649  Those who practiced the magical arts are often feared for their power.
+4642  On the world at the rim grow a species of crystalline tree in whose branches visions of the future are tangled. From such a tree, Outworld Devourer fashioned this staff.
+4643  "And why shouldn't I?" Drow has been heard to say, to absolutely no one.
+4640  Demnok studied for years to construct the true name of the Watcher, hoping to bind a creature powerful enough to know and reveal the Ozkavosh tongue.  Unfortunately, the Watcher lacks a tongue.
+4641  A helm whose very symmetry foreshadows the dark power that Harbinger may summon to protect the inmost shells of creation from cold destructive forces beyond knowing.
+4646  Gotta dig deep if you want to find the best!
+4644  Style and sorcery are said to go hand in hand.
+4645  The moon's lustre fills these bracers, and fills Mirana with midnight power.
+10048 Show your support for Complexity by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.
+10049 Show your support for MUFC by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  MUFC pennants can be combined with other MUFC pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+10040 Team Pennant showcasing support for QQ
+10041 Team Pennant showcasing support for Buren Boys Van
+10042 Show your support for DK by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  DK pennants can be combined with other DK pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+10043 Show your support for LGD by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  LGD pennants can be combined with other LGD pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+10044 Show your support for EHOME by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  EHOME pennants can be combined with other EHOME pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+10045 Show your support for TongFu by buying this Team Pennant! Equip it in the 'fan slot' of your Player Loadout to show other spectators who you're rooting for. Upgrade it to show you mean business! In addition, equipping a pennant makes you eligible for item drops while you spectate your team's matches live during the International 2012, and other tournaments Valve may designate in the future.  TongFu pennants can be combined with other TongFu pennants to upgrade your Team Pennant fan level.  The level of your Team Pennant will increase the total fan value of the team when you are spectating a Tournament match.
+10046 You will need an International Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. This chest will disappear at the end of September 3rd, 2012. The unusual couriers that may drop from this chest can only be found during the International.
+10047 You will need an International Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. This chest will disappear at the end of September 3rd, 2012. The unusual couriers that may drop from this chest can only be found during the International.
+115   This new item has no description.
+114   This new item has no description.
+117   This new item has no description.
+116   This new item has no description.
+111   This new item has no description.
+110   default body item
+113   This new item has no description.
+112   This new item has no description.
+119   This new item has no description.
+118   This new item has no description.
+4800  Against the caustic chems involved in the average experiment, they do nothing.  But they're good for peace of mind.
+4801  Carved and formed from Radiant ore.
+4802  With its triple reinforced outer shell, it's technically safer inside this pipe than in most castles.
+4638  In each blade is reflected an army.  In each strike is reflected an ideal.
+4804  Perfect for sliding through the bars of a cell, for a silent shiv in the dark. Just don't ask where he hides it.
+4805  The Duke of Levinthal, Elector of the Gleaming City, withstood Ostarion's besieging undead legions for many days before sallying forth to face the Immortal King in personal combat. This broken blade is the sole legacy of that ill-fated act of defiance.
+4806  Brag 'Whistlecheeks' Sharpeye was once the finest gun in all the Knollen, able to knock the toes off a troll at one thousand feet. He left his favorite gun to his grandson in the hopes that one day young Kardel would continue to build its legend.
+4807  Gramma Sharpeye never touched a rifle in her life, but she rolled a fine cigar and packed a solid cartridge. Every fifth eve, after chores were done gramma would sit by the fire and puff her cigar and rock her chair and pack enough cartridges to serve the entire family's shooting. Wear her favorite smokin' rug on your back as a memento of those happy days.
+4808  Veins of ragestone are well known to the keen and humans who have taken up masonry or mining. The material's strange magical influence has been known to drive men and beasts into bloody fits of madness and horrible acts of uncontrolled violence. Axe doesn't see what the problem is.
+4809  Encorselled by Elder Greyhoofs at the Clanfounding, a single note from this horn can call forth the great hordes of Druud to do battle at the end of all times. Bradwarden the Warrunner and vanguard of the Druud clans protects the horn and will, at the appointed hour, summon his brothers and sisters to make a final apocalyptic war.
+10135 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+10136 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+10137 As tide and temperature turn, life ebbs from the land.  The Diretide has arrived.
+10131 A special Death Prophet announcer pack, created for the 2012 Diretide event.
+10132 Fur and feather, beak and fang, Weaselcrow is just the thing!
+10133 The young Prismatic Drake displays a natural mimicry by which it blends into the mountainous piles of gems that make up its familial hoard. Thus disguised, the tiny and vulnerable young are safe from cave spiders, hoard-thieves and other predators. 
+10138 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+10139 You will need a Treasure Key to open this chest. You can pick one up at the DOTA 2 Store. Each chest series comes with a different selection of possible loot.
+15098 Used to open locked Treasure Chests.Double click or right-click the key in your backpack and select the chest you want to open.
+15076 The RaidCall Dota 2 League is a $10,000 online Dota 2 tournament series featuring the top Dota 2 teams from around the globe. Broadcast four days a week for over eight weeks, the D2L (as it's commonly called) is commentated live by Ayesee and invited guests.
+15077 StarLadder's Star Series is one of the most prestigious Dota 2 leagues, powered by Intel & Asus and casted by v1lat and TobiWan. The keystone of Star Series is the LAN final, held in Kiev CyberSport Arena, Ukraine. Watch the best Dota 2 teams compete for $15,000 and the title Star Series Champion.
+15090 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of times you've killed Roshan while wearing it.
+15091 A crystal containing pure Exort energy. The crystal is hot to the touch and exudes a magical aura of gruesome brutality.
+15092 A crystal containing pure Wex energy. The surface of the shard is in constant motion, emitting a magical aura of spirited zeal.
+15093 A crystal of pure Quas energy. It is cold and heavy, radiating a magical aura of stubborn tenacity.
+15094 A ball of swirling magical energy, pulsing with power.
+15095 A small marble of black crystal. Its perfectly polished surface consumes all light. A sense of terrible fear washes forth from its core.
+15096 The G-1 Championship League, hosted by 17173 Games, is the first Dota 2 tournament in China. Exciting matches await with teams like iG, LGD and DK competing for a prize pool of $50,000.
+15097 The G-1 Championship League, hosted by 17173 Games, is the first Dota 2 tournament in China. Exciting matches await with teams like iG, LGD and DK competing for a prize pool of $50,000.
+4248  So honored was Juggernaut by the death of the great beast, that he wears its tusk as a memento of their battle.
+4249  The great beast that gave the bone to make these bracers did not do so willingly, or without struggle.
+4246  A nameless weapon, wrapped in holy scripture taken from the Book of the All Seeing.
+4247  In the face of the great beast, Juggernaut saw bravery.  In the mask made from the creature's skull, Juggernaut's foes see death.
+4244  A helm as sharp as an axe.
+4245  The unusual edge of the Ringblade represents unending courage.
+4242  A spear with three edges. It seems to reflect the light strangely.
+4243  An archmagister must be the greatest at all things magical: spell-casting, scroll-reading, and costume-wearing.
+4240  Witch Doctor clearly has a thing for skulls.
+4241  When the Witch Doctor rose to his position of power over his tribe, he fashioned this staff from the remains of the old Doctor. Perhaps it was meant as an honor, but most saw it as a warning.
+15078 StarLadder's Star Series is one of the most prestigious Dota 2 leagues, powered by Intel & Asus and casted by v1lat and TobiWan. The keystone of Star Series is the LAN final, held in Kiev CyberSport Arena, Ukraine. Watch the best Dota 2 teams compete for $15,000 and the title Star Series Champion.
+20140 This bundle contains all of the items in the 'Councilor's Raiment' set for Rubick:
+15079 Killing Spree is a perpetual King of the Hill event featuring four premier teams from North America. Each team will battle their way to the top and attempt to win three matches in a row for a "killing spree". Hosted by NEO Dota.
+46    Omniknight's old hair
+47    A rusted and cruel looking meat hook.
+44    Omniknight's old hammer
+45    Omniknight's old face
+42    Omniknight's old shoulders
+43    Omniknight's old cape
+4398  The plagued dying threw themselves at Rotund'jere, offering their very souls for deliverance.  He was only too happy to accept.
+4399  The wayward spirits and wights lost between the planes soon become minerals to be mined and forged.
+15074 Used to open locked Treasure Chests.Double click or right-click the key in your backpack and select the chest you want to open.
+15075 The RaidCall Dota 2 League is a $10,000 online Dota 2 tournament series featuring the top Dota 2 teams from around the globe. Broadcast four days a week for over eight weeks, the D2L (as it's commonly called) is commentated live by Ayesee and invited guests.
+15072 Watch the top 16 teams from around the world compete in The International.
+15073 Watch the top 16 teams from around the world compete in The International.
+15070 Adding this Strange Modifier to a strange item of your choice will allow it to also count the number of times a single Cleave kills multiple enemy Heroes while wearing it as Sven.
+4390  Much like Morphling, the Direstone fell to earth. It is his pride to raise it high once again in this glorious crown.
+4391  There is no edge so keen as the edge of a dragon slayer's sword.
+4392  The dead of battle can breed many an odd fungus.  That suits Buttercup just fine.
+4393  It is a strange thing that such a calm and gentle creature as Buttercup be made to seem so fierce.
+4394  What smith dared forge these Direstone pauldrons, we may never know. But Morphling wears them with pride.
+4395  Hands are a warrior's greatest treasure. He must guard them well.
+4396  When she departed, Death's Bride left little to her young apprentice.
+4397  No stories remain of the woman who taught Krobelus her skill, only heirlooms and rumor.
